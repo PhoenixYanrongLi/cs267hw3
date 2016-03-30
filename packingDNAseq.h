@@ -105,4 +105,3 @@ int comparePackedSeq(const unsigned char *seq1, const unsigned char *seq2, int s
 }
 
 #endif // PACKING_DNA_SEQ_H
-

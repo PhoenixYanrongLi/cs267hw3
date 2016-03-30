@@ -27,8 +27,8 @@
 static double gettime(void) {
     struct timeval tv;
     if (gettimeofday(&tv, NULL)) {
-	perror("gettimeofday");
-	abort();
+   perror("gettimeofday");
+   abort();
     }
    return ((double)tv.tv_sec) + tv.tv_usec/1000000.0;
 }
@@ -59,7 +59,7 @@ struct bucket_t{
 typedef struct hash_table_t hash_table_t;
 struct hash_table_t {
    int64_t size;           // Size of the hash table
-   bucket_t *table;			// Entries of the hash table are pointers to buckets
+   bucket_t *table;        // Entries of the hash table are pointers to buckets
 };
 
 /* Memory heap data structure */
