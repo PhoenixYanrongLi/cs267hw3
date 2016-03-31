@@ -84,7 +84,15 @@ void add_kmer_to_start_list_upc(shared start_list_upc_t* startList, int64_t kmer
    shared[1] int64_t* tmpPt = startList->list + index;
    *tmpPt = kmerIdx;
    fprintf(file, "kmerIdx: %d\n", *tmpPt);
-   //fprintf(file, "kmerIdx0: %d\n", startList->list[0]);
+   fprintf(file, "kmerIdxPt: %d\n", tmpPt);
+   if(index > 0)
+	{
+		int64_t oldIndex = index - 1;
+		shared[1] int64_t* tmpPtOld = startList->list + oldIndex;
+		fprintf(file, "kmerIdxOld: %d\n", *tmpPtOld);
+		fprintf(file, "kmerIdxPtOld: %d\n", tmpPtOld);
+		//
+	}
 }
 
 void add_kmer_upc(shared hash_table_upc_t* hashTable, shared memory_heap_upc_t* memoryHeap, const unsigned char *kmer, 
@@ -252,13 +260,16 @@ int main(int argc, char *argv[]){
 		ptr += LINE_SIZE;
 		kmerIdx++;
 	}
-	static shared start_list_upc_t* startListPt = &startList;
+	shared start_list_upc_t* startListPt = &startList;
         shared[1] int64_t* sizePt = &startListPt->size;
-	int64_t aa150 = 2;
-	shared[1] int64_t* listPt = startListPt->list + aa150;
-	fprintf(debugOutputFile, "final size: %d\n", *sizePt);
-	fprintf(debugOutputFile, "final list[150]: %d\n", *listPt);	
-
+	
+	for(int64_t i = 0; i < 200; i++)
+{
+	//shared[1] int64_t** listPt = &(startListPt->list + i);
+	//fprintf(debugOutputFile, "final size: %d\n", *sizePt);
+	//fprintf(debugOutputFile, "list ele[0-199]: %d\n", *listPt);
+	//fprintf(debugOutputFile, "list ele Pt[0-199]: %d\n", listPt);	
+}
 
 static shared hash_table_upc_t* hashTablePt = &hashTable;
 shared[1] int64_t* tmpHTPt = hashTablePt->tableHead;
