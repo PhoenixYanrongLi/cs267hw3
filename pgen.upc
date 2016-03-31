@@ -31,6 +31,11 @@ typedef struct{
 	shared[1] int64_t* tableHead; // stores the index of the head in each bucket
 } hash_table_upc_t;
 
+int64_t mymin(int64_t a, int64_t b){
+    return a < b ? a : b;
+}
+
+
 void create_all_upc(int64_t nKmers, int64_t nKmersPerThread, int64_t nBuckets, 
 	shared memory_heap_upc_t* memoryHeap, shared hash_table_upc_t* hashTable,
 	shared start_list_upc_t* startList)
@@ -68,14 +73,18 @@ void create_all_upc(int64_t nKmers, int64_t nKmersPerThread, int64_t nBuckets,
 
 }
 
-void add_kmer_to_start_list_upc(start_list_upc_t* startList, int64_t kmerIdx)
+void add_kmer_to_start_list_upc(shared start_list_upc_t* startList, int64_t kmerIdx, FILE* file)
 {
-   int64_t* size_ptr = &(startList->size); //??????????????????????????????
-   int64_t index = bupc_atomicU64_fetchadd_relaxed(size_ptr, 1);
+  // int64_t* size_ptr = &(startList->size);
+   int64_t index = 0;
+   index = bupc_atomicI64_fetchadd_relaxed(&(startList->size), 1);
+   fprintf(file, "index: %d\n", index);
+   fprintf(file, "listsize: %d\n", startList->size);
    startList->list[index] = kmerIdx;
+   fprintf(file, "kmerIdx: %d\n", startList->list[index]);
 }
 
-void add_kmer_upc(hash_table_upc_t* hashTable, memory_heap_upc_t* memoryHeap, const unsigned char *kmer, 
+void add_kmer_upc(shared hash_table_upc_t* hashTable, shared memory_heap_upc_t* memoryHeap, const unsigned char *kmer, 
 			char left_ext, char right_ext, int64_t kmerIdx, int64_t nBuckets)
 {
 	/* Pack a k-mer sequence appropriately */
@@ -122,7 +131,7 @@ void add_kmer_upc(hash_table_upc_t* hashTable, memory_heap_upc_t* memoryHeap, co
 
 }
 
-kmer_upc_t lookup_kmer_upc(memory_heap_upc_t* memoryHeap, hash_table_upc_t* hashTable, 
+kmer_upc_t lookup_kmer_upc(shared memory_heap_upc_t* memoryHeap, shared hash_table_upc_t* hashTable, 
 							const unsigned char *kmer, int64_t nBuckets)
 {
    char packedKmer[KMER_PACKED_LENGTH];
@@ -182,7 +191,7 @@ int main(int argc, char *argv[]){
 	upc_barrier;
 
 	int64_t nKmersPerThread = (nKmers + THREADS - 1) / THREADS;
-	int64_t nKmersThisThread = min(nKmersPerThread * (MYTHREAD + 1), nKmers) - nKmersPerThread * MYTHREAD;
+	int64_t nKmersThisThread = mymin(nKmersPerThread * (MYTHREAD + 1), nKmers) - nKmersPerThread * MYTHREAD;
 	int64_t nBuckets = nKmers * LOAD_FACTOR;
 	nBuckets = (nBuckets + THREADS - 1) / THREADS * THREADS;
 
@@ -210,7 +219,13 @@ int main(int argc, char *argv[]){
 	static shared start_list_upc_t startList;
 
 	create_all_upc(nKmers, nKmersPerThread, nBuckets, &memoryHeap, &hashTable, &startList);
-
+        /////////////
+        // for debug
+        char* debugfilename = (char*) malloc((strlen("meow")+5+64)*sizeof(char));
+        sprintf(debugfilename, "%s_%d.out", "meow", MYTHREAD);
+        FILE* debugOutputFile = fopen(debugfilename, "w");
+        free(debugfilename);
+        //////////////////
 	int64_t startIdx = nKmersPerThread * MYTHREAD;
 	//put_kmers_in_hashtable(hashtable, memory_heap, &start_list, aux, buffer, buffer_size, start_index);
 	int64_t ptr = 0;
@@ -220,13 +235,23 @@ int main(int argc, char *argv[]){
 		left_ext = (char)working_buffer[ptr+KMER_LENGTH+1];
 		right_ext = (char)working_buffer[ptr+KMER_LENGTH+2];
 		add_kmer_upc(&hashTable, &memoryHeap, &working_buffer[ptr], left_ext, right_ext, kmerIdx, nBuckets);
-		if(left_ext == "F")
-			add_kmer_to_start_list_upc(&startList, kmerIdx);
+		if(left_ext == 'F')
+		{
+                	add_kmer_to_start_list_upc(&startList, kmerIdx, debugOutputFile);
+                	fprintf(debugOutputFile, "!\n");
+                        int64_t tmpInt = startList.size;
+			fprintf(debugOutputFile, "This is startlist-size???: %d\n", tmpInt);
+ 		//	fprintf(debugOutputFile, "%d\n", startList.list[0]);
+ 		}      
 		ptr += LINE_SIZE;
 		kmerIdx++;
 	}
+	fprintf(debugOutputFile, "final size: %d\n", startList.size);
+	//fprintf(debugOutputFile, "final list[0]: %d\n", startList.list[0]);
 	free(working_buffer);     
-
+        /////////////////for debug
+        fclose(debugOutputFile);
+        ////////
 	upc_barrier;
 	constrTime += gettime();
 
@@ -236,26 +261,39 @@ int main(int argc, char *argv[]){
 	// Your code for graph traversal and output printing here //
 	// Save your output to "pgen.out"                         //
 	////////////////////////////////////////////////////////////
-	char* filename = (char*) malloc((strlen("output") + 5 + 64) * sizeof(char));
-	sprintf(filename, "%s_%d.out", "output", MYTHREAD);
+	char* filename = (char*) malloc((strlen("pgen") + 5 + 64) * sizeof(char));
+	sprintf(filename, "%s_%d.out", "pgen", MYTHREAD);
 	FILE* upcOutputFile = fopen(filename, "w");
+	fprintf(upcOutputFile, "meow0");
 	free(filename);
 	///////////////
 	/* Pick start nodes from the startKmersList */
+    fprintf(upcOutputFile, "meow1");
     char unpackedKmer[KMER_LENGTH+1];
-    unpackedKmer[KMER_LENGTH] = "\0";
+    unpackedKmer[KMER_LENGTH] = '\0';
     char cur_contig[MAXIMUM_CONTIG_SIZE];
 
-
-    shared int64_t* list_ptr = startList.list;
-    upc_forall(int64_t i = 0; i < startList.size; i++; &list_ptr[i]) //??????????????????????
+    fprintf(upcOutputFile, "meow2");
+    shared[1] int64_t* list_ptr = startList.list;
+    fprintf(upcOutputFile, "meow3");
+    fprintf(upcOutputFile, "nkmers = %d\n", nKmers);
+    fprintf(upcOutputFile, "nBuckets = %d\n", nBuckets);
+    //if(MYTHREAD == 0)
+      //  for(int64_t i = 0; i < nBuckets; i+=100)
+      //      fprintf(upcOutputFile, hashTable.tableHead[i]);
+    fprintf(upcOutputFile, "startListSize = %d\n", startList.size);
+    shared start_list_upc_t* tmp = &startList;
+    upc_forall(int64_t i = 0; i < startList.size; i++; &tmp[i]) //??????????????????????
     {
+	fprintf(upcOutputFile, "meow4");
     	int64_t startKmerIdx = startList.list[i];
     	kmer_upc_t curKmer = memoryHeap.heap[startKmerIdx];
     	unpackSequence((unsigned char*) curKmer.kmer, unpackedKmer, KMER_LENGTH);
     	memcpy(cur_contig, unpackedKmer, KMER_LENGTH * sizeof(char));
     	int64_t posInContig = KMER_LENGTH;
     	char right_ext = curKmer.r_ext;
+        if(i == 0)
+            fprintf(upcOutputFile, "meow5");
 
     	while(right_ext != 'F')
     	{
