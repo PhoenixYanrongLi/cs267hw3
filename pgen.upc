@@ -80,11 +80,10 @@ void add_kmer_to_start_list_upc(shared start_list_upc_t* startList, int64_t kmer
   // int64_t* size_ptr = &(startList->size);
    int64_t index = 0;
    index = bupc_atomicI64_fetchadd_relaxed(&startList->size, 1);
-  // fprintf(file, "index: %d\n", index);
+   fprintf(file, "index: %d\n", index);
    shared[1] int64_t* tmpPt = startList->list + index;
-   //fprintf(file, "listsize: %d\n", *tmpPt);
    *tmpPt = kmerIdx;
-   //fprintf(file, "kmerIdx: %d\n", startList->list[index]);
+   fprintf(file, "kmerIdx: %d\n", *tmpPt);
    //fprintf(file, "kmerIdx0: %d\n", startList->list[0]);
 }
 
@@ -255,13 +254,21 @@ int main(int argc, char *argv[]){
 	}
 	static shared start_list_upc_t* startListPt = &startList;
         shared[1] int64_t* sizePt = &startListPt->size;
+	int64_t aa150 = 2;
+	shared[1] int64_t* listPt = startListPt->list + aa150;
 	fprintf(debugOutputFile, "final size: %d\n", *sizePt);
-	//fprintf(debugOutputFile, "final list[0]: %d\n", startList.list[0]);
-	
-/*for(int i = 0; i < nBuckets; i++)
+	fprintf(debugOutputFile, "final list[150]: %d\n", *listPt);	
+
+
+static shared hash_table_upc_t* hashTablePt = &hashTable;
+shared[1] int64_t* tmpHTPt = hashTablePt->tableHead;
+/*for(int64_t i = 0; i < 1; i++)
 	{
-		if(hashTable.tableHead[0] != -1)
-        		fprintf(debugOutputFile, "hashTable[0]: %d\n", hashTable.tableHead[0]);
+		if(*(tmpHTPt + i) != -1){
+        		fprintf(debugOutputFile, "hashTable[i]: %d\n", *(tmpHTPt + i));
+			fprintf(debugOutputFile, "the ith bucket: %d\n", i);
+			
+		}
 	}*/
 	free(working_buffer);     
         /////////////////for debug
