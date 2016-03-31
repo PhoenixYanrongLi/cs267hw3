@@ -38,7 +38,7 @@ int64_t mymin(int64_t a, int64_t b){
 
 void create_all_upc(int64_t nKmers, int64_t nKmersPerThread, int64_t nBuckets, 
 	shared memory_heap_upc_t* memoryHeap, shared hash_table_upc_t* hashTable,
-	shared start_list_upc_t* startList)
+	shared start_list_upc_t* startList, FILE* debugOutputFile)
 {
 	//Init memory heap
 	memoryHeap->heap = (shared[1] kmer_upc_t*) upc_all_alloc(THREADS * nKmersPerThread, sizeof(kmer_upc_t));
@@ -60,6 +60,8 @@ void create_all_upc(int64_t nKmers, int64_t nKmersPerThread, int64_t nBuckets,
 	upc_forall(int64_t i = 0; i < nBuckets; i++; &bucketList[i])
 	{
 		bucketList[i] = -1;
+	//	if(i == 0)
+	//		fprintf(debugOutputFile, "bucketList: %lld\n", bucketList[i]);
 	}
 
 	//Init start list
@@ -77,15 +79,17 @@ void add_kmer_to_start_list_upc(shared start_list_upc_t* startList, int64_t kmer
 {
   // int64_t* size_ptr = &(startList->size);
    int64_t index = 0;
-   index = bupc_atomicI64_fetchadd_relaxed(&(startList->size), 1);
-   fprintf(file, "index: %d\n", index);
-   fprintf(file, "listsize: %d\n", startList->size);
-   startList->list[index] = kmerIdx;
-   fprintf(file, "kmerIdx: %d\n", startList->list[index]);
+   index = bupc_atomicI64_fetchadd_relaxed(&startList->size, 1);
+  // fprintf(file, "index: %d\n", index);
+   shared[1] int64_t* tmpPt = startList->list + index;
+   //fprintf(file, "listsize: %d\n", *tmpPt);
+   *tmpPt = kmerIdx;
+   //fprintf(file, "kmerIdx: %d\n", startList->list[index]);
+   //fprintf(file, "kmerIdx0: %d\n", startList->list[0]);
 }
 
 void add_kmer_upc(shared hash_table_upc_t* hashTable, shared memory_heap_upc_t* memoryHeap, const unsigned char *kmer, 
-			char left_ext, char right_ext, int64_t kmerIdx, int64_t nBuckets)
+			char left_ext, char right_ext, int64_t kmerIdx, int64_t nBuckets, FILE* debugOutputFile)
 {
 	/* Pack a k-mer sequence appropriately */
 	char packedKmer[KMER_PACKED_LENGTH];
@@ -110,7 +114,10 @@ void add_kmer_upc(shared hash_table_upc_t* hashTable, shared memory_heap_upc_t* 
 	*kmer_ptr = new_kmer;
 
 	shared[1] int64_t* bucket_ptr = hashTable->tableHead + hashVal;
-
+	//fprintf(debugOutputFile, "hashVal = %d\n", hashVal);
+	//if(*bucket_ptr != -1)
+	//	fprintf(debugOutputFile, "bucketHead = %d\n", *bucket_ptr);
+	//fprintf(debugOutputFile, "tmpk = %d\n", tmpk);
 	int64_t old = -1;
 	int64_t bucket_index = old;
 	do
@@ -218,7 +225,7 @@ int main(int argc, char *argv[]){
 	static shared hash_table_upc_t hashTable;
 	static shared start_list_upc_t startList;
 
-	create_all_upc(nKmers, nKmersPerThread, nBuckets, &memoryHeap, &hashTable, &startList);
+
         /////////////
         // for debug
         char* debugfilename = (char*) malloc((strlen("meow")+5+64)*sizeof(char));
@@ -226,6 +233,9 @@ int main(int argc, char *argv[]){
         FILE* debugOutputFile = fopen(debugfilename, "w");
         free(debugfilename);
         //////////////////
+
+
+	create_all_upc(nKmers, nKmersPerThread, nBuckets, &memoryHeap, &hashTable, &startList, debugOutputFile);
 	int64_t startIdx = nKmersPerThread * MYTHREAD;
 	//put_kmers_in_hashtable(hashtable, memory_heap, &start_list, aux, buffer, buffer_size, start_index);
 	int64_t ptr = 0;
@@ -234,20 +244,25 @@ int main(int argc, char *argv[]){
 	while(ptr < cur_chars_read) {
 		left_ext = (char)working_buffer[ptr+KMER_LENGTH+1];
 		right_ext = (char)working_buffer[ptr+KMER_LENGTH+2];
-		add_kmer_upc(&hashTable, &memoryHeap, &working_buffer[ptr], left_ext, right_ext, kmerIdx, nBuckets);
+		add_kmer_upc(&hashTable, &memoryHeap, &working_buffer[ptr], left_ext, right_ext, kmerIdx, nBuckets, debugOutputFile);
 		if(left_ext == 'F')
 		{
                 	add_kmer_to_start_list_upc(&startList, kmerIdx, debugOutputFile);
-                	fprintf(debugOutputFile, "!\n");
-                        int64_t tmpInt = startList.size;
-			fprintf(debugOutputFile, "This is startlist-size???: %d\n", tmpInt);
- 		//	fprintf(debugOutputFile, "%d\n", startList.list[0]);
+			
  		}      
 		ptr += LINE_SIZE;
 		kmerIdx++;
 	}
-	fprintf(debugOutputFile, "final size: %d\n", startList.size);
+	static shared start_list_upc_t* startListPt = &startList;
+        shared[1] int64_t* sizePt = &startListPt->size;
+	fprintf(debugOutputFile, "final size: %d\n", *sizePt);
 	//fprintf(debugOutputFile, "final list[0]: %d\n", startList.list[0]);
+	
+/*for(int i = 0; i < nBuckets; i++)
+	{
+		if(hashTable.tableHead[0] != -1)
+        		fprintf(debugOutputFile, "hashTable[0]: %d\n", hashTable.tableHead[0]);
+	}*/
 	free(working_buffer);     
         /////////////////for debug
         fclose(debugOutputFile);
