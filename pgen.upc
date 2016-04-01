@@ -65,34 +65,73 @@ void create_all_upc(int64_t nKmers, int64_t nKmersPerThread, int64_t nBuckets,
 	}
 
 	//Init start list
-	startList->list = (shared[1] int64_t*) upc_all_alloc(nKmers, sizeof(int64_t));
+	//shared int64_t* tempPt = startList->list;
+	startList->list = (shared[1] int64_t*)upc_all_alloc(nKmers, sizeof(int64_t));
+	//startList->list = tempPt;
 	if (startList->list == NULL) {
 		fprintf(stderr, "ERROR: Could not allocate memory for the start list!\n");
 		exit(1);
 	}
+
+        shared int64_t* listList = startList->list;
+
+	upc_forall(int64_t i = 0; i < nKmers; i++; &listList[i])
+	{
+		listList[i] = -1;
+	}
 	if (MYTHREAD == 0)
 		startList->size = 0;
+
+	shared kmer_upc_t* heapList = memoryHeap->heap;
+for(int64_t i = 0; i < 100; i++)
+{
+//	fprintf(debugOutputFile, "addHashTable: %p\n", (bucketList+i));
+	fprintf(debugOutputFile, "addHashTable: %p\n", (void*)(&bucketList[i]));
+//	fprintf(debugOutputFile, "addStartList: %p\n", (listList+i));
+	fprintf(debugOutputFile, "addStartList: %p\n", (void*)(&listList[i]));
+	fprintf(debugOutputFile, "addMemoryHeap: %p\n", (void*)(&heapList[i]));
+}
+
 
 }
 
 void add_kmer_to_start_list_upc(shared start_list_upc_t* startList, int64_t kmerIdx, FILE* file)
 {
   // int64_t* size_ptr = &(startList->size);
-   int64_t index = 0;
-   index = bupc_atomicI64_fetchadd_relaxed(&startList->size, 1);
-   fprintf(file, "index: %d\n", index);
-   shared[1] int64_t* tmpPt = startList->list + index;
-   *tmpPt = kmerIdx;
-   fprintf(file, "kmerIdx: %d\n", *tmpPt);
-   fprintf(file, "kmerIdxPt: %d\n", tmpPt);
-   if(index > 0)
+   int64_t idx = (int64_t)bupc_atomicI64_fetchadd_relaxed(&(startList->size), (int64_t)1);
+   fprintf(file, "index: %d\n", idx);
+   shared[1] int64_t* tmpPt = startList->list;
+   fprintf(file, "BasePt: %p\n", (void *)(tmpPt));
+   fprintf(file, "BasePt+0: %p\n", (void *)(tmpPt+0));
+   //fprintf(file, "WhatsHereBefore: %d\n", *(tmpPt+idx));
+   //fprintf(file, "WhatsHereAfter: %d\n", *(tmpPt+idx));
+   fprintf(file, "BasePt+idx: %p\n", (void *)(tmpPt+idx));
+   for(int64_t i = 0; i < 9; i++)
+   {
+      fprintf(file, "*******\n base+%d, pt: %p\n", i, (void*)(tmpPt+i));
+   }
+   for(int64_t i = idx; i < idx+9; i++)
+   {
+      fprintf(file, "*******\n base+%d, pt: %p\n", i, (void*)(tmpPt+i));
+   }
+
+  /* if(idx > 0)
 	{
-		int64_t oldIndex = index - 1;
+		int64_t oldIndex = idx - 1;
 		shared[1] int64_t* tmpPtOld = startList->list + oldIndex;
 		fprintf(file, "kmerIdxOld: %d\n", *tmpPtOld);
-		fprintf(file, "kmerIdxPtOld: %d\n", tmpPtOld);
+		fprintf(file, "kmerIdxPtOld: %p\n", (void *)tmpPtOld);
 		//
-	}
+	}*/
+   // startList->list[idx] = kmerIdx;
+  /*  fprintf(file, "kmerIdx: %d\n", startList->list[idx]);
+    fprintf(file, "kmerIdxPt: %p\n", (void *)&(startList->list[idx]));
+    if(idx > 0)
+        {
+            fprintf(file, "oldKmerIdx: %d\n", startList->list[idx-1]);
+            fprintf(file, "oldKmerIdxPt: %p\n", (void *)&(startList->list[idx-1]));
+        }*/
+
 }
 
 void add_kmer_upc(shared hash_table_upc_t* hashTable, shared memory_heap_upc_t* memoryHeap, const unsigned char *kmer, 
@@ -263,24 +302,44 @@ int main(int argc, char *argv[]){
 	shared start_list_upc_t* startListPt = &startList;
         shared[1] int64_t* sizePt = &startListPt->size;
 	
+	shared[1] int64_t* listPt = startListPt->list;
+	fprintf(debugOutputFile, "basePt: %p\n", (void*)(listPt));
 	for(int64_t i = 0; i < 200; i++)
 {
 	//shared[1] int64_t** listPt = &(startListPt->list + i);
 	//fprintf(debugOutputFile, "final size: %d\n", *sizePt);
-	//fprintf(debugOutputFile, "list ele[0-199]: %d\n", *listPt);
-	//fprintf(debugOutputFile, "list ele Pt[0-199]: %d\n", listPt);	
+	fprintf(debugOutputFile, "list ele[0-199]: %d\n", *(listPt+i));
+	fprintf(debugOutputFile, "list ele Idx[0-199]: %d\n", i);
+	fprintf(debugOutputFile, "list ele Pt[0-199]: %p\n", (void*)(listPt+i));	
 }
 
 static shared hash_table_upc_t* hashTablePt = &hashTable;
 shared[1] int64_t* tmpHTPt = hashTablePt->tableHead;
-/*for(int64_t i = 0; i < 1; i++)
+
+static shared memory_heap_upc_t* memoryHeapPt = &memoryHeap;
+shared[1] kmer_upc_t* tmpMHPt = memoryHeapPt->heap;
+int hasNext = 0;
+for(int64_t i = 0; i < 100; i++)
 	{
-		if(*(tmpHTPt + i) != -1){
         		fprintf(debugOutputFile, "hashTable[i]: %d\n", *(tmpHTPt + i));
 			fprintf(debugOutputFile, "the ith bucket: %d\n", i);
-			
-		}
-	}*/
+			fprintf(debugOutputFile, "hashTableAdd[i]: %p\n", (void*) (tmpHTPt + i));
+		fprintf(debugOutputFile, "memoryHeap[i]: %c\n", (*(tmpMHPt+i)).l_ext);
+		fprintf(debugOutputFile, "memoryHeapAdd[i]: %p\n",(void*)(tmpMHPt+i));
+//	if((*(tmpMHPt+i)).next != -1)
+		//fprintf(debugOutputFile, "memoryHeap: %d\n", (*(tmpMHPt+i)).next);		
+//		hasNext++;
+	}
+/*
+//	fprintf(debugOutputFile, "hasNext: %d\n", hasNext);
+int filledBucket = 0;
+for(int64_t i = 0; i < nBucket; i++)
+{
+	if(*(tmpHTPT+i) != -1)
+		filledBucket++;
+}
+fprintf(debugOutputFile, "filledBucket: %d\n", filledBucket);
+*/
 	free(working_buffer);     
         /////////////////for debug
         fclose(debugOutputFile);
