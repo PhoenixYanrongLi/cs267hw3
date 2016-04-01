@@ -1,7 +1,0 @@
-Detected 4514197 kmers in text UFX file: test
-Generated 5736 contigs with 4617445 total bases
-Total execution time: 1.830000 seconds (0.810000 graph construction / 1.020000 graph traversal)
-UPCR: UPC thread 0 of 3 on nid00295 (pshm node 0 of 1, process 0 of 3, pid=2600)
-UPCR: UPC thread 1 of 3 on nid00295 (pshm node 0 of 1, process 1 of 3, pid=2601)
-UPCR: UPC thread 2 of 3 on nid00295 (pshm node 0 of 1, process 2 of 3, pid=2602)
-Files serial.sorted and pgen.sorted differ
