@@ -86,13 +86,13 @@ void add_kmer_to_start_list_upc(shared start_list_upc_t* startList, shared start
 {
    //shared[1] int64_t* size_ptr = &(startList->size);
    int64_t idx = (int64_t)bupc_atomicI64_fetchadd_relaxed(&(startSize->size), (int64_t)1);
-   fprintf(file, "index: %d\n", idx);
+  // fprintf(file, "index: %d\n", idx);
    shared[1] int64_t* tmpPt = startList->list;
    *(tmpPt + idx) = kmerIdx;
    //fprintf(file, "BasePt: %p\n", (void *)(tmpPt));
    //fprintf(file, "BasePt+0: %p\n", (void *)(tmpPt+0));
-   fprintf(file, "BasePt+idx: %p\n", (void *)(tmpPt+idx));
-   fprintf(file, "kmerIdx: %d\n", *(tmpPt + idx));
+  // fprintf(file, "BasePt+idx: %p\n", (void *)(tmpPt+idx));
+  // fprintf(file, "kmerIdx: %d\n", *(tmpPt + idx));
 }
 
 void add_kmer_upc(shared hash_table_upc_t* hashTable, shared memory_heap_upc_t* memoryHeap, const unsigned char *kmer, 
@@ -262,7 +262,7 @@ int main(int argc, char *argv[]){
 	static shared memory_heap_upc_t* memoryHeapPt = &memoryHeap;
 	shared[1] kmer_upc_t* heapPt = memoryHeapPt->heap;
 
-	for(int64_t i = 0; i < 200; i++)
+/*	for(int64_t i = 0; i < 200; i++)
 	{
 		//shared[1] int64_t** listPt = &(startListPt->list + i);
 		fprintf(debugOutputFile, "final size: %d\n", *sizePt);
@@ -270,7 +270,7 @@ int main(int argc, char *argv[]){
 		fprintf(debugOutputFile, "list ele Idx[0-199]: %d\n", i);
 		fprintf(debugOutputFile, "list ele Pt[0-199]: %p\n", (void*)(listPt+i));	
 	}
-
+*/
 	free(working_buffer);     
     /////////////////for debug
     fclose(debugOutputFile);
