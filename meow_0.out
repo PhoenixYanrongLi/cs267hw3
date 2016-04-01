@@ -1,0 +1,5720 @@
+index: 0
+BasePt+idx: 0x2aab2867b000
+kmerIdx: 0
+index: 6
+BasePt+idx: 0x2aab2867b010
+kmerIdx: 3580
+index: 11
+BasePt+idx: 0x2aab2867b018
+kmerIdx: 5029
+index: 15
+BasePt+idx: 0x2aab2867b028
+kmerIdx: 5857
+index: 16
+BasePt+idx: 0x2aab2867b028
+kmerIdx: 6219
+index: 21
+BasePt+idx: 0x2aab2867b038
+kmerIdx: 9791
+index: 24
+BasePt+idx: 0x2aab2867b040
+kmerIdx: 10873
+index: 30
+BasePt+idx: 0x2aab2867b050
+kmerIdx: 15890
+index: 33
+BasePt+idx: 0x2aab2867b058
+kmerIdx: 17247
+index: 35
+BasePt+idx: 0x2aab2867b058
+kmerIdx: 18240
+index: 38
+BasePt+idx: 0x2aab2867b060
+kmerIdx: 20464
+index: 43
+BasePt+idx: 0x2aab2867b070
+kmerIdx: 22822
+index: 47
+BasePt+idx: 0x2aab2867b078
+kmerIdx: 25471
+index: 49
+BasePt+idx: 0x2aab2867b080
+kmerIdx: 27086
+index: 57
+BasePt+idx: 0x2aab2867b098
+kmerIdx: 29933
+index: 58
+BasePt+idx: 0x2aab2867b098
+kmerIdx: 30187
+index: 63
+BasePt+idx: 0x2aab2867b0a8
+kmerIdx: 31631
+index: 65
+BasePt+idx: 0x2aab2867b0a8
+kmerIdx: 33015
+index: 66
+BasePt+idx: 0x2aab2867b0b0
+kmerIdx: 33188
+index: 70
+BasePt+idx: 0x2aab2867b0b8
+kmerIdx: 34533
+index: 71
+BasePt+idx: 0x2aab2867b0b8
+kmerIdx: 34732
+index: 75
+BasePt+idx: 0x2aab2867b0c8
+kmerIdx: 35470
+index: 76
+BasePt+idx: 0x2aab2867b0c8
+kmerIdx: 35676
+index: 82
+BasePt+idx: 0x2aab2867b0d8
+kmerIdx: 37369
+index: 89
+BasePt+idx: 0x2aab2867b0e8
+kmerIdx: 39933
+index: 92
+BasePt+idx: 0x2aab2867b0f0
+kmerIdx: 40838
+index: 93
+BasePt+idx: 0x2aab2867b0f8
+kmerIdx: 41708
+index: 97
+BasePt+idx: 0x2aab2867b100
+kmerIdx: 44134
+index: 98
+BasePt+idx: 0x2aab2867b100
+kmerIdx: 45271
+index: 104
+BasePt+idx: 0x2aab2867b110
+kmerIdx: 46280
+index: 106
+BasePt+idx: 0x2aab2867b118
+kmerIdx: 47747
+index: 113
+BasePt+idx: 0x2aab2867b128
+kmerIdx: 50828
+index: 114
+BasePt+idx: 0x2aab2867b130
+kmerIdx: 51119
+index: 116
+BasePt+idx: 0x2aab2867b130
+kmerIdx: 52052
+index: 122
+BasePt+idx: 0x2aab2867b140
+kmerIdx: 55638
+index: 123
+BasePt+idx: 0x2aab2867b148
+kmerIdx: 56135
+index: 125
+BasePt+idx: 0x2aab2867b148
+kmerIdx: 56782
+index: 129
+BasePt+idx: 0x2aab2867b158
+kmerIdx: 57917
+index: 133
+BasePt+idx: 0x2aab2867b160
+kmerIdx: 59757
+index: 134
+BasePt+idx: 0x2aab2867b160
+kmerIdx: 59928
+index: 137
+BasePt+idx: 0x2aab2867b168
+kmerIdx: 60755
+index: 143
+BasePt+idx: 0x2aab2867b178
+kmerIdx: 62039
+index: 147
+BasePt+idx: 0x2aab2867b188
+kmerIdx: 64576
+index: 148
+BasePt+idx: 0x2aab2867b188
+kmerIdx: 65019
+index: 149
+BasePt+idx: 0x2aab2867b188
+kmerIdx: 66134
+index: 151
+BasePt+idx: 0x2aab2867b190
+kmerIdx: 66619
+index: 154
+BasePt+idx: 0x2aab2867b198
+kmerIdx: 67644
+index: 157
+BasePt+idx: 0x2aab2867b1a0
+kmerIdx: 68520
+index: 160
+BasePt+idx: 0x2aab2867b1a8
+kmerIdx: 68950
+index: 161
+BasePt+idx: 0x2aab2867b1a8
+kmerIdx: 69362
+index: 165
+BasePt+idx: 0x2aab2867b1b8
+kmerIdx: 70673
+index: 171
+BasePt+idx: 0x2aab2867b1c8
+kmerIdx: 72765
+index: 172
+BasePt+idx: 0x2aab2867b1c8
+kmerIdx: 73331
+index: 176
+BasePt+idx: 0x2aab2867b1d0
+kmerIdx: 74646
+index: 179
+BasePt+idx: 0x2aab2867b1d8
+kmerIdx: 75762
+index: 180
+BasePt+idx: 0x2aab2867b1e0
+kmerIdx: 75968
+index: 183
+BasePt+idx: 0x2aab2867b1e8
+kmerIdx: 77211
+index: 186
+BasePt+idx: 0x2aab2867b1f0
+kmerIdx: 78842
+index: 192
+BasePt+idx: 0x2aab2867b200
+kmerIdx: 81022
+index: 194
+BasePt+idx: 0x2aab2867b200
+kmerIdx: 82761
+index: 197
+BasePt+idx: 0x2aab2867b208
+kmerIdx: 83744
+index: 201
+BasePt+idx: 0x2aab2867b218
+kmerIdx: 85418
+index: 204
+BasePt+idx: 0x2aab2867b220
+kmerIdx: 85656
+index: 213
+BasePt+idx: 0x2aab2867b238
+kmerIdx: 90450
+index: 217
+BasePt+idx: 0x2aab2867b240
+kmerIdx: 91782
+index: 223
+BasePt+idx: 0x2aab2867b250
+kmerIdx: 94325
+index: 225
+BasePt+idx: 0x2aab2867b258
+kmerIdx: 94787
+index: 227
+BasePt+idx: 0x2aab2867b258
+kmerIdx: 95850
+index: 230
+BasePt+idx: 0x2aab2867b260
+kmerIdx: 97578
+index: 234
+BasePt+idx: 0x2aab2867b270
+kmerIdx: 98719
+index: 238
+BasePt+idx: 0x2aab2867b278
+kmerIdx: 99749
+index: 239
+BasePt+idx: 0x2aab2867b278
+kmerIdx: 100036
+index: 240
+BasePt+idx: 0x2aab2867b280
+kmerIdx: 100781
+index: 247
+BasePt+idx: 0x2aab2867b290
+kmerIdx: 105779
+index: 251
+BasePt+idx: 0x2aab2867b298
+kmerIdx: 106921
+index: 262
+BasePt+idx: 0x2aab2867b2b8
+kmerIdx: 110848
+index: 268
+BasePt+idx: 0x2aab2867b2c8
+kmerIdx: 111925
+index: 278
+BasePt+idx: 0x2aab2867b2e0
+kmerIdx: 115077
+index: 281
+BasePt+idx: 0x2aab2867b2e8
+kmerIdx: 115432
+index: 283
+BasePt+idx: 0x2aab2867b2f0
+kmerIdx: 115963
+index: 284
+BasePt+idx: 0x2aab2867b2f0
+kmerIdx: 116374
+index: 288
+BasePt+idx: 0x2aab2867b300
+kmerIdx: 117207
+index: 295
+BasePt+idx: 0x2aab2867b310
+kmerIdx: 119756
+index: 299
+BasePt+idx: 0x2aab2867b318
+kmerIdx: 122034
+index: 301
+BasePt+idx: 0x2aab2867b320
+kmerIdx: 122590
+index: 305
+BasePt+idx: 0x2aab2867b328
+kmerIdx: 124370
+index: 307
+BasePt+idx: 0x2aab2867b330
+kmerIdx: 125735
+index: 309
+BasePt+idx: 0x2aab2867b338
+kmerIdx: 126335
+index: 319
+BasePt+idx: 0x2aab2867b350
+kmerIdx: 128838
+index: 324
+BasePt+idx: 0x2aab2867b360
+kmerIdx: 130015
+index: 329
+BasePt+idx: 0x2aab2867b368
+kmerIdx: 131345
+index: 333
+BasePt+idx: 0x2aab2867b378
+kmerIdx: 132808
+index: 335
+BasePt+idx: 0x2aab2867b378
+kmerIdx: 133927
+index: 336
+BasePt+idx: 0x2aab2867b380
+kmerIdx: 134387
+index: 340
+BasePt+idx: 0x2aab2867b388
+kmerIdx: 136044
+index: 349
+BasePt+idx: 0x2aab2867b3a0
+kmerIdx: 139584
+index: 350
+BasePt+idx: 0x2aab2867b3a0
+kmerIdx: 139875
+index: 352
+BasePt+idx: 0x2aab2867b3a8
+kmerIdx: 140608
+index: 359
+BasePt+idx: 0x2aab2867b3b8
+kmerIdx: 142928
+index: 361
+BasePt+idx: 0x2aab2867b3c0
+kmerIdx: 144275
+index: 365
+BasePt+idx: 0x2aab2867b3c8
+kmerIdx: 145863
+index: 369
+BasePt+idx: 0x2aab2867b3d8
+kmerIdx: 147037
+index: 371
+BasePt+idx: 0x2aab2867b3d8
+kmerIdx: 147735
+index: 375
+BasePt+idx: 0x2aab2867b3e8
+kmerIdx: 148427
+index: 384
+BasePt+idx: 0x2aab2867b400
+kmerIdx: 150695
+index: 387
+BasePt+idx: 0x2aab2867b408
+kmerIdx: 152290
+index: 392
+BasePt+idx: 0x2aab2867b410
+kmerIdx: 153179
+index: 398
+BasePt+idx: 0x2aab2867b420
+kmerIdx: 154458
+index: 403
+BasePt+idx: 0x2aab2867b430
+kmerIdx: 155167
+index: 407
+BasePt+idx: 0x2aab2867b438
+kmerIdx: 156439
+index: 409
+BasePt+idx: 0x2aab2867b440
+kmerIdx: 156629
+index: 411
+BasePt+idx: 0x2aab2867b448
+kmerIdx: 157034
+index: 415
+BasePt+idx: 0x2aab2867b450
+kmerIdx: 159543
+index: 419
+BasePt+idx: 0x2aab2867b458
+kmerIdx: 159966
+index: 432
+BasePt+idx: 0x2aab2867b480
+kmerIdx: 162911
+index: 435
+BasePt+idx: 0x2aab2867b488
+kmerIdx: 163547
+index: 448
+BasePt+idx: 0x2aab2867b4a8
+kmerIdx: 167674
+index: 457
+BasePt+idx: 0x2aab2867b4c0
+kmerIdx: 170739
+index: 459
+BasePt+idx: 0x2aab2867b4c8
+kmerIdx: 171272
+index: 462
+BasePt+idx: 0x2aab2867b4d0
+kmerIdx: 172537
+index: 466
+BasePt+idx: 0x2aab2867b4d8
+kmerIdx: 174134
+index: 470
+BasePt+idx: 0x2aab2867b4e0
+kmerIdx: 176185
+index: 482
+BasePt+idx: 0x2aab2867b500
+kmerIdx: 179126
+index: 488
+BasePt+idx: 0x2aab2867b510
+kmerIdx: 180828
+index: 495
+BasePt+idx: 0x2aab2867b528
+kmerIdx: 183266
+index: 505
+BasePt+idx: 0x2aab2867b540
+kmerIdx: 185668
+index: 510
+BasePt+idx: 0x2aab2867b550
+kmerIdx: 186912
+index: 516
+BasePt+idx: 0x2aab2867b560
+kmerIdx: 187993
+index: 522
+BasePt+idx: 0x2aab2867b570
+kmerIdx: 189316
+index: 532
+BasePt+idx: 0x2aab2867b588
+kmerIdx: 190973
+index: 538
+BasePt+idx: 0x2aab2867b598
+kmerIdx: 193454
+index: 548
+BasePt+idx: 0x2aab2867b5b0
+kmerIdx: 195626
+index: 551
+BasePt+idx: 0x2aab2867b5b8
+kmerIdx: 196045
+index: 557
+BasePt+idx: 0x2aab2867b5c8
+kmerIdx: 196924
+index: 560
+BasePt+idx: 0x2aab2867b5d0
+kmerIdx: 197688
+index: 568
+BasePt+idx: 0x2aab2867b5e8
+kmerIdx: 199641
+index: 574
+BasePt+idx: 0x2aab2867b5f8
+kmerIdx: 200583
+index: 576
+BasePt+idx: 0x2aab2867b600
+kmerIdx: 200719
+index: 585
+BasePt+idx: 0x2aab2867b618
+kmerIdx: 202635
+index: 590
+BasePt+idx: 0x2aab2867b620
+kmerIdx: 203389
+index: 594
+BasePt+idx: 0x2aab2867b630
+kmerIdx: 204201
+index: 616
+BasePt+idx: 0x2aab2867b668
+kmerIdx: 207617
+index: 622
+BasePt+idx: 0x2aab2867b678
+kmerIdx: 209180
+index: 630
+BasePt+idx: 0x2aab2867b690
+kmerIdx: 209906
+index: 635
+BasePt+idx: 0x2aab2867b698
+kmerIdx: 210597
+index: 640
+BasePt+idx: 0x2aab2867b6a8
+kmerIdx: 211182
+index: 643
+BasePt+idx: 0x2aab2867b6b0
+kmerIdx: 211216
+index: 649
+BasePt+idx: 0x2aab2867b6c0
+kmerIdx: 212076
+index: 655
+BasePt+idx: 0x2aab2867b6d0
+kmerIdx: 212678
+index: 666
+BasePt+idx: 0x2aab2867b6f0
+kmerIdx: 214205
+index: 670
+BasePt+idx: 0x2aab2867b6f8
+kmerIdx: 214547
+index: 708
+BasePt+idx: 0x2aab2867b760
+kmerIdx: 218573
+index: 727
+BasePt+idx: 0x2aab2867b790
+kmerIdx: 220147
+index: 749
+BasePt+idx: 0x2aab2867b7c8
+kmerIdx: 222237
+index: 781
+BasePt+idx: 0x2aab2867b820
+kmerIdx: 224023
+index: 814
+BasePt+idx: 0x2aab2867b878
+kmerIdx: 225307
+index: 832
+BasePt+idx: 0x2aab2867b8a8
+kmerIdx: 226745
+index: 835
+BasePt+idx: 0x2aab2867b8b0
+kmerIdx: 229099
+index: 837
+BasePt+idx: 0x2aab2867b8b8
+kmerIdx: 229763
+index: 840
+BasePt+idx: 0x2aab2867b8c0
+kmerIdx: 231389
+index: 841
+BasePt+idx: 0x2aab2867b8c0
+kmerIdx: 231585
+index: 844
+BasePt+idx: 0x2aab2867b8c8
+kmerIdx: 232899
+index: 845
+BasePt+idx: 0x2aab2867b8c8
+kmerIdx: 233131
+index: 850
+BasePt+idx: 0x2aab2867b8d8
+kmerIdx: 234639
+index: 851
+BasePt+idx: 0x2aab2867b8d8
+kmerIdx: 234904
+index: 858
+BasePt+idx: 0x2aab2867b8f0
+kmerIdx: 237655
+index: 859
+BasePt+idx: 0x2aab2867b8f0
+kmerIdx: 237836
+index: 861
+BasePt+idx: 0x2aab2867b8f8
+kmerIdx: 238822
+index: 866
+BasePt+idx: 0x2aab2867b900
+kmerIdx: 241274
+index: 869
+BasePt+idx: 0x2aab2867b908
+kmerIdx: 242421
+index: 875
+BasePt+idx: 0x2aab2867b918
+kmerIdx: 246372
+index: 877
+BasePt+idx: 0x2aab2867b920
+kmerIdx: 247659
+index: 879
+BasePt+idx: 0x2aab2867b928
+kmerIdx: 248021
+index: 881
+BasePt+idx: 0x2aab2867b928
+kmerIdx: 249122
+index: 885
+BasePt+idx: 0x2aab2867b938
+kmerIdx: 251194
+index: 887
+BasePt+idx: 0x2aab2867b938
+kmerIdx: 251662
+index: 890
+BasePt+idx: 0x2aab2867b940
+kmerIdx: 252411
+index: 891
+BasePt+idx: 0x2aab2867b948
+kmerIdx: 253085
+index: 896
+BasePt+idx: 0x2aab2867b950
+kmerIdx: 254582
+index: 901
+BasePt+idx: 0x2aab2867b960
+kmerIdx: 256285
+index: 906
+BasePt+idx: 0x2aab2867b970
+kmerIdx: 258350
+index: 911
+BasePt+idx: 0x2aab2867b978
+kmerIdx: 259673
+index: 913
+BasePt+idx: 0x2aab2867b980
+kmerIdx: 260721
+index: 916
+BasePt+idx: 0x2aab2867b988
+kmerIdx: 261935
+index: 919
+BasePt+idx: 0x2aab2867b990
+kmerIdx: 262981
+index: 920
+BasePt+idx: 0x2aab2867b990
+kmerIdx: 263093
+index: 923
+BasePt+idx: 0x2aab2867b998
+kmerIdx: 264233
+index: 927
+BasePt+idx: 0x2aab2867b9a8
+kmerIdx: 267622
+index: 931
+BasePt+idx: 0x2aab2867b9b0
+kmerIdx: 268851
+index: 934
+BasePt+idx: 0x2aab2867b9b8
+kmerIdx: 269591
+index: 940
+BasePt+idx: 0x2aab2867b9c8
+kmerIdx: 271006
+index: 942
+BasePt+idx: 0x2aab2867b9d0
+kmerIdx: 271691
+index: 943
+BasePt+idx: 0x2aab2867b9d0
+kmerIdx: 272034
+index: 948
+BasePt+idx: 0x2aab2867b9e0
+kmerIdx: 273686
+index: 952
+BasePt+idx: 0x2aab2867b9e8
+kmerIdx: 275675
+index: 959
+BasePt+idx: 0x2aab2867b9f8
+kmerIdx: 278329
+index: 963
+BasePt+idx: 0x2aab2867ba08
+kmerIdx: 278838
+index: 965
+BasePt+idx: 0x2aab2867ba08
+kmerIdx: 279385
+index: 987
+BasePt+idx: 0x2aab2867ba48
+kmerIdx: 285112
+index: 998
+BasePt+idx: 0x2aab2867ba60
+kmerIdx: 289974
+index: 1001
+BasePt+idx: 0x2aab2867ba68
+kmerIdx: 291522
+index: 1003
+BasePt+idx: 0x2aab2867ba70
+kmerIdx: 293447
+index: 1009
+BasePt+idx: 0x2aab2867ba80
+kmerIdx: 295784
+index: 1016
+BasePt+idx: 0x2aab2867ba90
+kmerIdx: 297615
+index: 1024
+BasePt+idx: 0x2aab2867baa8
+kmerIdx: 300220
+index: 1025
+BasePt+idx: 0x2aab2867baa8
+kmerIdx: 300456
+index: 1027
+BasePt+idx: 0x2aab2867bab0
+kmerIdx: 300682
+index: 1030
+BasePt+idx: 0x2aab2867bab8
+kmerIdx: 301594
+index: 1032
+BasePt+idx: 0x2aab2867bac0
+kmerIdx: 302212
+index: 1035
+BasePt+idx: 0x2aab2867bac8
+kmerIdx: 303448
+index: 1036
+BasePt+idx: 0x2aab2867bac8
+kmerIdx: 304066
+index: 1039
+BasePt+idx: 0x2aab2867bad0
+kmerIdx: 304470
+index: 1042
+BasePt+idx: 0x2aab2867bad8
+kmerIdx: 304656
+index: 1043
+BasePt+idx: 0x2aab2867bad8
+kmerIdx: 304791
+index: 1044
+BasePt+idx: 0x2aab2867bae0
+kmerIdx: 305199
+index: 1049
+BasePt+idx: 0x2aab2867bae8
+kmerIdx: 306483
+index: 1056
+BasePt+idx: 0x2aab2867bb00
+kmerIdx: 308050
+index: 1064
+BasePt+idx: 0x2aab2867bb10
+kmerIdx: 310739
+index: 1067
+BasePt+idx: 0x2aab2867bb18
+kmerIdx: 313304
+index: 1069
+BasePt+idx: 0x2aab2867bb20
+kmerIdx: 313664
+index: 1070
+BasePt+idx: 0x2aab2867bb20
+kmerIdx: 313720
+index: 1073
+BasePt+idx: 0x2aab2867bb28
+kmerIdx: 314119
+index: 1077
+BasePt+idx: 0x2aab2867bb38
+kmerIdx: 314981
+index: 1078
+BasePt+idx: 0x2aab2867bb38
+kmerIdx: 315923
+index: 1087
+BasePt+idx: 0x2aab2867bb50
+kmerIdx: 317841
+index: 1094
+BasePt+idx: 0x2aab2867bb60
+kmerIdx: 319614
+index: 1100
+BasePt+idx: 0x2aab2867bb70
+kmerIdx: 320801
+index: 1103
+BasePt+idx: 0x2aab2867bb78
+kmerIdx: 321519
+index: 1108
+BasePt+idx: 0x2aab2867bb88
+kmerIdx: 323658
+index: 1113
+BasePt+idx: 0x2aab2867bb98
+kmerIdx: 325359
+index: 1118
+BasePt+idx: 0x2aab2867bba0
+kmerIdx: 326376
+index: 1119
+BasePt+idx: 0x2aab2867bba8
+kmerIdx: 326853
+index: 1122
+BasePt+idx: 0x2aab2867bbb0
+kmerIdx: 327659
+index: 1125
+BasePt+idx: 0x2aab2867bbb8
+kmerIdx: 328639
+index: 1136
+BasePt+idx: 0x2aab2867bbd0
+kmerIdx: 332655
+index: 1143
+BasePt+idx: 0x2aab2867bbe8
+kmerIdx: 334207
+index: 1149
+BasePt+idx: 0x2aab2867bbf8
+kmerIdx: 335513
+index: 1152
+BasePt+idx: 0x2aab2867bc00
+kmerIdx: 337111
+index: 1160
+BasePt+idx: 0x2aab2867bc10
+kmerIdx: 339254
+index: 1164
+BasePt+idx: 0x2aab2867bc20
+kmerIdx: 340814
+index: 1189
+BasePt+idx: 0x2aab2867bc60
+kmerIdx: 346292
+index: 1192
+BasePt+idx: 0x2aab2867bc68
+kmerIdx: 346642
+index: 1194
+BasePt+idx: 0x2aab2867bc70
+kmerIdx: 346893
+index: 1205
+BasePt+idx: 0x2aab2867bc88
+kmerIdx: 348649
+index: 1209
+BasePt+idx: 0x2aab2867bc98
+kmerIdx: 350049
+index: 1223
+BasePt+idx: 0x2aab2867bcb8
+kmerIdx: 352961
+index: 1224
+BasePt+idx: 0x2aab2867bcc0
+kmerIdx: 353100
+index: 1234
+BasePt+idx: 0x2aab2867bcd8
+kmerIdx: 354911
+index: 1241
+BasePt+idx: 0x2aab2867bce8
+kmerIdx: 355712
+index: 1246
+BasePt+idx: 0x2aab2867bcf8
+kmerIdx: 356245
+index: 1251
+BasePt+idx: 0x2aab2867bd08
+kmerIdx: 356789
+index: 1255
+BasePt+idx: 0x2aab2867bd10
+kmerIdx: 357500
+index: 1266
+BasePt+idx: 0x2aab2867bd30
+kmerIdx: 358728
+index: 1287
+BasePt+idx: 0x2aab2867bd68
+kmerIdx: 360494
+index: 1294
+BasePt+idx: 0x2aab2867bd78
+kmerIdx: 361215
+index: 1333
+BasePt+idx: 0x2aab2867bde0
+kmerIdx: 364556
+index: 1344
+BasePt+idx: 0x2aab2867be00
+kmerIdx: 364995
+index: 1351
+BasePt+idx: 0x2aab2867be10
+kmerIdx: 365255
+index: 1369
+BasePt+idx: 0x2aab2867be40
+kmerIdx: 366284
+index: 1411
+BasePt+idx: 0x2aab2867beb0
+kmerIdx: 367770
+index: 1414
+BasePt+idx: 0x2aab2867beb8
+kmerIdx: 369729
+index: 1416
+BasePt+idx: 0x2aab2867bec0
+kmerIdx: 371076
+index: 1421
+BasePt+idx: 0x2aab2867bec8
+kmerIdx: 374302
+index: 1422
+BasePt+idx: 0x2aab2867bed0
+kmerIdx: 375113
+index: 1424
+BasePt+idx: 0x2aab2867bed0
+kmerIdx: 376225
+index: 1427
+BasePt+idx: 0x2aab2867bed8
+kmerIdx: 377449
+index: 1429
+BasePt+idx: 0x2aab2867bee0
+kmerIdx: 378259
+index: 1431
+BasePt+idx: 0x2aab2867bee8
+kmerIdx: 379039
+index: 1432
+BasePt+idx: 0x2aab2867bee8
+kmerIdx: 379563
+index: 1435
+BasePt+idx: 0x2aab2867bef0
+kmerIdx: 380534
+index: 1436
+BasePt+idx: 0x2aab2867bef0
+kmerIdx: 381952
+index: 1437
+BasePt+idx: 0x2aab2867bef8
+kmerIdx: 382071
+index: 1443
+BasePt+idx: 0x2aab2867bf08
+kmerIdx: 385435
+index: 1446
+BasePt+idx: 0x2aab2867bf10
+kmerIdx: 386505
+index: 1450
+BasePt+idx: 0x2aab2867bf18
+kmerIdx: 387598
+index: 1451
+BasePt+idx: 0x2aab2867bf18
+kmerIdx: 388194
+index: 1454
+BasePt+idx: 0x2aab2867bf20
+kmerIdx: 390396
+index: 1455
+BasePt+idx: 0x2aab2867bf28
+kmerIdx: 391290
+index: 1457
+BasePt+idx: 0x2aab2867bf28
+kmerIdx: 391876
+index: 1458
+BasePt+idx: 0x2aab2867bf30
+kmerIdx: 391924
+index: 1462
+BasePt+idx: 0x2aab2867bf38
+kmerIdx: 395725
+index: 1465
+BasePt+idx: 0x2aab2867bf40
+kmerIdx: 397263
+index: 1466
+BasePt+idx: 0x2aab2867bf40
+kmerIdx: 397946
+index: 1469
+BasePt+idx: 0x2aab2867bf48
+kmerIdx: 399097
+index: 1470
+BasePt+idx: 0x2aab2867bf50
+kmerIdx: 399830
+index: 1472
+BasePt+idx: 0x2aab2867bf50
+kmerIdx: 400378
+index: 1479
+BasePt+idx: 0x2aab2867bf68
+kmerIdx: 402334
+index: 1480
+BasePt+idx: 0x2aab2867bf68
+kmerIdx: 403085
+index: 1481
+BasePt+idx: 0x2aab2867bf68
+kmerIdx: 403484
+index: 1486
+BasePt+idx: 0x2aab2867bf78
+kmerIdx: 405053
+index: 1490
+BasePt+idx: 0x2aab2867bf80
+kmerIdx: 407977
+index: 1492
+BasePt+idx: 0x2aab2867bf88
+kmerIdx: 408744
+index: 1494
+BasePt+idx: 0x2aab2867bf90
+kmerIdx: 409574
+index: 1496
+BasePt+idx: 0x2aab2867bf90
+kmerIdx: 409755
+index: 1498
+BasePt+idx: 0x2aab2867bf98
+kmerIdx: 411045
+index: 1502
+BasePt+idx: 0x2aab2867bfa0
+kmerIdx: 412217
+index: 1503
+BasePt+idx: 0x2aab2867bfa8
+kmerIdx: 412722
+index: 1504
+BasePt+idx: 0x2aab2867bfa8
+kmerIdx: 413039
+index: 1510
+BasePt+idx: 0x2aab2867bfb8
+kmerIdx: 414752
+index: 1511
+BasePt+idx: 0x2aab2867bfb8
+kmerIdx: 414946
+index: 1513
+BasePt+idx: 0x2aab2867bfc0
+kmerIdx: 415466
+index: 1517
+BasePt+idx: 0x2aab2867bfc8
+kmerIdx: 416371
+index: 1519
+BasePt+idx: 0x2aab2867bfd0
+kmerIdx: 416885
+index: 1520
+BasePt+idx: 0x2aab2867bfd0
+kmerIdx: 417363
+index: 1522
+BasePt+idx: 0x2aab2867bfd8
+kmerIdx: 417907
+index: 1526
+BasePt+idx: 0x2aab2867bfe0
+kmerIdx: 419996
+index: 1528
+BasePt+idx: 0x2aab2867bfe8
+kmerIdx: 421073
+index: 1532
+BasePt+idx: 0x2aab2867bff0
+kmerIdx: 422848
+index: 1533
+BasePt+idx: 0x2aab2867bff8
+kmerIdx: 423644
+index: 1535
+BasePt+idx: 0x2aab2867bff8
+kmerIdx: 426133
+index: 1537
+BasePt+idx: 0x2aab2867c000
+kmerIdx: 427071
+index: 1539
+BasePt+idx: 0x2aab2867c008
+kmerIdx: 427779
+index: 1541
+BasePt+idx: 0x2aab2867c008
+kmerIdx: 428441
+index: 1542
+BasePt+idx: 0x2aab2867c010
+kmerIdx: 428601
+index: 1543
+BasePt+idx: 0x2aab2867c010
+kmerIdx: 429464
+index: 1546
+BasePt+idx: 0x2aab2867c018
+kmerIdx: 429962
+index: 1548
+BasePt+idx: 0x2aab2867c020
+kmerIdx: 430482
+index: 1550
+BasePt+idx: 0x2aab2867c020
+kmerIdx: 431368
+index: 1551
+BasePt+idx: 0x2aab2867c028
+kmerIdx: 431791
+index: 1554
+BasePt+idx: 0x2aab2867c030
+kmerIdx: 433263
+index: 1555
+BasePt+idx: 0x2aab2867c030
+kmerIdx: 433631
+index: 1557
+BasePt+idx: 0x2aab2867c038
+kmerIdx: 434537
+index: 1558
+BasePt+idx: 0x2aab2867c038
+kmerIdx: 434980
+index: 1560
+BasePt+idx: 0x2aab2867c040
+kmerIdx: 435753
+index: 1561
+BasePt+idx: 0x2aab2867c040
+kmerIdx: 436294
+index: 1563
+BasePt+idx: 0x2aab2867c048
+kmerIdx: 438355
+index: 1564
+BasePt+idx: 0x2aab2867c048
+kmerIdx: 439714
+index: 1566
+BasePt+idx: 0x2aab2867c050
+kmerIdx: 439972
+index: 1567
+BasePt+idx: 0x2aab2867c050
+kmerIdx: 441226
+index: 1569
+BasePt+idx: 0x2aab2867c058
+kmerIdx: 441856
+index: 1571
+BasePt+idx: 0x2aab2867c058
+kmerIdx: 442973
+index: 1573
+BasePt+idx: 0x2aab2867c060
+kmerIdx: 443798
+index: 1575
+BasePt+idx: 0x2aab2867c068
+kmerIdx: 444781
+index: 1578
+BasePt+idx: 0x2aab2867c070
+kmerIdx: 445877
+index: 1579
+BasePt+idx: 0x2aab2867c070
+kmerIdx: 446184
+index: 1580
+BasePt+idx: 0x2aab2867c070
+kmerIdx: 446587
+index: 1582
+BasePt+idx: 0x2aab2867c078
+kmerIdx: 447256
+index: 1583
+BasePt+idx: 0x2aab2867c078
+kmerIdx: 447411
+index: 1584
+BasePt+idx: 0x2aab2867c080
+kmerIdx: 447940
+index: 1585
+BasePt+idx: 0x2aab2867c080
+kmerIdx: 448415
+index: 1586
+BasePt+idx: 0x2aab2867c080
+kmerIdx: 448922
+index: 1593
+BasePt+idx: 0x2aab2867c098
+kmerIdx: 452110
+index: 1596
+BasePt+idx: 0x2aab2867c0a0
+kmerIdx: 453103
+index: 1598
+BasePt+idx: 0x2aab2867c0a0
+kmerIdx: 453386
+index: 1602
+BasePt+idx: 0x2aab2867c0b0
+kmerIdx: 455924
+index: 1603
+BasePt+idx: 0x2aab2867c0b0
+kmerIdx: 456685
+index: 1604
+BasePt+idx: 0x2aab2867c0b0
+kmerIdx: 457066
+index: 1607
+BasePt+idx: 0x2aab2867c0b8
+kmerIdx: 457864
+index: 1609
+BasePt+idx: 0x2aab2867c0c0
+kmerIdx: 458667
+index: 1612
+BasePt+idx: 0x2aab2867c0c8
+kmerIdx: 460207
+index: 1613
+BasePt+idx: 0x2aab2867c0c8
+kmerIdx: 460416
+index: 1615
+BasePt+idx: 0x2aab2867c0d0
+kmerIdx: 461645
+index: 1617
+BasePt+idx: 0x2aab2867c0d8
+kmerIdx: 462013
+index: 1620
+BasePt+idx: 0x2aab2867c0e0
+kmerIdx: 462756
+index: 1622
+BasePt+idx: 0x2aab2867c0e0
+kmerIdx: 463370
+index: 1623
+BasePt+idx: 0x2aab2867c0e8
+kmerIdx: 463800
+index: 1627
+BasePt+idx: 0x2aab2867c0f0
+kmerIdx: 464365
+index: 1629
+BasePt+idx: 0x2aab2867c0f8
+kmerIdx: 464796
+index: 1630
+BasePt+idx: 0x2aab2867c0f8
+kmerIdx: 465494
+index: 1632
+BasePt+idx: 0x2aab2867c100
+kmerIdx: 465889
+index: 1633
+BasePt+idx: 0x2aab2867c100
+kmerIdx: 466055
+index: 1634
+BasePt+idx: 0x2aab2867c100
+kmerIdx: 466092
+index: 1638
+BasePt+idx: 0x2aab2867c110
+kmerIdx: 467159
+index: 1640
+BasePt+idx: 0x2aab2867c110
+kmerIdx: 468176
+index: 1642
+BasePt+idx: 0x2aab2867c118
+kmerIdx: 468408
+index: 1645
+BasePt+idx: 0x2aab2867c120
+kmerIdx: 469150
+index: 1646
+BasePt+idx: 0x2aab2867c120
+kmerIdx: 469491
+index: 1649
+BasePt+idx: 0x2aab2867c128
+kmerIdx: 471395
+index: 1653
+BasePt+idx: 0x2aab2867c138
+kmerIdx: 472782
+index: 1654
+BasePt+idx: 0x2aab2867c138
+kmerIdx: 473510
+index: 1656
+BasePt+idx: 0x2aab2867c140
+kmerIdx: 474154
+index: 1658
+BasePt+idx: 0x2aab2867c140
+kmerIdx: 474274
+index: 1660
+BasePt+idx: 0x2aab2867c148
+kmerIdx: 474946
+index: 1661
+BasePt+idx: 0x2aab2867c148
+kmerIdx: 475032
+index: 1663
+BasePt+idx: 0x2aab2867c150
+kmerIdx: 475771
+index: 1665
+BasePt+idx: 0x2aab2867c158
+kmerIdx: 476290
+index: 1668
+BasePt+idx: 0x2aab2867c160
+kmerIdx: 476955
+index: 1672
+BasePt+idx: 0x2aab2867c168
+kmerIdx: 478397
+index: 1674
+BasePt+idx: 0x2aab2867c170
+kmerIdx: 479316
+index: 1677
+BasePt+idx: 0x2aab2867c178
+kmerIdx: 483049
+index: 1678
+BasePt+idx: 0x2aab2867c178
+kmerIdx: 483667
+index: 1679
+BasePt+idx: 0x2aab2867c178
+kmerIdx: 484198
+index: 1680
+BasePt+idx: 0x2aab2867c180
+kmerIdx: 484465
+index: 1682
+BasePt+idx: 0x2aab2867c180
+kmerIdx: 485191
+index: 1685
+BasePt+idx: 0x2aab2867c188
+kmerIdx: 486407
+index: 1687
+BasePt+idx: 0x2aab2867c190
+kmerIdx: 487218
+index: 1691
+BasePt+idx: 0x2aab2867c198
+kmerIdx: 487845
+index: 1692
+BasePt+idx: 0x2aab2867c1a0
+kmerIdx: 488096
+index: 1694
+BasePt+idx: 0x2aab2867c1a0
+kmerIdx: 488736
+index: 1699
+BasePt+idx: 0x2aab2867c1b0
+kmerIdx: 490291
+index: 1700
+BasePt+idx: 0x2aab2867c1b0
+kmerIdx: 490314
+index: 1702
+BasePt+idx: 0x2aab2867c1b8
+kmerIdx: 491063
+index: 1704
+BasePt+idx: 0x2aab2867c1c0
+kmerIdx: 491512
+index: 1706
+BasePt+idx: 0x2aab2867c1c0
+kmerIdx: 491831
+index: 1708
+BasePt+idx: 0x2aab2867c1c8
+kmerIdx: 493421
+index: 1710
+BasePt+idx: 0x2aab2867c1d0
+kmerIdx: 493498
+index: 1711
+BasePt+idx: 0x2aab2867c1d0
+kmerIdx: 493883
+index: 1712
+BasePt+idx: 0x2aab2867c1d0
+kmerIdx: 494049
+index: 1715
+BasePt+idx: 0x2aab2867c1d8
+kmerIdx: 494689
+index: 1718
+BasePt+idx: 0x2aab2867c1e0
+kmerIdx: 495719
+index: 1720
+BasePt+idx: 0x2aab2867c1e8
+kmerIdx: 495952
+index: 1721
+BasePt+idx: 0x2aab2867c1e8
+kmerIdx: 496699
+index: 1724
+BasePt+idx: 0x2aab2867c1f0
+kmerIdx: 497127
+index: 1725
+BasePt+idx: 0x2aab2867c1f8
+kmerIdx: 497345
+index: 1727
+BasePt+idx: 0x2aab2867c1f8
+kmerIdx: 498074
+index: 1730
+BasePt+idx: 0x2aab2867c200
+kmerIdx: 498898
+index: 1732
+BasePt+idx: 0x2aab2867c208
+kmerIdx: 500482
+index: 1733
+BasePt+idx: 0x2aab2867c208
+kmerIdx: 500565
+index: 1736
+BasePt+idx: 0x2aab2867c210
+kmerIdx: 501147
+index: 1738
+BasePt+idx: 0x2aab2867c218
+kmerIdx: 501684
+index: 1740
+BasePt+idx: 0x2aab2867c220
+kmerIdx: 502294
+index: 1741
+BasePt+idx: 0x2aab2867c220
+kmerIdx: 502390
+index: 1742
+BasePt+idx: 0x2aab2867c220
+kmerIdx: 502564
+index: 1744
+BasePt+idx: 0x2aab2867c228
+kmerIdx: 503217
+index: 1746
+BasePt+idx: 0x2aab2867c230
+kmerIdx: 503841
+index: 1748
+BasePt+idx: 0x2aab2867c230
+kmerIdx: 504955
+index: 1752
+BasePt+idx: 0x2aab2867c240
+kmerIdx: 505397
+index: 1753
+BasePt+idx: 0x2aab2867c240
+kmerIdx: 505532
+index: 1754
+BasePt+idx: 0x2aab2867c240
+kmerIdx: 505655
+index: 1755
+BasePt+idx: 0x2aab2867c248
+kmerIdx: 506494
+index: 1758
+BasePt+idx: 0x2aab2867c250
+kmerIdx: 506965
+index: 1759
+BasePt+idx: 0x2aab2867c250
+kmerIdx: 507578
+index: 1760
+BasePt+idx: 0x2aab2867c250
+kmerIdx: 507771
+index: 1764
+BasePt+idx: 0x2aab2867c260
+kmerIdx: 509261
+index: 1766
+BasePt+idx: 0x2aab2867c260
+kmerIdx: 509854
+index: 1768
+BasePt+idx: 0x2aab2867c268
+kmerIdx: 509948
+index: 1770
+BasePt+idx: 0x2aab2867c270
+kmerIdx: 510633
+index: 1772
+BasePt+idx: 0x2aab2867c270
+kmerIdx: 510744
+index: 1773
+BasePt+idx: 0x2aab2867c278
+kmerIdx: 511067
+index: 1774
+BasePt+idx: 0x2aab2867c278
+kmerIdx: 511087
+index: 1776
+BasePt+idx: 0x2aab2867c280
+kmerIdx: 511752
+index: 1777
+BasePt+idx: 0x2aab2867c280
+kmerIdx: 512067
+index: 1778
+BasePt+idx: 0x2aab2867c280
+kmerIdx: 512270
+index: 1780
+BasePt+idx: 0x2aab2867c288
+kmerIdx: 512451
+index: 1783
+BasePt+idx: 0x2aab2867c290
+kmerIdx: 513315
+index: 1784
+BasePt+idx: 0x2aab2867c290
+kmerIdx: 513515
+index: 1785
+BasePt+idx: 0x2aab2867c298
+kmerIdx: 513674
+index: 1787
+BasePt+idx: 0x2aab2867c298
+kmerIdx: 514836
+index: 1791
+BasePt+idx: 0x2aab2867c2a8
+kmerIdx: 515591
+index: 1792
+BasePt+idx: 0x2aab2867c2a8
+kmerIdx: 516229
+index: 1793
+BasePt+idx: 0x2aab2867c2a8
+kmerIdx: 516748
+index: 1794
+BasePt+idx: 0x2aab2867c2b0
+kmerIdx: 517226
+index: 1796
+BasePt+idx: 0x2aab2867c2b0
+kmerIdx: 517645
+index: 1799
+BasePt+idx: 0x2aab2867c2b8
+kmerIdx: 519311
+index: 1800
+BasePt+idx: 0x2aab2867c2c0
+kmerIdx: 519643
+index: 1801
+BasePt+idx: 0x2aab2867c2c0
+kmerIdx: 520109
+index: 1802
+BasePt+idx: 0x2aab2867c2c0
+kmerIdx: 520172
+index: 1803
+BasePt+idx: 0x2aab2867c2c8
+kmerIdx: 520387
+index: 1806
+BasePt+idx: 0x2aab2867c2d0
+kmerIdx: 520969
+index: 1807
+BasePt+idx: 0x2aab2867c2d0
+kmerIdx: 521171
+index: 1808
+BasePt+idx: 0x2aab2867c2d0
+kmerIdx: 521506
+index: 1810
+BasePt+idx: 0x2aab2867c2d8
+kmerIdx: 522293
+index: 1811
+BasePt+idx: 0x2aab2867c2d8
+kmerIdx: 522655
+index: 1813
+BasePt+idx: 0x2aab2867c2e0
+kmerIdx: 522863
+index: 1814
+BasePt+idx: 0x2aab2867c2e0
+kmerIdx: 523077
+index: 1815
+BasePt+idx: 0x2aab2867c2e8
+kmerIdx: 523522
+index: 1816
+BasePt+idx: 0x2aab2867c2e8
+kmerIdx: 523657
+index: 1817
+BasePt+idx: 0x2aab2867c2e8
+kmerIdx: 523828
+index: 1819
+BasePt+idx: 0x2aab2867c2f0
+kmerIdx: 523874
+index: 1820
+BasePt+idx: 0x2aab2867c2f0
+kmerIdx: 524015
+index: 1821
+BasePt+idx: 0x2aab2867c2f8
+kmerIdx: 524277
+index: 1823
+BasePt+idx: 0x2aab2867c2f8
+kmerIdx: 525122
+index: 1825
+BasePt+idx: 0x2aab2867c300
+kmerIdx: 525718
+index: 1826
+BasePt+idx: 0x2aab2867c300
+kmerIdx: 525833
+index: 1828
+BasePt+idx: 0x2aab2867c308
+kmerIdx: 526504
+index: 1830
+BasePt+idx: 0x2aab2867c310
+kmerIdx: 527123
+index: 1833
+BasePt+idx: 0x2aab2867c318
+kmerIdx: 527643
+index: 1834
+BasePt+idx: 0x2aab2867c318
+kmerIdx: 528126
+index: 1838
+BasePt+idx: 0x2aab2867c320
+kmerIdx: 528506
+index: 1839
+BasePt+idx: 0x2aab2867c328
+kmerIdx: 528682
+index: 1841
+BasePt+idx: 0x2aab2867c328
+kmerIdx: 528928
+index: 1844
+BasePt+idx: 0x2aab2867c330
+kmerIdx: 530129
+index: 1846
+BasePt+idx: 0x2aab2867c338
+kmerIdx: 530666
+index: 1848
+BasePt+idx: 0x2aab2867c340
+kmerIdx: 531100
+index: 1849
+BasePt+idx: 0x2aab2867c340
+kmerIdx: 531679
+index: 1850
+BasePt+idx: 0x2aab2867c340
+kmerIdx: 531906
+index: 1851
+BasePt+idx: 0x2aab2867c348
+kmerIdx: 532062
+index: 1852
+BasePt+idx: 0x2aab2867c348
+kmerIdx: 532398
+index: 1853
+BasePt+idx: 0x2aab2867c348
+kmerIdx: 532764
+index: 1854
+BasePt+idx: 0x2aab2867c350
+kmerIdx: 533013
+index: 1856
+BasePt+idx: 0x2aab2867c350
+kmerIdx: 533350
+index: 1858
+BasePt+idx: 0x2aab2867c358
+kmerIdx: 533812
+index: 1860
+BasePt+idx: 0x2aab2867c360
+kmerIdx: 534523
+index: 1861
+BasePt+idx: 0x2aab2867c360
+kmerIdx: 535307
+index: 1865
+BasePt+idx: 0x2aab2867c368
+kmerIdx: 536156
+index: 1867
+BasePt+idx: 0x2aab2867c370
+kmerIdx: 536782
+index: 1869
+BasePt+idx: 0x2aab2867c378
+kmerIdx: 537241
+index: 1870
+BasePt+idx: 0x2aab2867c378
+kmerIdx: 537549
+index: 1871
+BasePt+idx: 0x2aab2867c378
+kmerIdx: 537642
+index: 1872
+BasePt+idx: 0x2aab2867c380
+kmerIdx: 537891
+index: 1874
+BasePt+idx: 0x2aab2867c380
+kmerIdx: 538314
+index: 1877
+BasePt+idx: 0x2aab2867c388
+kmerIdx: 538914
+index: 1879
+BasePt+idx: 0x2aab2867c390
+kmerIdx: 539568
+index: 1880
+BasePt+idx: 0x2aab2867c390
+kmerIdx: 539611
+index: 1881
+BasePt+idx: 0x2aab2867c398
+kmerIdx: 540179
+index: 1882
+BasePt+idx: 0x2aab2867c398
+kmerIdx: 540367
+index: 1885
+BasePt+idx: 0x2aab2867c3a0
+kmerIdx: 541429
+index: 1886
+BasePt+idx: 0x2aab2867c3a0
+kmerIdx: 541480
+index: 1888
+BasePt+idx: 0x2aab2867c3a8
+kmerIdx: 541754
+index: 1889
+BasePt+idx: 0x2aab2867c3a8
+kmerIdx: 541914
+index: 1890
+BasePt+idx: 0x2aab2867c3b0
+kmerIdx: 542076
+index: 1893
+BasePt+idx: 0x2aab2867c3b8
+kmerIdx: 542925
+index: 1894
+BasePt+idx: 0x2aab2867c3b8
+kmerIdx: 543053
+index: 1895
+BasePt+idx: 0x2aab2867c3b8
+kmerIdx: 543176
+index: 1896
+BasePt+idx: 0x2aab2867c3c0
+kmerIdx: 543279
+index: 1897
+BasePt+idx: 0x2aab2867c3c0
+kmerIdx: 543449
+index: 1899
+BasePt+idx: 0x2aab2867c3c8
+kmerIdx: 543681
+index: 1900
+BasePt+idx: 0x2aab2867c3c8
+kmerIdx: 543941
+index: 1902
+BasePt+idx: 0x2aab2867c3d0
+kmerIdx: 544271
+index: 1903
+BasePt+idx: 0x2aab2867c3d0
+kmerIdx: 544475
+index: 1904
+BasePt+idx: 0x2aab2867c3d0
+kmerIdx: 544497
+index: 1905
+BasePt+idx: 0x2aab2867c3d8
+kmerIdx: 544923
+index: 1906
+BasePt+idx: 0x2aab2867c3d8
+kmerIdx: 545498
+index: 1907
+BasePt+idx: 0x2aab2867c3d8
+kmerIdx: 545608
+index: 1908
+BasePt+idx: 0x2aab2867c3e0
+kmerIdx: 545691
+index: 1909
+BasePt+idx: 0x2aab2867c3e0
+kmerIdx: 545773
+index: 1910
+BasePt+idx: 0x2aab2867c3e0
+kmerIdx: 545810
+index: 1912
+BasePt+idx: 0x2aab2867c3e8
+kmerIdx: 546284
+index: 1913
+BasePt+idx: 0x2aab2867c3e8
+kmerIdx: 546749
+index: 1914
+BasePt+idx: 0x2aab2867c3f0
+kmerIdx: 546839
+index: 1915
+BasePt+idx: 0x2aab2867c3f0
+kmerIdx: 546959
+index: 1916
+BasePt+idx: 0x2aab2867c3f0
+kmerIdx: 547200
+index: 1917
+BasePt+idx: 0x2aab2867c3f8
+kmerIdx: 547369
+index: 1918
+BasePt+idx: 0x2aab2867c3f8
+kmerIdx: 547646
+index: 1919
+BasePt+idx: 0x2aab2867c3f8
+kmerIdx: 547674
+index: 1920
+BasePt+idx: 0x2aab2867c400
+kmerIdx: 547848
+index: 1921
+BasePt+idx: 0x2aab2867c400
+kmerIdx: 547971
+index: 1922
+BasePt+idx: 0x2aab2867c400
+kmerIdx: 548028
+index: 1924
+BasePt+idx: 0x2aab2867c408
+kmerIdx: 548641
+index: 1926
+BasePt+idx: 0x2aab2867c410
+kmerIdx: 548890
+index: 1927
+BasePt+idx: 0x2aab2867c410
+kmerIdx: 548944
+index: 1928
+BasePt+idx: 0x2aab2867c410
+kmerIdx: 549365
+index: 1929
+BasePt+idx: 0x2aab2867c418
+kmerIdx: 549700
+index: 1931
+BasePt+idx: 0x2aab2867c418
+kmerIdx: 550336
+index: 1932
+BasePt+idx: 0x2aab2867c420
+kmerIdx: 550383
+index: 1933
+BasePt+idx: 0x2aab2867c420
+kmerIdx: 550689
+index: 1935
+BasePt+idx: 0x2aab2867c428
+kmerIdx: 550918
+index: 1937
+BasePt+idx: 0x2aab2867c428
+kmerIdx: 551202
+index: 1938
+BasePt+idx: 0x2aab2867c430
+kmerIdx: 551540
+index: 1939
+BasePt+idx: 0x2aab2867c430
+kmerIdx: 551676
+index: 1940
+BasePt+idx: 0x2aab2867c430
+kmerIdx: 551802
+index: 1942
+BasePt+idx: 0x2aab2867c438
+kmerIdx: 552122
+index: 1943
+BasePt+idx: 0x2aab2867c438
+kmerIdx: 552237
+index: 1944
+BasePt+idx: 0x2aab2867c440
+kmerIdx: 552283
+index: 1945
+BasePt+idx: 0x2aab2867c440
+kmerIdx: 552424
+index: 1946
+BasePt+idx: 0x2aab2867c440
+kmerIdx: 552460
+index: 1948
+BasePt+idx: 0x2aab2867c448
+kmerIdx: 552868
+index: 1949
+BasePt+idx: 0x2aab2867c448
+kmerIdx: 553172
+index: 1950
+BasePt+idx: 0x2aab2867c450
+kmerIdx: 553243
+index: 1951
+BasePt+idx: 0x2aab2867c450
+kmerIdx: 553383
+index: 1953
+BasePt+idx: 0x2aab2867c458
+kmerIdx: 553658
+index: 1954
+BasePt+idx: 0x2aab2867c458
+kmerIdx: 553800
+index: 1955
+BasePt+idx: 0x2aab2867c458
+kmerIdx: 553915
+index: 1956
+BasePt+idx: 0x2aab2867c460
+kmerIdx: 553957
+index: 1957
+BasePt+idx: 0x2aab2867c460
+kmerIdx: 554125
+index: 1958
+BasePt+idx: 0x2aab2867c460
+kmerIdx: 554350
+index: 1959
+BasePt+idx: 0x2aab2867c468
+kmerIdx: 554580
+index: 1960
+BasePt+idx: 0x2aab2867c468
+kmerIdx: 554724
+index: 1961
+BasePt+idx: 0x2aab2867c468
+kmerIdx: 554872
+index: 1962
+BasePt+idx: 0x2aab2867c470
+kmerIdx: 555099
+index: 1963
+BasePt+idx: 0x2aab2867c470
+kmerIdx: 555217
+index: 1967
+BasePt+idx: 0x2aab2867c478
+kmerIdx: 555569
+index: 1968
+BasePt+idx: 0x2aab2867c480
+kmerIdx: 555610
+index: 1969
+BasePt+idx: 0x2aab2867c480
+kmerIdx: 556043
+index: 1971
+BasePt+idx: 0x2aab2867c488
+kmerIdx: 556378
+index: 1972
+BasePt+idx: 0x2aab2867c488
+kmerIdx: 556410
+index: 1973
+BasePt+idx: 0x2aab2867c488
+kmerIdx: 556590
+index: 1975
+BasePt+idx: 0x2aab2867c490
+kmerIdx: 557001
+index: 1976
+BasePt+idx: 0x2aab2867c490
+kmerIdx: 557063
+index: 1978
+BasePt+idx: 0x2aab2867c498
+kmerIdx: 557370
+index: 1979
+BasePt+idx: 0x2aab2867c498
+kmerIdx: 557920
+index: 1980
+BasePt+idx: 0x2aab2867c4a0
+kmerIdx: 558082
+index: 1981
+BasePt+idx: 0x2aab2867c4a0
+kmerIdx: 558291
+index: 1982
+BasePt+idx: 0x2aab2867c4a0
+kmerIdx: 558509
+index: 1983
+BasePt+idx: 0x2aab2867c4a8
+kmerIdx: 558618
+index: 1984
+BasePt+idx: 0x2aab2867c4a8
+kmerIdx: 558666
+index: 1985
+BasePt+idx: 0x2aab2867c4a8
+kmerIdx: 558766
+index: 1987
+BasePt+idx: 0x2aab2867c4b0
+kmerIdx: 559043
+index: 1988
+BasePt+idx: 0x2aab2867c4b0
+kmerIdx: 559108
+index: 1989
+BasePt+idx: 0x2aab2867c4b8
+kmerIdx: 559527
+index: 1990
+BasePt+idx: 0x2aab2867c4b8
+kmerIdx: 559642
+index: 1991
+BasePt+idx: 0x2aab2867c4b8
+kmerIdx: 559781
+index: 1993
+BasePt+idx: 0x2aab2867c4c0
+kmerIdx: 560047
+index: 1995
+BasePt+idx: 0x2aab2867c4c8
+kmerIdx: 560362
+index: 1996
+BasePt+idx: 0x2aab2867c4c8
+kmerIdx: 560479
+index: 1997
+BasePt+idx: 0x2aab2867c4c8
+kmerIdx: 560537
+index: 1998
+BasePt+idx: 0x2aab2867c4d0
+kmerIdx: 560605
+index: 1999
+BasePt+idx: 0x2aab2867c4d0
+kmerIdx: 560645
+index: 2000
+BasePt+idx: 0x2aab2867c4d0
+kmerIdx: 560670
+index: 2001
+BasePt+idx: 0x2aab2867c4d8
+kmerIdx: 560855
+index: 2002
+BasePt+idx: 0x2aab2867c4d8
+kmerIdx: 560921
+index: 2003
+BasePt+idx: 0x2aab2867c4d8
+kmerIdx: 561205
+index: 2004
+BasePt+idx: 0x2aab2867c4e0
+kmerIdx: 561395
+index: 2006
+BasePt+idx: 0x2aab2867c4e0
+kmerIdx: 561431
+index: 2008
+BasePt+idx: 0x2aab2867c4e8
+kmerIdx: 561768
+index: 2009
+BasePt+idx: 0x2aab2867c4e8
+kmerIdx: 561976
+index: 2011
+BasePt+idx: 0x2aab2867c4f0
+kmerIdx: 562024
+index: 2012
+BasePt+idx: 0x2aab2867c4f0
+kmerIdx: 562088
+index: 2013
+BasePt+idx: 0x2aab2867c4f8
+kmerIdx: 562157
+index: 2014
+BasePt+idx: 0x2aab2867c4f8
+kmerIdx: 562243
+index: 2015
+BasePt+idx: 0x2aab2867c4f8
+kmerIdx: 562403
+index: 2016
+BasePt+idx: 0x2aab2867c500
+kmerIdx: 562475
+index: 2017
+BasePt+idx: 0x2aab2867c500
+kmerIdx: 562581
+index: 2018
+BasePt+idx: 0x2aab2867c500
+kmerIdx: 562605
+index: 2019
+BasePt+idx: 0x2aab2867c508
+kmerIdx: 562723
+index: 2020
+BasePt+idx: 0x2aab2867c508
+kmerIdx: 562745
+index: 2023
+BasePt+idx: 0x2aab2867c510
+kmerIdx: 563217
+index: 2024
+BasePt+idx: 0x2aab2867c510
+kmerIdx: 563362
+index: 2025
+BasePt+idx: 0x2aab2867c518
+kmerIdx: 563452
+index: 2026
+BasePt+idx: 0x2aab2867c518
+kmerIdx: 563563
+index: 2027
+BasePt+idx: 0x2aab2867c518
+kmerIdx: 563743
+index: 2028
+BasePt+idx: 0x2aab2867c520
+kmerIdx: 563780
+index: 2029
+BasePt+idx: 0x2aab2867c520
+kmerIdx: 563824
+index: 2030
+BasePt+idx: 0x2aab2867c520
+kmerIdx: 563987
+index: 2031
+BasePt+idx: 0x2aab2867c528
+kmerIdx: 564434
+index: 2033
+BasePt+idx: 0x2aab2867c528
+kmerIdx: 564509
+index: 2034
+BasePt+idx: 0x2aab2867c530
+kmerIdx: 564593
+index: 2036
+BasePt+idx: 0x2aab2867c530
+kmerIdx: 564792
+index: 2037
+BasePt+idx: 0x2aab2867c538
+kmerIdx: 564884
+index: 2038
+BasePt+idx: 0x2aab2867c538
+kmerIdx: 564935
+index: 2039
+BasePt+idx: 0x2aab2867c538
+kmerIdx: 564957
+index: 2040
+BasePt+idx: 0x2aab2867c540
+kmerIdx: 565046
+index: 2041
+BasePt+idx: 0x2aab2867c540
+kmerIdx: 565115
+index: 2042
+BasePt+idx: 0x2aab2867c540
+kmerIdx: 565158
+index: 2043
+BasePt+idx: 0x2aab2867c548
+kmerIdx: 565323
+index: 2044
+BasePt+idx: 0x2aab2867c548
+kmerIdx: 565372
+index: 2045
+BasePt+idx: 0x2aab2867c548
+kmerIdx: 565402
+index: 2046
+BasePt+idx: 0x2aab2867c550
+kmerIdx: 565430
+index: 2047
+BasePt+idx: 0x2aab2867c550
+kmerIdx: 565476
+index: 2048
+BasePt+idx: 0x2aab2867c550
+kmerIdx: 565581
+index: 2049
+BasePt+idx: 0x2aab2867c558
+kmerIdx: 565610
+index: 2050
+BasePt+idx: 0x2aab2867c558
+kmerIdx: 565634
+index: 2052
+BasePt+idx: 0x2aab2867c560
+kmerIdx: 565709
+index: 2053
+BasePt+idx: 0x2aab2867c560
+kmerIdx: 565732
+index: 2054
+BasePt+idx: 0x2aab2867c560
+kmerIdx: 565887
+index: 2055
+BasePt+idx: 0x2aab2867c568
+kmerIdx: 565932
+index: 2056
+BasePt+idx: 0x2aab2867c568
+kmerIdx: 565986
+index: 2058
+BasePt+idx: 0x2aab2867c570
+kmerIdx: 566360
+index: 2059
+BasePt+idx: 0x2aab2867c570
+kmerIdx: 566406
+index: 2060
+BasePt+idx: 0x2aab2867c570
+kmerIdx: 566430
+index: 2061
+BasePt+idx: 0x2aab2867c578
+kmerIdx: 566509
+index: 2062
+BasePt+idx: 0x2aab2867c578
+kmerIdx: 566549
+index: 2063
+BasePt+idx: 0x2aab2867c578
+kmerIdx: 566575
+index: 2064
+BasePt+idx: 0x2aab2867c580
+kmerIdx: 566632
+index: 2066
+BasePt+idx: 0x2aab2867c580
+kmerIdx: 566733
+index: 2067
+BasePt+idx: 0x2aab2867c588
+kmerIdx: 566771
+index: 2068
+BasePt+idx: 0x2aab2867c588
+kmerIdx: 566863
+index: 2069
+BasePt+idx: 0x2aab2867c588
+kmerIdx: 566898
+index: 2070
+BasePt+idx: 0x2aab2867c590
+kmerIdx: 566930
+index: 2071
+BasePt+idx: 0x2aab2867c590
+kmerIdx: 566957
+index: 2072
+BasePt+idx: 0x2aab2867c590
+kmerIdx: 566986
+index: 2073
+BasePt+idx: 0x2aab2867c598
+kmerIdx: 567035
+index: 2074
+BasePt+idx: 0x2aab2867c598
+kmerIdx: 567061
+index: 2076
+BasePt+idx: 0x2aab2867c5a0
+kmerIdx: 567081
+index: 2077
+BasePt+idx: 0x2aab2867c5a0
+kmerIdx: 567122
+index: 2079
+BasePt+idx: 0x2aab2867c5a8
+kmerIdx: 567175
+index: 2080
+BasePt+idx: 0x2aab2867c5a8
+kmerIdx: 567211
+index: 2082
+BasePt+idx: 0x2aab2867c5b0
+kmerIdx: 567238
+index: 2083
+BasePt+idx: 0x2aab2867c5b0
+kmerIdx: 567302
+index: 2084
+BasePt+idx: 0x2aab2867c5b0
+kmerIdx: 567326
+index: 2085
+BasePt+idx: 0x2aab2867c5b8
+kmerIdx: 567351
+index: 2086
+BasePt+idx: 0x2aab2867c5b8
+kmerIdx: 567393
+index: 2087
+BasePt+idx: 0x2aab2867c5b8
+kmerIdx: 567466
+index: 2088
+BasePt+idx: 0x2aab2867c5c0
+kmerIdx: 567548
+index: 2089
+BasePt+idx: 0x2aab2867c5c0
+kmerIdx: 567636
+index: 2090
+BasePt+idx: 0x2aab2867c5c0
+kmerIdx: 567730
+index: 2091
+BasePt+idx: 0x2aab2867c5c8
+kmerIdx: 567826
+index: 2092
+BasePt+idx: 0x2aab2867c5c8
+kmerIdx: 567857
+index: 2093
+BasePt+idx: 0x2aab2867c5c8
+kmerIdx: 567965
+index: 2094
+BasePt+idx: 0x2aab2867c5d0
+kmerIdx: 568000
+index: 2096
+BasePt+idx: 0x2aab2867c5d0
+kmerIdx: 568033
+index: 2097
+BasePt+idx: 0x2aab2867c5d8
+kmerIdx: 568058
+index: 2098
+BasePt+idx: 0x2aab2867c5d8
+kmerIdx: 568125
+index: 2099
+BasePt+idx: 0x2aab2867c5d8
+kmerIdx: 568148
+index: 2100
+BasePt+idx: 0x2aab2867c5e0
+kmerIdx: 568168
+index: 2101
+BasePt+idx: 0x2aab2867c5e0
+kmerIdx: 568192
+index: 2102
+BasePt+idx: 0x2aab2867c5e0
+kmerIdx: 568223
+index: 2103
+BasePt+idx: 0x2aab2867c5e8
+kmerIdx: 568247
+index: 2104
+BasePt+idx: 0x2aab2867c5e8
+kmerIdx: 568268
+index: 2105
+BasePt+idx: 0x2aab2867c5e8
+kmerIdx: 568293
+index: 2106
+BasePt+idx: 0x2aab2867c5f0
+kmerIdx: 568346
+index: 2107
+BasePt+idx: 0x2aab2867c5f0
+kmerIdx: 568376
+index: 2108
+BasePt+idx: 0x2aab2867c5f0
+kmerIdx: 568400
+index: 2109
+BasePt+idx: 0x2aab2867c5f8
+kmerIdx: 568475
+index: 2110
+BasePt+idx: 0x2aab2867c5f8
+kmerIdx: 568523
+index: 2111
+BasePt+idx: 0x2aab2867c5f8
+kmerIdx: 568544
+index: 2112
+BasePt+idx: 0x2aab2867c600
+kmerIdx: 568670
+index: 2113
+BasePt+idx: 0x2aab2867c600
+kmerIdx: 568692
+index: 2114
+BasePt+idx: 0x2aab2867c600
+kmerIdx: 568735
+index: 2115
+BasePt+idx: 0x2aab2867c608
+kmerIdx: 568761
+index: 2116
+BasePt+idx: 0x2aab2867c608
+kmerIdx: 568781
+index: 2117
+BasePt+idx: 0x2aab2867c608
+kmerIdx: 568804
+index: 2118
+BasePt+idx: 0x2aab2867c610
+kmerIdx: 568852
+index: 2119
+BasePt+idx: 0x2aab2867c610
+kmerIdx: 568930
+index: 2120
+BasePt+idx: 0x2aab2867c610
+kmerIdx: 568962
+index: 2121
+BasePt+idx: 0x2aab2867c618
+kmerIdx: 568983
+index: 2122
+BasePt+idx: 0x2aab2867c618
+kmerIdx: 569012
+index: 2123
+BasePt+idx: 0x2aab2867c618
+kmerIdx: 569034
+index: 2124
+BasePt+idx: 0x2aab2867c620
+kmerIdx: 569065
+index: 2126
+BasePt+idx: 0x2aab2867c620
+kmerIdx: 569091
+index: 2127
+BasePt+idx: 0x2aab2867c628
+kmerIdx: 569119
+index: 2128
+BasePt+idx: 0x2aab2867c628
+kmerIdx: 569155
+index: 2129
+BasePt+idx: 0x2aab2867c628
+kmerIdx: 569185
+index: 2130
+BasePt+idx: 0x2aab2867c630
+kmerIdx: 569253
+index: 2131
+BasePt+idx: 0x2aab2867c630
+kmerIdx: 569287
+index: 2132
+BasePt+idx: 0x2aab2867c630
+kmerIdx: 569314
+index: 2133
+BasePt+idx: 0x2aab2867c638
+kmerIdx: 569338
+index: 2134
+BasePt+idx: 0x2aab2867c638
+kmerIdx: 569361
+index: 2135
+BasePt+idx: 0x2aab2867c638
+kmerIdx: 569424
+index: 2136
+BasePt+idx: 0x2aab2867c640
+kmerIdx: 569466
+index: 2137
+BasePt+idx: 0x2aab2867c640
+kmerIdx: 569489
+index: 2138
+BasePt+idx: 0x2aab2867c640
+kmerIdx: 569519
+index: 2140
+BasePt+idx: 0x2aab2867c648
+kmerIdx: 569553
+index: 2141
+BasePt+idx: 0x2aab2867c648
+kmerIdx: 569579
+index: 2142
+BasePt+idx: 0x2aab2867c650
+kmerIdx: 569622
+index: 2143
+BasePt+idx: 0x2aab2867c650
+kmerIdx: 569652
+index: 2144
+BasePt+idx: 0x2aab2867c650
+kmerIdx: 569675
+index: 2145
+BasePt+idx: 0x2aab2867c658
+kmerIdx: 569696
+index: 2146
+BasePt+idx: 0x2aab2867c658
+kmerIdx: 569716
+index: 2147
+BasePt+idx: 0x2aab2867c658
+kmerIdx: 569737
+index: 2151
+BasePt+idx: 0x2aab2867c668
+kmerIdx: 571361
+index: 2153
+BasePt+idx: 0x2aab2867c668
+kmerIdx: 572175
+index: 2162
+BasePt+idx: 0x2aab2867c680
+kmerIdx: 575839
+index: 2168
+BasePt+idx: 0x2aab2867c690
+kmerIdx: 578837
+index: 2170
+BasePt+idx: 0x2aab2867c698
+kmerIdx: 579316
+index: 2173
+BasePt+idx: 0x2aab2867c6a0
+kmerIdx: 581372
+index: 2178
+BasePt+idx: 0x2aab2867c6b0
+kmerIdx: 584155
+index: 2180
+BasePt+idx: 0x2aab2867c6b0
+kmerIdx: 584287
+index: 2181
+BasePt+idx: 0x2aab2867c6b8
+kmerIdx: 584949
+index: 2188
+BasePt+idx: 0x2aab2867c6c8
+kmerIdx: 589022
+index: 2192
+BasePt+idx: 0x2aab2867c6d0
+kmerIdx: 590200
+index: 2198
+BasePt+idx: 0x2aab2867c6e0
+kmerIdx: 593555
+index: 2202
+BasePt+idx: 0x2aab2867c6f0
+kmerIdx: 596446
+index: 2206
+BasePt+idx: 0x2aab2867c6f8
+kmerIdx: 597684
+index: 2213
+BasePt+idx: 0x2aab2867c708
+kmerIdx: 599791
+index: 2219
+BasePt+idx: 0x2aab2867c718
+kmerIdx: 601935
+index: 2226
+BasePt+idx: 0x2aab2867c730
+kmerIdx: 606044
+index: 2229
+BasePt+idx: 0x2aab2867c738
+kmerIdx: 607733
+index: 2230
+BasePt+idx: 0x2aab2867c738
+kmerIdx: 607845
+index: 2235
+BasePt+idx: 0x2aab2867c748
+kmerIdx: 610414
+index: 2240
+BasePt+idx: 0x2aab2867c750
+kmerIdx: 612216
+index: 2243
+BasePt+idx: 0x2aab2867c758
+kmerIdx: 613179
+index: 2251
+BasePt+idx: 0x2aab2867c770
+kmerIdx: 617424
+index: 2254
+BasePt+idx: 0x2aab2867c778
+kmerIdx: 618107
+index: 2262
+BasePt+idx: 0x2aab2867c790
+kmerIdx: 621779
+index: 2264
+BasePt+idx: 0x2aab2867c790
+kmerIdx: 622588
+index: 2266
+BasePt+idx: 0x2aab2867c798
+kmerIdx: 623219
+index: 2269
+BasePt+idx: 0x2aab2867c7a0
+kmerIdx: 624239
+index: 2276
+BasePt+idx: 0x2aab2867c7b0
+kmerIdx: 625836
+index: 2281
+BasePt+idx: 0x2aab2867c7c0
+kmerIdx: 629267
+index: 2283
+BasePt+idx: 0x2aab2867c7c8
+kmerIdx: 630215
+index: 2290
+BasePt+idx: 0x2aab2867c7d8
+kmerIdx: 633376
+index: 2294
+BasePt+idx: 0x2aab2867c7e0
+kmerIdx: 635138
+index: 2295
+BasePt+idx: 0x2aab2867c7e8
+kmerIdx: 635500
+index: 2298
+BasePt+idx: 0x2aab2867c7f0
+kmerIdx: 636335
+index: 2301
+BasePt+idx: 0x2aab2867c7f8
+kmerIdx: 636820
+index: 2302
+BasePt+idx: 0x2aab2867c7f8
+kmerIdx: 637913
+index: 2305
+BasePt+idx: 0x2aab2867c800
+kmerIdx: 639861
+index: 2306
+BasePt+idx: 0x2aab2867c800
+kmerIdx: 640131
+index: 2313
+BasePt+idx: 0x2aab2867c818
+kmerIdx: 643684
+index: 2323
+BasePt+idx: 0x2aab2867c830
+kmerIdx: 647737
+index: 2324
+BasePt+idx: 0x2aab2867c830
+kmerIdx: 648063
+index: 2326
+BasePt+idx: 0x2aab2867c838
+kmerIdx: 649092
+index: 2328
+BasePt+idx: 0x2aab2867c840
+kmerIdx: 650043
+index: 2329
+BasePt+idx: 0x2aab2867c840
+kmerIdx: 650142
+index: 2330
+BasePt+idx: 0x2aab2867c840
+kmerIdx: 650600
+index: 2334
+BasePt+idx: 0x2aab2867c850
+kmerIdx: 652527
+index: 2342
+BasePt+idx: 0x2aab2867c860
+kmerIdx: 655362
+index: 2345
+BasePt+idx: 0x2aab2867c868
+kmerIdx: 656000
+index: 2346
+BasePt+idx: 0x2aab2867c870
+kmerIdx: 656374
+index: 2355
+BasePt+idx: 0x2aab2867c888
+kmerIdx: 660284
+index: 2364
+BasePt+idx: 0x2aab2867c8a0
+kmerIdx: 663541
+index: 2367
+BasePt+idx: 0x2aab2867c8a8
+kmerIdx: 664135
+index: 2376
+BasePt+idx: 0x2aab2867c8c0
+kmerIdx: 669336
+index: 2380
+BasePt+idx: 0x2aab2867c8c8
+kmerIdx: 671445
+index: 2382
+BasePt+idx: 0x2aab2867c8d0
+kmerIdx: 671877
+index: 2390
+BasePt+idx: 0x2aab2867c8e0
+kmerIdx: 675625
+index: 2391
+BasePt+idx: 0x2aab2867c8e8
+kmerIdx: 676050
+index: 2392
+BasePt+idx: 0x2aab2867c8e8
+kmerIdx: 676189
+index: 2394
+BasePt+idx: 0x2aab2867c8f0
+kmerIdx: 677139
+index: 2399
+BasePt+idx: 0x2aab2867c8f8
+kmerIdx: 679044
+index: 2402
+BasePt+idx: 0x2aab2867c900
+kmerIdx: 680028
+index: 2408
+BasePt+idx: 0x2aab2867c910
+kmerIdx: 682594
+index: 2411
+BasePt+idx: 0x2aab2867c918
+kmerIdx: 684694
+index: 2414
+BasePt+idx: 0x2aab2867c920
+kmerIdx: 685731
+index: 2417
+BasePt+idx: 0x2aab2867c928
+kmerIdx: 686778
+index: 2418
+BasePt+idx: 0x2aab2867c930
+kmerIdx: 687512
+index: 2424
+BasePt+idx: 0x2aab2867c940
+kmerIdx: 689130
+index: 2432
+BasePt+idx: 0x2aab2867c950
+kmerIdx: 692473
+index: 2436
+BasePt+idx: 0x2aab2867c960
+kmerIdx: 693525
+index: 2440
+BasePt+idx: 0x2aab2867c968
+kmerIdx: 694534
+index: 2444
+BasePt+idx: 0x2aab2867c970
+kmerIdx: 695710
+index: 2446
+BasePt+idx: 0x2aab2867c978
+kmerIdx: 695968
+index: 2447
+BasePt+idx: 0x2aab2867c978
+kmerIdx: 696478
+index: 2456
+BasePt+idx: 0x2aab2867c990
+kmerIdx: 699927
+index: 2461
+BasePt+idx: 0x2aab2867c9a0
+kmerIdx: 701102
+index: 2463
+BasePt+idx: 0x2aab2867c9a8
+kmerIdx: 701872
+index: 2469
+BasePt+idx: 0x2aab2867c9b8
+kmerIdx: 704486
+index: 2479
+BasePt+idx: 0x2aab2867c9d0
+kmerIdx: 707724
+index: 2481
+BasePt+idx: 0x2aab2867c9d8
+kmerIdx: 707941
+index: 2487
+BasePt+idx: 0x2aab2867c9e8
+kmerIdx: 708981
+index: 2499
+BasePt+idx: 0x2aab2867ca08
+kmerIdx: 712080
+index: 2502
+BasePt+idx: 0x2aab2867ca10
+kmerIdx: 712314
+index: 2508
+BasePt+idx: 0x2aab2867ca20
+kmerIdx: 714333
+index: 2516
+BasePt+idx: 0x2aab2867ca30
+kmerIdx: 716783
+index: 2525
+BasePt+idx: 0x2aab2867ca48
+kmerIdx: 720577
+index: 2531
+BasePt+idx: 0x2aab2867ca58
+kmerIdx: 723086
+index: 2540
+BasePt+idx: 0x2aab2867ca70
+kmerIdx: 725444
+index: 2545
+BasePt+idx: 0x2aab2867ca80
+kmerIdx: 726428
+index: 2552
+BasePt+idx: 0x2aab2867ca90
+kmerIdx: 728790
+index: 2562
+BasePt+idx: 0x2aab2867cab0
+kmerIdx: 731052
+index: 2566
+BasePt+idx: 0x2aab2867cab8
+kmerIdx: 733839
+index: 2567
+BasePt+idx: 0x2aab2867cab8
+kmerIdx: 733993
+index: 2570
+BasePt+idx: 0x2aab2867cac0
+kmerIdx: 734411
+index: 2575
+BasePt+idx: 0x2aab2867cad0
+kmerIdx: 736069
+index: 2578
+BasePt+idx: 0x2aab2867cad8
+kmerIdx: 737034
+index: 2588
+BasePt+idx: 0x2aab2867caf0
+kmerIdx: 739494
+index: 2597
+BasePt+idx: 0x2aab2867cb08
+kmerIdx: 742035
+index: 2602
+BasePt+idx: 0x2aab2867cb18
+kmerIdx: 742930
+index: 2612
+BasePt+idx: 0x2aab2867cb30
+kmerIdx: 744304
+index: 2617
+BasePt+idx: 0x2aab2867cb40
+kmerIdx: 746292
+index: 2629
+BasePt+idx: 0x2aab2867cb60
+kmerIdx: 748707
+index: 2635
+BasePt+idx: 0x2aab2867cb70
+kmerIdx: 749770
+index: 2638
+BasePt+idx: 0x2aab2867cb78
+kmerIdx: 751240
+index: 2648
+BasePt+idx: 0x2aab2867cb90
+kmerIdx: 754100
+index: 2650
+BasePt+idx: 0x2aab2867cb98
+kmerIdx: 754345
+index: 2654
+BasePt+idx: 0x2aab2867cba0
+kmerIdx: 755642
+index: 2668
+BasePt+idx: 0x2aab2867cbc8
+kmerIdx: 758188
+index: 2673
+BasePt+idx: 0x2aab2867cbd8
+kmerIdx: 759590
+index: 2679
+BasePt+idx: 0x2aab2867cbe8
+kmerIdx: 761168
+index: 2683
+BasePt+idx: 0x2aab2867cbf0
+kmerIdx: 761929
+index: 2689
+BasePt+idx: 0x2aab2867cc00
+kmerIdx: 763774
+index: 2699
+BasePt+idx: 0x2aab2867cc18
+kmerIdx: 765871
+index: 2708
+BasePt+idx: 0x2aab2867cc30
+kmerIdx: 768287
+index: 2713
+BasePt+idx: 0x2aab2867cc40
+kmerIdx: 769364
+index: 2719
+BasePt+idx: 0x2aab2867cc50
+kmerIdx: 770996
+index: 2720
+BasePt+idx: 0x2aab2867cc50
+kmerIdx: 771038
+index: 2733
+BasePt+idx: 0x2aab2867cc78
+kmerIdx: 773185
+index: 2740
+BasePt+idx: 0x2aab2867cc88
+kmerIdx: 775295
+index: 2749
+BasePt+idx: 0x2aab2867cca0
+kmerIdx: 777254
+index: 2751
+BasePt+idx: 0x2aab2867cca8
+kmerIdx: 777472
+index: 2760
+BasePt+idx: 0x2aab2867ccc0
+kmerIdx: 778742
+index: 2761
+BasePt+idx: 0x2aab2867ccc0
+kmerIdx: 779301
+index: 2767
+BasePt+idx: 0x2aab2867ccd0
+kmerIdx: 780319
+index: 2780
+BasePt+idx: 0x2aab2867ccf0
+kmerIdx: 782198
+index: 2787
+BasePt+idx: 0x2aab2867cd08
+kmerIdx: 783226
+index: 2800
+BasePt+idx: 0x2aab2867cd28
+kmerIdx: 785489
+index: 2802
+BasePt+idx: 0x2aab2867cd30
+kmerIdx: 785932
+index: 2813
+BasePt+idx: 0x2aab2867cd48
+kmerIdx: 787736
+index: 2821
+BasePt+idx: 0x2aab2867cd60
+kmerIdx: 788521
+index: 2841
+BasePt+idx: 0x2aab2867cd98
+kmerIdx: 791637
+index: 2854
+BasePt+idx: 0x2aab2867cdb8
+kmerIdx: 793621
+index: 2857
+BasePt+idx: 0x2aab2867cdc0
+kmerIdx: 793811
+index: 2878
+BasePt+idx: 0x2aab2867cdf8
+kmerIdx: 796055
+index: 2880
+BasePt+idx: 0x2aab2867ce00
+kmerIdx: 796170
+index: 2894
+BasePt+idx: 0x2aab2867ce20
+kmerIdx: 796888
+index: 2896
+BasePt+idx: 0x2aab2867ce28
+kmerIdx: 796977
+index: 2914
+BasePt+idx: 0x2aab2867ce58
+kmerIdx: 798051
+index: 2933
+BasePt+idx: 0x2aab2867ce88
+kmerIdx: 799374
+index: 2956
+BasePt+idx: 0x2aab2867cec8
+kmerIdx: 800502
+index: 2983
+BasePt+idx: 0x2aab2867cf10
+kmerIdx: 801692
+index: 3005
+BasePt+idx: 0x2aab2867cf48
+kmerIdx: 803254
+index: 3007
+BasePt+idx: 0x2aab2867cf50
+kmerIdx: 803842
+index: 3010
+BasePt+idx: 0x2aab2867cf58
+kmerIdx: 804355
+index: 3017
+BasePt+idx: 0x2aab2867cf68
+kmerIdx: 806721
+index: 3021
+BasePt+idx: 0x2aab2867cf78
+kmerIdx: 808724
+index: 3024
+BasePt+idx: 0x2aab2867cf80
+kmerIdx: 809772
+index: 3030
+BasePt+idx: 0x2aab2867cf90
+kmerIdx: 810886
+index: 3032
+BasePt+idx: 0x2aab2867cf90
+kmerIdx: 811275
+index: 3033
+BasePt+idx: 0x2aab2867cf98
+kmerIdx: 812724
+index: 3036
+BasePt+idx: 0x2aab2867cfa0
+kmerIdx: 813517
+index: 3051
+BasePt+idx: 0x2aab2867cfc8
+kmerIdx: 819009
+index: 3052
+BasePt+idx: 0x2aab2867cfc8
+kmerIdx: 819194
+index: 3055
+BasePt+idx: 0x2aab2867cfd0
+kmerIdx: 822093
+index: 3061
+BasePt+idx: 0x2aab2867cfe0
+kmerIdx: 826202
+index: 3064
+BasePt+idx: 0x2aab2867cfe8
+kmerIdx: 826837
+index: 3067
+BasePt+idx: 0x2aab2867cff0
+kmerIdx: 828148
+index: 3068
+BasePt+idx: 0x2aab2867cff0
+kmerIdx: 828647
+index: 3070
+BasePt+idx: 0x2aab2867cff8
+kmerIdx: 830017
+index: 3073
+BasePt+idx: 0x2aab2867d000
+kmerIdx: 832181
+index: 3074
+BasePt+idx: 0x2aab2867d000
+kmerIdx: 832672
+index: 3078
+BasePt+idx: 0x2aab2867d010
+kmerIdx: 834193
+index: 3080
+BasePt+idx: 0x2aab2867d010
+kmerIdx: 834932
+index: 3083
+BasePt+idx: 0x2aab2867d018
+kmerIdx: 835612
+index: 3084
+BasePt+idx: 0x2aab2867d020
+kmerIdx: 836882
+index: 3088
+BasePt+idx: 0x2aab2867d028
+kmerIdx: 837821
+index: 3090
+BasePt+idx: 0x2aab2867d030
+kmerIdx: 838324
+index: 3100
+BasePt+idx: 0x2aab2867d048
+kmerIdx: 841545
+index: 3102
+BasePt+idx: 0x2aab2867d050
+kmerIdx: 842830
+index: 3103
+BasePt+idx: 0x2aab2867d050
+kmerIdx: 843250
+index: 3108
+BasePt+idx: 0x2aab2867d060
+kmerIdx: 844648
+index: 3111
+BasePt+idx: 0x2aab2867d068
+kmerIdx: 845897
+index: 3114
+BasePt+idx: 0x2aab2867d070
+kmerIdx: 846794
+index: 3119
+BasePt+idx: 0x2aab2867d078
+kmerIdx: 849062
+index: 3126
+BasePt+idx: 0x2aab2867d090
+kmerIdx: 852019
+index: 3128
+BasePt+idx: 0x2aab2867d090
+kmerIdx: 852396
+index: 3131
+BasePt+idx: 0x2aab2867d098
+kmerIdx: 853383
+index: 3137
+BasePt+idx: 0x2aab2867d0a8
+kmerIdx: 855103
+index: 3141
+BasePt+idx: 0x2aab2867d0b8
+kmerIdx: 856530
+index: 3145
+BasePt+idx: 0x2aab2867d0c0
+kmerIdx: 857661
+index: 3148
+BasePt+idx: 0x2aab2867d0c8
+kmerIdx: 859301
+index: 3154
+BasePt+idx: 0x2aab2867d0d8
+kmerIdx: 861573
+index: 3156
+BasePt+idx: 0x2aab2867d0e0
+kmerIdx: 861781
+index: 3157
+BasePt+idx: 0x2aab2867d0e0
+kmerIdx: 861855
+index: 3159
+BasePt+idx: 0x2aab2867d0e8
+kmerIdx: 862379
+index: 3162
+BasePt+idx: 0x2aab2867d0f0
+kmerIdx: 863225
+index: 3164
+BasePt+idx: 0x2aab2867d0f0
+kmerIdx: 864036
+index: 3165
+BasePt+idx: 0x2aab2867d0f8
+kmerIdx: 864308
+index: 3167
+BasePt+idx: 0x2aab2867d0f8
+kmerIdx: 865156
+index: 3172
+BasePt+idx: 0x2aab2867d108
+kmerIdx: 867370
+index: 3174
+BasePt+idx: 0x2aab2867d110
+kmerIdx: 867800
+index: 3176
+BasePt+idx: 0x2aab2867d110
+kmerIdx: 868008
+index: 3179
+BasePt+idx: 0x2aab2867d118
+kmerIdx: 869619
+index: 3180
+BasePt+idx: 0x2aab2867d120
+kmerIdx: 869730
+index: 3186
+BasePt+idx: 0x2aab2867d130
+kmerIdx: 871982
+index: 3188
+BasePt+idx: 0x2aab2867d130
+kmerIdx: 872891
+index: 3189
+BasePt+idx: 0x2aab2867d138
+kmerIdx: 872914
+index: 3201
+BasePt+idx: 0x2aab2867d158
+kmerIdx: 875153
+index: 3204
+BasePt+idx: 0x2aab2867d160
+kmerIdx: 876152
+index: 3208
+BasePt+idx: 0x2aab2867d168
+kmerIdx: 876973
+index: 3212
+BasePt+idx: 0x2aab2867d170
+kmerIdx: 878386
+index: 3215
+BasePt+idx: 0x2aab2867d178
+kmerIdx: 879455
+index: 3219
+BasePt+idx: 0x2aab2867d188
+kmerIdx: 881313
+index: 3220
+BasePt+idx: 0x2aab2867d188
+kmerIdx: 881512
+index: 3224
+BasePt+idx: 0x2aab2867d190
+kmerIdx: 882819
+index: 3232
+BasePt+idx: 0x2aab2867d1a8
+kmerIdx: 885212
+index: 3239
+BasePt+idx: 0x2aab2867d1b8
+kmerIdx: 887071
+index: 3250
+BasePt+idx: 0x2aab2867d1d8
+kmerIdx: 889736
+index: 3254
+BasePt+idx: 0x2aab2867d1e0
+kmerIdx: 890897
+index: 3259
+BasePt+idx: 0x2aab2867d1f0
+kmerIdx: 892183
+index: 3266
+BasePt+idx: 0x2aab2867d200
+kmerIdx: 895291
+index: 3276
+BasePt+idx: 0x2aab2867d220
+kmerIdx: 898300
+index: 3281
+BasePt+idx: 0x2aab2867d228
+kmerIdx: 899146
+index: 3286
+BasePt+idx: 0x2aab2867d238
+kmerIdx: 899562
+index: 3294
+BasePt+idx: 0x2aab2867d250
+kmerIdx: 901048
+index: 3297
+BasePt+idx: 0x2aab2867d258
+kmerIdx: 902741
+index: 3298
+BasePt+idx: 0x2aab2867d258
+kmerIdx: 903004
+index: 3304
+BasePt+idx: 0x2aab2867d268
+kmerIdx: 904165
+index: 3311
+BasePt+idx: 0x2aab2867d278
+kmerIdx: 906482
+index: 3314
+BasePt+idx: 0x2aab2867d280
+kmerIdx: 906941
+index: 3318
+BasePt+idx: 0x2aab2867d290
+kmerIdx: 908765
+index: 3326
+BasePt+idx: 0x2aab2867d2a0
+kmerIdx: 910829
+index: 3332
+BasePt+idx: 0x2aab2867d2b0
+kmerIdx: 911695
+index: 3336
+BasePt+idx: 0x2aab2867d2c0
+kmerIdx: 912359
+index: 3345
+BasePt+idx: 0x2aab2867d2d8
+kmerIdx: 914093
+index: 3351
+BasePt+idx: 0x2aab2867d2e8
+kmerIdx: 914711
+index: 3359
+BasePt+idx: 0x2aab2867d2f8
+kmerIdx: 916089
+index: 3368
+BasePt+idx: 0x2aab2867d310
+kmerIdx: 917832
+index: 3369
+BasePt+idx: 0x2aab2867d318
+kmerIdx: 918186
+index: 3372
+BasePt+idx: 0x2aab2867d320
+kmerIdx: 918848
+index: 3388
+BasePt+idx: 0x2aab2867d348
+kmerIdx: 921286
+index: 3396
+BasePt+idx: 0x2aab2867d360
+kmerIdx: 922872
+index: 3407
+BasePt+idx: 0x2aab2867d378
+kmerIdx: 924631
+index: 3413
+BasePt+idx: 0x2aab2867d388
+kmerIdx: 925982
+index: 3423
+BasePt+idx: 0x2aab2867d3a8
+kmerIdx: 927571
+index: 3431
+BasePt+idx: 0x2aab2867d3b8
+kmerIdx: 929100
+index: 3450
+BasePt+idx: 0x2aab2867d3f0
+kmerIdx: 931620
+index: 3453
+BasePt+idx: 0x2aab2867d3f8
+kmerIdx: 932091
+index: 3479
+BasePt+idx: 0x2aab2867d438
+kmerIdx: 936336
+index: 3499
+BasePt+idx: 0x2aab2867d470
+kmerIdx: 937735
+index: 3506
+BasePt+idx: 0x2aab2867d480
+kmerIdx: 938369
+index: 3515
+BasePt+idx: 0x2aab2867d498
+kmerIdx: 939114
+index: 3548
+BasePt+idx: 0x2aab2867d4f0
+kmerIdx: 940698
+index: 3562
+BasePt+idx: 0x2aab2867d518
+kmerIdx: 941357
+index: 3565
+BasePt+idx: 0x2aab2867d520
+kmerIdx: 941476
+index: 3580
+BasePt+idx: 0x2aab2867d548
+kmerIdx: 941882
+index: 3584
+BasePt+idx: 0x2aab2867d550
+kmerIdx: 942606
+index: 3585
+BasePt+idx: 0x2aab2867d558
+kmerIdx: 942732
+index: 3590
+BasePt+idx: 0x2aab2867d560
+kmerIdx: 944674
+index: 3591
+BasePt+idx: 0x2aab2867d568
+kmerIdx: 945368
+index: 3594
+BasePt+idx: 0x2aab2867d570
+kmerIdx: 946536
+index: 3597
+BasePt+idx: 0x2aab2867d578
+kmerIdx: 948089
+index: 3599
+BasePt+idx: 0x2aab2867d578
+kmerIdx: 948195
+index: 3600
+BasePt+idx: 0x2aab2867d580
+kmerIdx: 948705
+index: 3602
+BasePt+idx: 0x2aab2867d580
+kmerIdx: 949091
+index: 3606
+BasePt+idx: 0x2aab2867d590
+kmerIdx: 950179
+index: 3609
+BasePt+idx: 0x2aab2867d598
+kmerIdx: 950794
+index: 3612
+BasePt+idx: 0x2aab2867d5a0
+kmerIdx: 954547
+index: 3614
+BasePt+idx: 0x2aab2867d5a0
+kmerIdx: 956301
+index: 3616
+BasePt+idx: 0x2aab2867d5a8
+kmerIdx: 956868
+index: 3618
+BasePt+idx: 0x2aab2867d5b0
+kmerIdx: 957544
+index: 3620
+BasePt+idx: 0x2aab2867d5b0
+kmerIdx: 959316
+index: 3625
+BasePt+idx: 0x2aab2867d5c0
+kmerIdx: 960871
+index: 3626
+BasePt+idx: 0x2aab2867d5c0
+kmerIdx: 960896
+index: 3627
+BasePt+idx: 0x2aab2867d5c8
+kmerIdx: 961072
+index: 3629
+BasePt+idx: 0x2aab2867d5c8
+kmerIdx: 962168
+index: 3631
+BasePt+idx: 0x2aab2867d5d0
+kmerIdx: 962577
+index: 3633
+BasePt+idx: 0x2aab2867d5d8
+kmerIdx: 964163
+index: 3636
+BasePt+idx: 0x2aab2867d5e0
+kmerIdx: 964818
+index: 3640
+BasePt+idx: 0x2aab2867d5e8
+kmerIdx: 966462
+index: 3641
+BasePt+idx: 0x2aab2867d5e8
+kmerIdx: 966756
+index: 3643
+BasePt+idx: 0x2aab2867d5f0
+kmerIdx: 967813
+index: 3646
+BasePt+idx: 0x2aab2867d5f8
+kmerIdx: 968556
+index: 3647
+BasePt+idx: 0x2aab2867d5f8
+kmerIdx: 968851
+index: 3652
+BasePt+idx: 0x2aab2867d608
+kmerIdx: 970868
+index: 3654
+BasePt+idx: 0x2aab2867d610
+kmerIdx: 971988
+index: 3656
+BasePt+idx: 0x2aab2867d610
+kmerIdx: 973057
+index: 3658
+BasePt+idx: 0x2aab2867d618
+kmerIdx: 975034
+index: 3659
+BasePt+idx: 0x2aab2867d618
+kmerIdx: 975121
+index: 3660
+BasePt+idx: 0x2aab2867d620
+kmerIdx: 975630
+index: 3662
+BasePt+idx: 0x2aab2867d620
+kmerIdx: 977112
+index: 3666
+BasePt+idx: 0x2aab2867d630
+kmerIdx: 978355
+index: 3669
+BasePt+idx: 0x2aab2867d638
+kmerIdx: 981032
+index: 3670
+BasePt+idx: 0x2aab2867d638
+kmerIdx: 981771
+index: 3675
+BasePt+idx: 0x2aab2867d648
+kmerIdx: 984366
+index: 3676
+BasePt+idx: 0x2aab2867d648
+kmerIdx: 984980
+index: 3678
+BasePt+idx: 0x2aab2867d650
+kmerIdx: 985623
+index: 3680
+BasePt+idx: 0x2aab2867d650
+kmerIdx: 986217
+index: 3683
+BasePt+idx: 0x2aab2867d658
+kmerIdx: 987937
+index: 3684
+BasePt+idx: 0x2aab2867d660
+kmerIdx: 988268
+index: 3687
+BasePt+idx: 0x2aab2867d668
+kmerIdx: 989928
+index: 3691
+BasePt+idx: 0x2aab2867d670
+kmerIdx: 990814
+index: 3692
+BasePt+idx: 0x2aab2867d670
+kmerIdx: 990969
+index: 3693
+BasePt+idx: 0x2aab2867d678
+kmerIdx: 991129
+index: 3696
+BasePt+idx: 0x2aab2867d680
+kmerIdx: 992518
+index: 3699
+BasePt+idx: 0x2aab2867d688
+kmerIdx: 993324
+index: 3700
+BasePt+idx: 0x2aab2867d688
+kmerIdx: 993693
+index: 3702
+BasePt+idx: 0x2aab2867d690
+kmerIdx: 994256
+index: 3704
+BasePt+idx: 0x2aab2867d690
+kmerIdx: 995197
+index: 3706
+BasePt+idx: 0x2aab2867d698
+kmerIdx: 996977
+index: 3710
+BasePt+idx: 0x2aab2867d6a0
+kmerIdx: 998564
+index: 3712
+BasePt+idx: 0x2aab2867d6a8
+kmerIdx: 1000625
+index: 3715
+BasePt+idx: 0x2aab2867d6b0
+kmerIdx: 1001964
+index: 3716
+BasePt+idx: 0x2aab2867d6b0
+kmerIdx: 1002616
+index: 3718
+BasePt+idx: 0x2aab2867d6b8
+kmerIdx: 1003672
+index: 3721
+BasePt+idx: 0x2aab2867d6c0
+kmerIdx: 1005154
+index: 3722
+BasePt+idx: 0x2aab2867d6c0
+kmerIdx: 1005174
+index: 3725
+BasePt+idx: 0x2aab2867d6c8
+kmerIdx: 1007625
+index: 3726
+BasePt+idx: 0x2aab2867d6d0
+kmerIdx: 1008188
+index: 3727
+BasePt+idx: 0x2aab2867d6d0
+kmerIdx: 1008319
+index: 3728
+BasePt+idx: 0x2aab2867d6d0
+kmerIdx: 1009187
+index: 3729
+BasePt+idx: 0x2aab2867d6d8
+kmerIdx: 1009617
+index: 3731
+BasePt+idx: 0x2aab2867d6d8
+kmerIdx: 1010237
+index: 3734
+BasePt+idx: 0x2aab2867d6e0
+kmerIdx: 1011841
+index: 3735
+BasePt+idx: 0x2aab2867d6e8
+kmerIdx: 1012868
+index: 3738
+BasePt+idx: 0x2aab2867d6f0
+kmerIdx: 1013470
+index: 3739
+BasePt+idx: 0x2aab2867d6f0
+kmerIdx: 1014261
+index: 3742
+BasePt+idx: 0x2aab2867d6f8
+kmerIdx: 1015258
+index: 3744
+BasePt+idx: 0x2aab2867d700
+kmerIdx: 1016661
+index: 3745
+BasePt+idx: 0x2aab2867d700
+kmerIdx: 1017520
+index: 3746
+BasePt+idx: 0x2aab2867d700
+kmerIdx: 1018093
+index: 3749
+BasePt+idx: 0x2aab2867d708
+kmerIdx: 1019661
+index: 3752
+BasePt+idx: 0x2aab2867d710
+kmerIdx: 1021498
+index: 3755
+BasePt+idx: 0x2aab2867d718
+kmerIdx: 1022543
+index: 3758
+BasePt+idx: 0x2aab2867d720
+kmerIdx: 1023749
+index: 3759
+BasePt+idx: 0x2aab2867d728
+kmerIdx: 1024165
+index: 3761
+BasePt+idx: 0x2aab2867d728
+kmerIdx: 1024822
+index: 3763
+BasePt+idx: 0x2aab2867d730
+kmerIdx: 1025147
+index: 3765
+BasePt+idx: 0x2aab2867d738
+kmerIdx: 1025475
+index: 3766
+BasePt+idx: 0x2aab2867d738
+kmerIdx: 1026087
+index: 3767
+BasePt+idx: 0x2aab2867d738
+kmerIdx: 1026347
+index: 3771
+BasePt+idx: 0x2aab2867d748
+kmerIdx: 1029046
+index: 3772
+BasePt+idx: 0x2aab2867d748
+kmerIdx: 1029447
+index: 3773
+BasePt+idx: 0x2aab2867d748
+kmerIdx: 1029888
+index: 3777
+BasePt+idx: 0x2aab2867d758
+kmerIdx: 1031874
+index: 3778
+BasePt+idx: 0x2aab2867d758
+kmerIdx: 1032118
+index: 3782
+BasePt+idx: 0x2aab2867d760
+kmerIdx: 1033230
+index: 3783
+BasePt+idx: 0x2aab2867d768
+kmerIdx: 1033413
+index: 3784
+BasePt+idx: 0x2aab2867d768
+kmerIdx: 1033570
+index: 3786
+BasePt+idx: 0x2aab2867d770
+kmerIdx: 1034374
+index: 3789
+BasePt+idx: 0x2aab2867d778
+kmerIdx: 1035589
+index: 3794
+BasePt+idx: 0x2aab2867d780
+kmerIdx: 1037600
+index: 3795
+BasePt+idx: 0x2aab2867d788
+kmerIdx: 1038128
+index: 3797
+BasePt+idx: 0x2aab2867d788
+kmerIdx: 1039023
+index: 3798
+BasePt+idx: 0x2aab2867d790
+kmerIdx: 1039458
+index: 3799
+BasePt+idx: 0x2aab2867d790
+kmerIdx: 1040013
+index: 3801
+BasePt+idx: 0x2aab2867d798
+kmerIdx: 1041302
+index: 3802
+BasePt+idx: 0x2aab2867d798
+kmerIdx: 1041660
+index: 3803
+BasePt+idx: 0x2aab2867d798
+kmerIdx: 1043629
+index: 3804
+BasePt+idx: 0x2aab2867d7a0
+kmerIdx: 1043801
+index: 3807
+BasePt+idx: 0x2aab2867d7a8
+kmerIdx: 1044182
+index: 3808
+BasePt+idx: 0x2aab2867d7a8
+kmerIdx: 1044961
+index: 3810
+BasePt+idx: 0x2aab2867d7b0
+kmerIdx: 1045210
+index: 3811
+BasePt+idx: 0x2aab2867d7b0
+kmerIdx: 1045418
+index: 3812
+BasePt+idx: 0x2aab2867d7b0
+kmerIdx: 1045505
+index: 3813
+BasePt+idx: 0x2aab2867d7b8
+kmerIdx: 1045612
+index: 3814
+BasePt+idx: 0x2aab2867d7b8
+kmerIdx: 1046177
+index: 3815
+BasePt+idx: 0x2aab2867d7b8
+kmerIdx: 1046691
+index: 3818
+BasePt+idx: 0x2aab2867d7c0
+kmerIdx: 1047924
+index: 3820
+BasePt+idx: 0x2aab2867d7c8
+kmerIdx: 1048356
+index: 3822
+BasePt+idx: 0x2aab2867d7d0
+kmerIdx: 1048983
+index: 3824
+BasePt+idx: 0x2aab2867d7d0
+kmerIdx: 1049782
+index: 3826
+BasePt+idx: 0x2aab2867d7d8
+kmerIdx: 1051139
+index: 3828
+BasePt+idx: 0x2aab2867d7e0
+kmerIdx: 1052167
+index: 3829
+BasePt+idx: 0x2aab2867d7e0
+kmerIdx: 1052564
+index: 3830
+BasePt+idx: 0x2aab2867d7e0
+kmerIdx: 1052844
+index: 3832
+BasePt+idx: 0x2aab2867d7e8
+kmerIdx: 1053334
+index: 3833
+BasePt+idx: 0x2aab2867d7e8
+kmerIdx: 1053719
+index: 3838
+BasePt+idx: 0x2aab2867d7f8
+kmerIdx: 1057202
+index: 3841
+BasePt+idx: 0x2aab2867d800
+kmerIdx: 1057604
+index: 3843
+BasePt+idx: 0x2aab2867d808
+kmerIdx: 1057734
+index: 3845
+BasePt+idx: 0x2aab2867d808
+kmerIdx: 1058066
+index: 3846
+BasePt+idx: 0x2aab2867d810
+kmerIdx: 1058543
+index: 3847
+BasePt+idx: 0x2aab2867d810
+kmerIdx: 1059002
+index: 3848
+BasePt+idx: 0x2aab2867d810
+kmerIdx: 1059328
+index: 3850
+BasePt+idx: 0x2aab2867d818
+kmerIdx: 1060023
+index: 3851
+BasePt+idx: 0x2aab2867d818
+kmerIdx: 1060117
+index: 3852
+BasePt+idx: 0x2aab2867d820
+kmerIdx: 1061037
+index: 3853
+BasePt+idx: 0x2aab2867d820
+kmerIdx: 1061158
+index: 3857
+BasePt+idx: 0x2aab2867d828
+kmerIdx: 1062029
+index: 3860
+BasePt+idx: 0x2aab2867d830
+kmerIdx: 1062778
+index: 3861
+BasePt+idx: 0x2aab2867d838
+kmerIdx: 1063164
+index: 3862
+BasePt+idx: 0x2aab2867d838
+kmerIdx: 1063210
+index: 3863
+BasePt+idx: 0x2aab2867d838
+kmerIdx: 1063354
+index: 3866
+BasePt+idx: 0x2aab2867d840
+kmerIdx: 1064029
+index: 3867
+BasePt+idx: 0x2aab2867d848
+kmerIdx: 1064119
+index: 3868
+BasePt+idx: 0x2aab2867d848
+kmerIdx: 1064254
+index: 3870
+BasePt+idx: 0x2aab2867d850
+kmerIdx: 1065011
+index: 3872
+BasePt+idx: 0x2aab2867d850
+kmerIdx: 1065548
+index: 3873
+BasePt+idx: 0x2aab2867d858
+kmerIdx: 1065807
+index: 3874
+BasePt+idx: 0x2aab2867d858
+kmerIdx: 1066239
+index: 3875
+BasePt+idx: 0x2aab2867d858
+kmerIdx: 1066598
+index: 3876
+BasePt+idx: 0x2aab2867d860
+kmerIdx: 1066686
+index: 3878
+BasePt+idx: 0x2aab2867d860
+kmerIdx: 1066785
+index: 3879
+BasePt+idx: 0x2aab2867d868
+kmerIdx: 1067035
+index: 3881
+BasePt+idx: 0x2aab2867d868
+kmerIdx: 1067457
+index: 3882
+BasePt+idx: 0x2aab2867d870
+kmerIdx: 1067769
+index: 3885
+BasePt+idx: 0x2aab2867d878
+kmerIdx: 1068452
+index: 3887
+BasePt+idx: 0x2aab2867d878
+kmerIdx: 1069133
+index: 3891
+BasePt+idx: 0x2aab2867d888
+kmerIdx: 1070424
+index: 3893
+BasePt+idx: 0x2aab2867d888
+kmerIdx: 1070759
+index: 3894
+BasePt+idx: 0x2aab2867d890
+kmerIdx: 1070938
+index: 3896
+BasePt+idx: 0x2aab2867d890
+kmerIdx: 1071272
+index: 3898
+BasePt+idx: 0x2aab2867d898
+kmerIdx: 1072715
+index: 3900
+BasePt+idx: 0x2aab2867d8a0
+kmerIdx: 1072859
+index: 3901
+BasePt+idx: 0x2aab2867d8a0
+kmerIdx: 1073537
+index: 3902
+BasePt+idx: 0x2aab2867d8a0
+kmerIdx: 1073720
+index: 3904
+BasePt+idx: 0x2aab2867d8a8
+kmerIdx: 1074623
+index: 3908
+BasePt+idx: 0x2aab2867d8b0
+kmerIdx: 1075917
+index: 3910
+BasePt+idx: 0x2aab2867d8b8
+kmerIdx: 1076425
+index: 3911
+BasePt+idx: 0x2aab2867d8b8
+kmerIdx: 1076692
+index: 3915
+BasePt+idx: 0x2aab2867d8c8
+kmerIdx: 1077974
+index: 3917
+BasePt+idx: 0x2aab2867d8c8
+kmerIdx: 1078073
+index: 3918
+BasePt+idx: 0x2aab2867d8d0
+kmerIdx: 1078111
+index: 3920
+BasePt+idx: 0x2aab2867d8d0
+kmerIdx: 1078719
+index: 3922
+BasePt+idx: 0x2aab2867d8d8
+kmerIdx: 1078904
+index: 3923
+BasePt+idx: 0x2aab2867d8d8
+kmerIdx: 1078967
+index: 3924
+BasePt+idx: 0x2aab2867d8e0
+kmerIdx: 1079481
+index: 3926
+BasePt+idx: 0x2aab2867d8e0
+kmerIdx: 1079778
+index: 3927
+BasePt+idx: 0x2aab2867d8e8
+kmerIdx: 1080003
+index: 3929
+BasePt+idx: 0x2aab2867d8e8
+kmerIdx: 1080750
+index: 3931
+BasePt+idx: 0x2aab2867d8f0
+kmerIdx: 1080824
+index: 3933
+BasePt+idx: 0x2aab2867d8f8
+kmerIdx: 1081060
+index: 3935
+BasePt+idx: 0x2aab2867d8f8
+kmerIdx: 1081891
+index: 3937
+BasePt+idx: 0x2aab2867d900
+kmerIdx: 1082950
+index: 3938
+BasePt+idx: 0x2aab2867d900
+kmerIdx: 1083280
+index: 3941
+BasePt+idx: 0x2aab2867d908
+kmerIdx: 1084058
+index: 3943
+BasePt+idx: 0x2aab2867d910
+kmerIdx: 1084741
+index: 3944
+BasePt+idx: 0x2aab2867d910
+kmerIdx: 1085310
+index: 3945
+BasePt+idx: 0x2aab2867d918
+kmerIdx: 1085338
+index: 3946
+BasePt+idx: 0x2aab2867d918
+kmerIdx: 1085377
+index: 3948
+BasePt+idx: 0x2aab2867d920
+kmerIdx: 1085879
+index: 3949
+BasePt+idx: 0x2aab2867d920
+kmerIdx: 1085900
+index: 3951
+BasePt+idx: 0x2aab2867d928
+kmerIdx: 1086282
+index: 3952
+BasePt+idx: 0x2aab2867d928
+kmerIdx: 1087174
+index: 3954
+BasePt+idx: 0x2aab2867d930
+kmerIdx: 1087390
+index: 3955
+BasePt+idx: 0x2aab2867d930
+kmerIdx: 1087644
+index: 3956
+BasePt+idx: 0x2aab2867d930
+kmerIdx: 1088295
+index: 3957
+BasePt+idx: 0x2aab2867d938
+kmerIdx: 1088331
+index: 3959
+BasePt+idx: 0x2aab2867d938
+kmerIdx: 1089152
+index: 3963
+BasePt+idx: 0x2aab2867d948
+kmerIdx: 1090818
+index: 3964
+BasePt+idx: 0x2aab2867d948
+kmerIdx: 1090976
+index: 3965
+BasePt+idx: 0x2aab2867d948
+kmerIdx: 1091271
+index: 3966
+BasePt+idx: 0x2aab2867d950
+kmerIdx: 1091404
+index: 3971
+BasePt+idx: 0x2aab2867d958
+kmerIdx: 1092517
+index: 3973
+BasePt+idx: 0x2aab2867d960
+kmerIdx: 1093915
+index: 3975
+BasePt+idx: 0x2aab2867d968
+kmerIdx: 1094054
+index: 3978
+BasePt+idx: 0x2aab2867d970
+kmerIdx: 1094883
+index: 3980
+BasePt+idx: 0x2aab2867d970
+kmerIdx: 1095703
+index: 3981
+BasePt+idx: 0x2aab2867d978
+kmerIdx: 1096240
+index: 3982
+BasePt+idx: 0x2aab2867d978
+kmerIdx: 1096543
+index: 3986
+BasePt+idx: 0x2aab2867d980
+kmerIdx: 1097526
+index: 3987
+BasePt+idx: 0x2aab2867d988
+kmerIdx: 1098020
+index: 3989
+BasePt+idx: 0x2aab2867d988
+kmerIdx: 1098338
+index: 3991
+BasePt+idx: 0x2aab2867d990
+kmerIdx: 1098933
+index: 3992
+BasePt+idx: 0x2aab2867d990
+kmerIdx: 1099110
+index: 3994
+BasePt+idx: 0x2aab2867d998
+kmerIdx: 1099755
+index: 3995
+BasePt+idx: 0x2aab2867d998
+kmerIdx: 1099798
+index: 3996
+BasePt+idx: 0x2aab2867d9a0
+kmerIdx: 1100467
+index: 3998
+BasePt+idx: 0x2aab2867d9a0
+kmerIdx: 1100898
+index: 3999
+BasePt+idx: 0x2aab2867d9a8
+kmerIdx: 1100946
+index: 4002
+BasePt+idx: 0x2aab2867d9b0
+kmerIdx: 1102257
+index: 4004
+BasePt+idx: 0x2aab2867d9b0
+kmerIdx: 1102719
+index: 4005
+BasePt+idx: 0x2aab2867d9b8
+kmerIdx: 1103371
+index: 4006
+BasePt+idx: 0x2aab2867d9b8
+kmerIdx: 1103405
+index: 4007
+BasePt+idx: 0x2aab2867d9b8
+kmerIdx: 1103595
+index: 4009
+BasePt+idx: 0x2aab2867d9c0
+kmerIdx: 1104068
+index: 4010
+BasePt+idx: 0x2aab2867d9c0
+kmerIdx: 1104460
+index: 4013
+BasePt+idx: 0x2aab2867d9c8
+kmerIdx: 1105056
+index: 4015
+BasePt+idx: 0x2aab2867d9d0
+kmerIdx: 1105961
+index: 4018
+BasePt+idx: 0x2aab2867d9d8
+kmerIdx: 1106574
+index: 4019
+BasePt+idx: 0x2aab2867d9d8
+kmerIdx: 1106690
+index: 4020
+BasePt+idx: 0x2aab2867d9e0
+kmerIdx: 1107417
+index: 4021
+BasePt+idx: 0x2aab2867d9e0
+kmerIdx: 1108165
+index: 4022
+BasePt+idx: 0x2aab2867d9e0
+kmerIdx: 1108293
+index: 4023
+BasePt+idx: 0x2aab2867d9e8
+kmerIdx: 1108586
+index: 4025
+BasePt+idx: 0x2aab2867d9e8
+kmerIdx: 1108792
+index: 4026
+BasePt+idx: 0x2aab2867d9f0
+kmerIdx: 1108964
+index: 4028
+BasePt+idx: 0x2aab2867d9f0
+kmerIdx: 1109357
+index: 4029
+BasePt+idx: 0x2aab2867d9f8
+kmerIdx: 1109406
+index: 4030
+BasePt+idx: 0x2aab2867d9f8
+kmerIdx: 1109525
+index: 4031
+BasePt+idx: 0x2aab2867d9f8
+kmerIdx: 1109616
+index: 4032
+BasePt+idx: 0x2aab2867da00
+kmerIdx: 1110270
+index: 4033
+BasePt+idx: 0x2aab2867da00
+kmerIdx: 1110569
+index: 4034
+BasePt+idx: 0x2aab2867da00
+kmerIdx: 1110871
+index: 4035
+BasePt+idx: 0x2aab2867da08
+kmerIdx: 1111165
+index: 4038
+BasePt+idx: 0x2aab2867da10
+kmerIdx: 1111948
+index: 4039
+BasePt+idx: 0x2aab2867da10
+kmerIdx: 1112306
+index: 4040
+BasePt+idx: 0x2aab2867da10
+kmerIdx: 1113095
+index: 4041
+BasePt+idx: 0x2aab2867da18
+kmerIdx: 1113360
+index: 4043
+BasePt+idx: 0x2aab2867da18
+kmerIdx: 1113439
+index: 4045
+BasePt+idx: 0x2aab2867da20
+kmerIdx: 1114200
+index: 4046
+BasePt+idx: 0x2aab2867da20
+kmerIdx: 1114245
+index: 4048
+BasePt+idx: 0x2aab2867da28
+kmerIdx: 1114459
+index: 4050
+BasePt+idx: 0x2aab2867da30
+kmerIdx: 1114998
+index: 4051
+BasePt+idx: 0x2aab2867da30
+kmerIdx: 1115347
+index: 4053
+BasePt+idx: 0x2aab2867da38
+kmerIdx: 1115723
+index: 4054
+BasePt+idx: 0x2aab2867da38
+kmerIdx: 1115816
+index: 4055
+BasePt+idx: 0x2aab2867da38
+kmerIdx: 1115837
+index: 4056
+BasePt+idx: 0x2aab2867da40
+kmerIdx: 1116042
+index: 4057
+BasePt+idx: 0x2aab2867da40
+kmerIdx: 1116248
+index: 4060
+BasePt+idx: 0x2aab2867da48
+kmerIdx: 1116777
+index: 4061
+BasePt+idx: 0x2aab2867da48
+kmerIdx: 1116862
+index: 4062
+BasePt+idx: 0x2aab2867da50
+kmerIdx: 1117069
+index: 4063
+BasePt+idx: 0x2aab2867da50
+kmerIdx: 1117099
+index: 4064
+BasePt+idx: 0x2aab2867da50
+kmerIdx: 1117257
+index: 4065
+BasePt+idx: 0x2aab2867da58
+kmerIdx: 1117290
+index: 4066
+BasePt+idx: 0x2aab2867da58
+kmerIdx: 1117594
+index: 4067
+BasePt+idx: 0x2aab2867da58
+kmerIdx: 1117656
+index: 4068
+BasePt+idx: 0x2aab2867da60
+kmerIdx: 1117700
+index: 4070
+BasePt+idx: 0x2aab2867da60
+kmerIdx: 1117953
+index: 4071
+BasePt+idx: 0x2aab2867da68
+kmerIdx: 1118043
+index: 4072
+BasePt+idx: 0x2aab2867da68
+kmerIdx: 1118103
+index: 4074
+BasePt+idx: 0x2aab2867da70
+kmerIdx: 1118323
+index: 4075
+BasePt+idx: 0x2aab2867da70
+kmerIdx: 1118405
+index: 4076
+BasePt+idx: 0x2aab2867da70
+kmerIdx: 1118680
+index: 4077
+BasePt+idx: 0x2aab2867da78
+kmerIdx: 1118885
+index: 4078
+BasePt+idx: 0x2aab2867da78
+kmerIdx: 1118982
+index: 4079
+BasePt+idx: 0x2aab2867da78
+kmerIdx: 1119162
+index: 4082
+BasePt+idx: 0x2aab2867da80
+kmerIdx: 1119945
+index: 4083
+BasePt+idx: 0x2aab2867da88
+kmerIdx: 1120246
+index: 4084
+BasePt+idx: 0x2aab2867da88
+kmerIdx: 1120302
+index: 4085
+BasePt+idx: 0x2aab2867da88
+kmerIdx: 1120402
+index: 4086
+BasePt+idx: 0x2aab2867da90
+kmerIdx: 1120489
+index: 4088
+BasePt+idx: 0x2aab2867da90
+kmerIdx: 1120958
+index: 4090
+BasePt+idx: 0x2aab2867da98
+kmerIdx: 1121466
+index: 4091
+BasePt+idx: 0x2aab2867da98
+kmerIdx: 1121759
+index: 4092
+BasePt+idx: 0x2aab2867daa0
+kmerIdx: 1122045
+index: 4094
+BasePt+idx: 0x2aab2867daa0
+kmerIdx: 1122138
+index: 4095
+BasePt+idx: 0x2aab2867daa8
+kmerIdx: 1122767
+index: 4096
+BasePt+idx: 0x2aab2867daa8
+kmerIdx: 1122946
+index: 4097
+BasePt+idx: 0x2aab2867daa8
+kmerIdx: 1123126
+index: 4099
+BasePt+idx: 0x2aab2867dab0
+kmerIdx: 1123311
+index: 4100
+BasePt+idx: 0x2aab2867dab0
+kmerIdx: 1123339
+index: 4101
+BasePt+idx: 0x2aab2867dab8
+kmerIdx: 1123414
+index: 4102
+BasePt+idx: 0x2aab2867dab8
+kmerIdx: 1123762
+index: 4103
+BasePt+idx: 0x2aab2867dab8
+kmerIdx: 1123821
+index: 4104
+BasePt+idx: 0x2aab2867dac0
+kmerIdx: 1123963
+index: 4105
+BasePt+idx: 0x2aab2867dac0
+kmerIdx: 1124176
+index: 4107
+BasePt+idx: 0x2aab2867dac8
+kmerIdx: 1124496
+index: 4108
+BasePt+idx: 0x2aab2867dac8
+kmerIdx: 1124808
+index: 4110
+BasePt+idx: 0x2aab2867dad0
+kmerIdx: 1125028
+index: 4111
+BasePt+idx: 0x2aab2867dad0
+kmerIdx: 1125119
+index: 4112
+BasePt+idx: 0x2aab2867dad0
+kmerIdx: 1125284
+index: 4113
+BasePt+idx: 0x2aab2867dad8
+kmerIdx: 1125845
+index: 4114
+BasePt+idx: 0x2aab2867dad8
+kmerIdx: 1125945
+index: 4115
+BasePt+idx: 0x2aab2867dad8
+kmerIdx: 1126031
+index: 4116
+BasePt+idx: 0x2aab2867dae0
+kmerIdx: 1126121
+index: 4117
+BasePt+idx: 0x2aab2867dae0
+kmerIdx: 1126359
+index: 4119
+BasePt+idx: 0x2aab2867dae8
+kmerIdx: 1126659
+index: 4121
+BasePt+idx: 0x2aab2867dae8
+kmerIdx: 1127223
+index: 4122
+BasePt+idx: 0x2aab2867daf0
+kmerIdx: 1127249
+index: 4124
+BasePt+idx: 0x2aab2867daf0
+kmerIdx: 1127323
+index: 4125
+BasePt+idx: 0x2aab2867daf8
+kmerIdx: 1127609
+index: 4126
+BasePt+idx: 0x2aab2867daf8
+kmerIdx: 1127668
+index: 4128
+BasePt+idx: 0x2aab2867db00
+kmerIdx: 1127709
+index: 4129
+BasePt+idx: 0x2aab2867db00
+kmerIdx: 1127789
+index: 4130
+BasePt+idx: 0x2aab2867db00
+kmerIdx: 1127967
+index: 4131
+BasePt+idx: 0x2aab2867db08
+kmerIdx: 1128160
+index: 4133
+BasePt+idx: 0x2aab2867db08
+kmerIdx: 1128274
+index: 4134
+BasePt+idx: 0x2aab2867db10
+kmerIdx: 1128332
+index: 4135
+BasePt+idx: 0x2aab2867db10
+kmerIdx: 1128409
+index: 4137
+BasePt+idx: 0x2aab2867db18
+kmerIdx: 1128666
+index: 4138
+BasePt+idx: 0x2aab2867db18
+kmerIdx: 1128841
+index: 4140
+BasePt+idx: 0x2aab2867db20
+kmerIdx: 1128975
+index: 4141
+BasePt+idx: 0x2aab2867db20
+kmerIdx: 1129069
+index: 4142
+BasePt+idx: 0x2aab2867db20
+kmerIdx: 1129117
+index: 4143
+BasePt+idx: 0x2aab2867db28
+kmerIdx: 1129193
+index: 4144
+BasePt+idx: 0x2aab2867db28
+kmerIdx: 1129606
+index: 4146
+BasePt+idx: 0x2aab2867db30
+kmerIdx: 1129745
+index: 4147
+BasePt+idx: 0x2aab2867db30
+kmerIdx: 1129765
+index: 4148
+BasePt+idx: 0x2aab2867db30
+kmerIdx: 1129785
+index: 4150
+BasePt+idx: 0x2aab2867db38
+kmerIdx: 1129952
+index: 4151
+BasePt+idx: 0x2aab2867db38
+kmerIdx: 1130013
+index: 4152
+BasePt+idx: 0x2aab2867db40
+kmerIdx: 1130058
+index: 4153
+BasePt+idx: 0x2aab2867db40
+kmerIdx: 1130085
+index: 4155
+BasePt+idx: 0x2aab2867db48
+kmerIdx: 1130173
+index: 4156
+BasePt+idx: 0x2aab2867db48
+kmerIdx: 1130457
+index: 4157
+BasePt+idx: 0x2aab2867db48
+kmerIdx: 1130512
+index: 4158
+BasePt+idx: 0x2aab2867db50
+kmerIdx: 1130582
+index: 4159
+BasePt+idx: 0x2aab2867db50
+kmerIdx: 1130629
+index: 4160
+BasePt+idx: 0x2aab2867db50
+kmerIdx: 1130779
+index: 4161
+BasePt+idx: 0x2aab2867db58
+kmerIdx: 1130801
+index: 4162
+BasePt+idx: 0x2aab2867db58
+kmerIdx: 1130921
+index: 4164
+BasePt+idx: 0x2aab2867db60
+kmerIdx: 1131155
+index: 4165
+BasePt+idx: 0x2aab2867db60
+kmerIdx: 1131359
+index: 4166
+BasePt+idx: 0x2aab2867db60
+kmerIdx: 1131411
+index: 4167
+BasePt+idx: 0x2aab2867db68
+kmerIdx: 1131445
+index: 4168
+BasePt+idx: 0x2aab2867db68
+kmerIdx: 1131480
+index: 4169
+BasePt+idx: 0x2aab2867db68
+kmerIdx: 1131506
+index: 4170
+BasePt+idx: 0x2aab2867db70
+kmerIdx: 1131602
+index: 4171
+BasePt+idx: 0x2aab2867db70
+kmerIdx: 1131659
+index: 4174
+BasePt+idx: 0x2aab2867db78
+kmerIdx: 1131838
+index: 4176
+BasePt+idx: 0x2aab2867db80
+kmerIdx: 1132305
+index: 4177
+BasePt+idx: 0x2aab2867db80
+kmerIdx: 1132383
+index: 4179
+BasePt+idx: 0x2aab2867db88
+kmerIdx: 1132547
+index: 4180
+BasePt+idx: 0x2aab2867db88
+kmerIdx: 1132666
+index: 4182
+BasePt+idx: 0x2aab2867db90
+kmerIdx: 1132817
+index: 4183
+BasePt+idx: 0x2aab2867db90
+kmerIdx: 1133049
+index: 4184
+BasePt+idx: 0x2aab2867db90
+kmerIdx: 1133097
+index: 4185
+BasePt+idx: 0x2aab2867db98
+kmerIdx: 1133213
+index: 4186
+BasePt+idx: 0x2aab2867db98
+kmerIdx: 1133436
+index: 4187
+BasePt+idx: 0x2aab2867db98
+kmerIdx: 1133456
+index: 4188
+BasePt+idx: 0x2aab2867dba0
+kmerIdx: 1133502
+index: 4189
+BasePt+idx: 0x2aab2867dba0
+kmerIdx: 1133555
+index: 4190
+BasePt+idx: 0x2aab2867dba0
+kmerIdx: 1133606
+index: 4191
+BasePt+idx: 0x2aab2867dba8
+kmerIdx: 1133634
+index: 4192
+BasePt+idx: 0x2aab2867dba8
+kmerIdx: 1133696
+index: 4193
+BasePt+idx: 0x2aab2867dba8
+kmerIdx: 1133773
+index: 4195
+BasePt+idx: 0x2aab2867dbb0
+kmerIdx: 1133879
+index: 4196
+BasePt+idx: 0x2aab2867dbb0
+kmerIdx: 1133951
+index: 4197
+BasePt+idx: 0x2aab2867dbb8
+kmerIdx: 1134054
+index: 4198
+BasePt+idx: 0x2aab2867dbb8
+kmerIdx: 1134100
+index: 4199
+BasePt+idx: 0x2aab2867dbb8
+kmerIdx: 1134226
+index: 4200
+BasePt+idx: 0x2aab2867dbc0
+kmerIdx: 1134246
+index: 4201
+BasePt+idx: 0x2aab2867dbc0
+kmerIdx: 1134274
+index: 4202
+BasePt+idx: 0x2aab2867dbc0
+kmerIdx: 1134346
+index: 4203
+BasePt+idx: 0x2aab2867dbc8
+kmerIdx: 1134377
+index: 4205
+BasePt+idx: 0x2aab2867dbc8
+kmerIdx: 1134529
+index: 4206
+BasePt+idx: 0x2aab2867dbd0
+kmerIdx: 1134577
+index: 4207
+BasePt+idx: 0x2aab2867dbd0
+kmerIdx: 1134597
+index: 4208
+BasePt+idx: 0x2aab2867dbd0
+kmerIdx: 1134619
+index: 4209
+BasePt+idx: 0x2aab2867dbd8
+kmerIdx: 1134641
+index: 4210
+BasePt+idx: 0x2aab2867dbd8
+kmerIdx: 1134678
+index: 4212
+BasePt+idx: 0x2aab2867dbe0
+kmerIdx: 1134847
+index: 4213
+BasePt+idx: 0x2aab2867dbe0
+kmerIdx: 1134941
+index: 4214
+BasePt+idx: 0x2aab2867dbe0
+kmerIdx: 1134963
+index: 4215
+BasePt+idx: 0x2aab2867dbe8
+kmerIdx: 1134999
+index: 4216
+BasePt+idx: 0x2aab2867dbe8
+kmerIdx: 1135115
+index: 4217
+BasePt+idx: 0x2aab2867dbe8
+kmerIdx: 1135152
+index: 4218
+BasePt+idx: 0x2aab2867dbf0
+kmerIdx: 1135218
+index: 4220
+BasePt+idx: 0x2aab2867dbf0
+kmerIdx: 1135398
+index: 4221
+BasePt+idx: 0x2aab2867dbf8
+kmerIdx: 1135441
+index: 4222
+BasePt+idx: 0x2aab2867dbf8
+kmerIdx: 1135461
+index: 4223
+BasePt+idx: 0x2aab2867dbf8
+kmerIdx: 1135511
+index: 4224
+BasePt+idx: 0x2aab2867dc00
+kmerIdx: 1135625
+index: 4225
+BasePt+idx: 0x2aab2867dc00
+kmerIdx: 1135648
+index: 4226
+BasePt+idx: 0x2aab2867dc00
+kmerIdx: 1135676
+index: 4227
+BasePt+idx: 0x2aab2867dc08
+kmerIdx: 1135723
+index: 4228
+BasePt+idx: 0x2aab2867dc08
+kmerIdx: 1135775
+index: 4229
+BasePt+idx: 0x2aab2867dc08
+kmerIdx: 1135905
+index: 4230
+BasePt+idx: 0x2aab2867dc10
+kmerIdx: 1135960
+index: 4231
+BasePt+idx: 0x2aab2867dc10
+kmerIdx: 1136038
+index: 4232
+BasePt+idx: 0x2aab2867dc10
+kmerIdx: 1136186
+index: 4233
+BasePt+idx: 0x2aab2867dc18
+kmerIdx: 1136251
+index: 4234
+BasePt+idx: 0x2aab2867dc18
+kmerIdx: 1136279
+index: 4235
+BasePt+idx: 0x2aab2867dc18
+kmerIdx: 1136303
+index: 4236
+BasePt+idx: 0x2aab2867dc20
+kmerIdx: 1136346
+index: 4237
+BasePt+idx: 0x2aab2867dc20
+kmerIdx: 1136376
+index: 4238
+BasePt+idx: 0x2aab2867dc20
+kmerIdx: 1136424
+index: 4239
+BasePt+idx: 0x2aab2867dc28
+kmerIdx: 1136479
+index: 4240
+BasePt+idx: 0x2aab2867dc28
+kmerIdx: 1136508
+index: 4241
+BasePt+idx: 0x2aab2867dc28
+kmerIdx: 1136533
+index: 4242
+BasePt+idx: 0x2aab2867dc30
+kmerIdx: 1136554
+index: 4243
+BasePt+idx: 0x2aab2867dc30
+kmerIdx: 1136623
+index: 4244
+BasePt+idx: 0x2aab2867dc30
+kmerIdx: 1136674
+index: 4245
+BasePt+idx: 0x2aab2867dc38
+kmerIdx: 1136753
+index: 4246
+BasePt+idx: 0x2aab2867dc38
+kmerIdx: 1136802
+index: 4247
+BasePt+idx: 0x2aab2867dc38
+kmerIdx: 1136829
+index: 4248
+BasePt+idx: 0x2aab2867dc40
+kmerIdx: 1136857
+index: 4249
+BasePt+idx: 0x2aab2867dc40
+kmerIdx: 1136879
+index: 4250
+BasePt+idx: 0x2aab2867dc40
+kmerIdx: 1136918
+index: 4251
+BasePt+idx: 0x2aab2867dc48
+kmerIdx: 1136969
+index: 4253
+BasePt+idx: 0x2aab2867dc48
+kmerIdx: 1137001
+index: 4254
+BasePt+idx: 0x2aab2867dc50
+kmerIdx: 1137046
+index: 4255
+BasePt+idx: 0x2aab2867dc50
+kmerIdx: 1137092
+index: 4257
+BasePt+idx: 0x2aab2867dc58
+kmerIdx: 1137119
+index: 4258
+BasePt+idx: 0x2aab2867dc58
+kmerIdx: 1137149
+index: 4259
+BasePt+idx: 0x2aab2867dc58
+kmerIdx: 1137173
+index: 4260
+BasePt+idx: 0x2aab2867dc60
+kmerIdx: 1137204
+index: 4261
+BasePt+idx: 0x2aab2867dc60
+kmerIdx: 1137249
+index: 4262
+BasePt+idx: 0x2aab2867dc60
+kmerIdx: 1137283
+index: 4263
+BasePt+idx: 0x2aab2867dc68
+kmerIdx: 1137313
+index: 4264
+BasePt+idx: 0x2aab2867dc68
+kmerIdx: 1137340
+index: 4265
+BasePt+idx: 0x2aab2867dc68
+kmerIdx: 1137361
+index: 4266
+BasePt+idx: 0x2aab2867dc70
+kmerIdx: 1137381
+index: 4267
+BasePt+idx: 0x2aab2867dc70
+kmerIdx: 1137410
+index: 4268
+BasePt+idx: 0x2aab2867dc70
+kmerIdx: 1137432
+index: 4269
+BasePt+idx: 0x2aab2867dc78
+kmerIdx: 1137458
+index: 4275
+BasePt+idx: 0x2aab2867dc88
+kmerIdx: 1141652
+index: 4277
+BasePt+idx: 0x2aab2867dc88
+kmerIdx: 1142804
+index: 4279
+BasePt+idx: 0x2aab2867dc90
+kmerIdx: 1143114
+index: 4284
+BasePt+idx: 0x2aab2867dca0
+kmerIdx: 1145867
+index: 4290
+BasePt+idx: 0x2aab2867dcb0
+kmerIdx: 1149482
+index: 4295
+BasePt+idx: 0x2aab2867dcb8
+kmerIdx: 1152045
+index: 4299
+BasePt+idx: 0x2aab2867dcc8
+kmerIdx: 1154207
+index: 4302
+BasePt+idx: 0x2aab2867dcd0
+kmerIdx: 1155115
+index: 4306
+BasePt+idx: 0x2aab2867dcd8
+kmerIdx: 1156568
+index: 4310
+BasePt+idx: 0x2aab2867dce0
+kmerIdx: 1158455
+index: 4314
+BasePt+idx: 0x2aab2867dcf0
+kmerIdx: 1160809
+index: 4318
+BasePt+idx: 0x2aab2867dcf8
+kmerIdx: 1161916
+index: 4326
+BasePt+idx: 0x2aab2867dd10
+kmerIdx: 1165407
+index: 4335
+BasePt+idx: 0x2aab2867dd28
+kmerIdx: 1170555
+index: 4341
+BasePt+idx: 0x2aab2867dd38
+kmerIdx: 1172657
+index: 4345
+BasePt+idx: 0x2aab2867dd40
+kmerIdx: 1173984
+index: 4347
+BasePt+idx: 0x2aab2867dd48
+kmerIdx: 1175281
+index: 4352
+BasePt+idx: 0x2aab2867dd50
+kmerIdx: 1176999
+index: 4355
+BasePt+idx: 0x2aab2867dd58
+kmerIdx: 1178255
+index: 4360
+BasePt+idx: 0x2aab2867dd68
+kmerIdx: 1180144
+index: 4366
+BasePt+idx: 0x2aab2867dd78
+kmerIdx: 1182397
+index: 4369
+BasePt+idx: 0x2aab2867dd80
+kmerIdx: 1184009
+index: 4371
+BasePt+idx: 0x2aab2867dd88
+kmerIdx: 1185319
+index: 4373
+BasePt+idx: 0x2aab2867dd88
+kmerIdx: 1187348
+index: 4380
+BasePt+idx: 0x2aab2867dda0
+kmerIdx: 1193742
+index: 4381
+BasePt+idx: 0x2aab2867dda0
+kmerIdx: 1194066
+index: 4382
+BasePt+idx: 0x2aab2867dda0
+kmerIdx: 1194321
+index: 4383
+BasePt+idx: 0x2aab2867dda8
+kmerIdx: 1194557
+index: 4387
+BasePt+idx: 0x2aab2867ddb0
+kmerIdx: 1196221
+index: 4389
+BasePt+idx: 0x2aab2867ddb8
+kmerIdx: 1196341
+index: 4398
+BasePt+idx: 0x2aab2867ddd0
+kmerIdx: 1200207
+index: 4399
+BasePt+idx: 0x2aab2867ddd0
+kmerIdx: 1200448
+index: 4401
+BasePt+idx: 0x2aab2867ddd8
+kmerIdx: 1201742
+index: 4407
+BasePt+idx: 0x2aab2867dde8
+kmerIdx: 1204808
+index: 4411
+BasePt+idx: 0x2aab2867ddf0
+kmerIdx: 1206379
+index: 4415
+BasePt+idx: 0x2aab2867ddf8
+kmerIdx: 1207168
+index: 4416
+BasePt+idx: 0x2aab2867de00
+kmerIdx: 1207298
+index: 4419
+BasePt+idx: 0x2aab2867de08
+kmerIdx: 1209077
+index: 4422
+BasePt+idx: 0x2aab2867de10
+kmerIdx: 1209221
+index: 4424
+BasePt+idx: 0x2aab2867de10
+kmerIdx: 1210156
+index: 4432
+BasePt+idx: 0x2aab2867de28
+kmerIdx: 1216446
+index: 4434
+BasePt+idx: 0x2aab2867de30
+kmerIdx: 1217294
+index: 4437
+BasePt+idx: 0x2aab2867de38
+kmerIdx: 1218617
+index: 4438
+BasePt+idx: 0x2aab2867de38
+kmerIdx: 1218787
+index: 4444
+BasePt+idx: 0x2aab2867de48
+kmerIdx: 1220519
+index: 4446
+BasePt+idx: 0x2aab2867de50
+kmerIdx: 1221590
+index: 4453
+BasePt+idx: 0x2aab2867de60
+kmerIdx: 1225231
+index: 4456
+BasePt+idx: 0x2aab2867de68
+kmerIdx: 1226012
+index: 4459
+BasePt+idx: 0x2aab2867de70
+kmerIdx: 1226974
+index: 4461
+BasePt+idx: 0x2aab2867de78
+kmerIdx: 1228096
+index: 4464
+BasePt+idx: 0x2aab2867de80
+kmerIdx: 1229233
+index: 4468
+BasePt+idx: 0x2aab2867de88
+kmerIdx: 1231662
+index: 4470
+BasePt+idx: 0x2aab2867de90
+kmerIdx: 1232089
+index: 4480
+BasePt+idx: 0x2aab2867dea8
+kmerIdx: 1236317
+index: 4484
+BasePt+idx: 0x2aab2867deb0
+kmerIdx: 1238088
+index: 4489
+BasePt+idx: 0x2aab2867dec0
+kmerIdx: 1239806
+index: 4491
+BasePt+idx: 0x2aab2867dec8
+kmerIdx: 1240261
+index: 4497
+BasePt+idx: 0x2aab2867ded8
+kmerIdx: 1244449
+index: 4498
+BasePt+idx: 0x2aab2867ded8
+kmerIdx: 1244997
+index: 4504
+BasePt+idx: 0x2aab2867dee8
+kmerIdx: 1247966
+index: 4507
+BasePt+idx: 0x2aab2867def0
+kmerIdx: 1249542
+index: 4520
+BasePt+idx: 0x2aab2867df10
+kmerIdx: 1253419
+index: 4525
+BasePt+idx: 0x2aab2867df20
+kmerIdx: 1255592
+index: 4527
+BasePt+idx: 0x2aab2867df28
+kmerIdx: 1255838
+index: 4528
+BasePt+idx: 0x2aab2867df28
+kmerIdx: 1256312
+index: 4533
+BasePt+idx: 0x2aab2867df38
+kmerIdx: 1257869
+index: 4539
+BasePt+idx: 0x2aab2867df48
+kmerIdx: 1259908
+index: 4544
+BasePt+idx: 0x2aab2867df50
+kmerIdx: 1262293
+index: 4550
+BasePt+idx: 0x2aab2867df60
+kmerIdx: 1263532
+index: 4555
+BasePt+idx: 0x2aab2867df70
+kmerIdx: 1266308
+index: 4559
+BasePt+idx: 0x2aab2867df78
+kmerIdx: 1266986
+index: 4567
+BasePt+idx: 0x2aab2867df90
+kmerIdx: 1270235
+index: 4571
+BasePt+idx: 0x2aab2867df98
+kmerIdx: 1272155
+index: 4578
+BasePt+idx: 0x2aab2867dfb0
+kmerIdx: 1274461
+index: 4588
+BasePt+idx: 0x2aab2867dfc8
+kmerIdx: 1278392
+index: 4591
+BasePt+idx: 0x2aab2867dfd0
+kmerIdx: 1279474
+index: 4599
+BasePt+idx: 0x2aab2867dfe8
+kmerIdx: 1282439
+index: 4604
+BasePt+idx: 0x2aab2867dff0
+kmerIdx: 1283486
+index: 4605
+BasePt+idx: 0x2aab2867dff8
+kmerIdx: 1284066
+index: 4608
+BasePt+idx: 0x2aab2867e000
+kmerIdx: 1284540
+index: 4617
+BasePt+idx: 0x2aab2867e018
+kmerIdx: 1287129
+index: 4620
+BasePt+idx: 0x2aab2867e020
+kmerIdx: 1287641
+index: 4623
+BasePt+idx: 0x2aab2867e028
+kmerIdx: 1289308
+index: 4625
+BasePt+idx: 0x2aab2867e028
+kmerIdx: 1289835
+index: 4630
+BasePt+idx: 0x2aab2867e038
+kmerIdx: 1291184
+index: 4638
+BasePt+idx: 0x2aab2867e050
+kmerIdx: 1294485
+index: 4643
+BasePt+idx: 0x2aab2867e058
+kmerIdx: 1295491
+index: 4649
+BasePt+idx: 0x2aab2867e068
+kmerIdx: 1298302
+index: 4654
+BasePt+idx: 0x2aab2867e078
+kmerIdx: 1299711
+index: 4658
+BasePt+idx: 0x2aab2867e080
+kmerIdx: 1301261
+index: 4668
+BasePt+idx: 0x2aab2867e0a0
+kmerIdx: 1303423
+index: 4670
+BasePt+idx: 0x2aab2867e0a0
+kmerIdx: 1303843
+index: 4673
+BasePt+idx: 0x2aab2867e0a8
+kmerIdx: 1304269
+index: 4678
+BasePt+idx: 0x2aab2867e0b8
+kmerIdx: 1305208
+index: 4681
+BasePt+idx: 0x2aab2867e0c0
+kmerIdx: 1306015
+index: 4694
+BasePt+idx: 0x2aab2867e0e0
+kmerIdx: 1310433
+index: 4700
+BasePt+idx: 0x2aab2867e0f0
+kmerIdx: 1312276
+index: 4709
+BasePt+idx: 0x2aab2867e108
+kmerIdx: 1315240
+index: 4710
+BasePt+idx: 0x2aab2867e110
+kmerIdx: 1315772
+index: 4717
+BasePt+idx: 0x2aab2867e120
+kmerIdx: 1318374
+index: 4723
+BasePt+idx: 0x2aab2867e130
+kmerIdx: 1319647
+index: 4725
+BasePt+idx: 0x2aab2867e138
+kmerIdx: 1319849
+index: 4727
+BasePt+idx: 0x2aab2867e138
+kmerIdx: 1319989
+index: 4736
+BasePt+idx: 0x2aab2867e150
+kmerIdx: 1322766
+index: 4741
+BasePt+idx: 0x2aab2867e160
+kmerIdx: 1323639
+index: 4742
+BasePt+idx: 0x2aab2867e160
+kmerIdx: 1324162
+index: 4748
+BasePt+idx: 0x2aab2867e170
+kmerIdx: 1325947
+index: 4755
+BasePt+idx: 0x2aab2867e188
+kmerIdx: 1328610
+index: 4765
+BasePt+idx: 0x2aab2867e1a0
+kmerIdx: 1330804
+index: 4768
+BasePt+idx: 0x2aab2867e1a8
+kmerIdx: 1331507
+index: 4770
+BasePt+idx: 0x2aab2867e1b0
+kmerIdx: 1331900
+index: 4780
+BasePt+idx: 0x2aab2867e1c8
+kmerIdx: 1333518
+index: 4789
+BasePt+idx: 0x2aab2867e1e0
+kmerIdx: 1335139
+index: 4790
+BasePt+idx: 0x2aab2867e1e0
+kmerIdx: 1335654
+index: 4796
+BasePt+idx: 0x2aab2867e1f0
+kmerIdx: 1336724
+index: 4805
+BasePt+idx: 0x2aab2867e208
+kmerIdx: 1339775
+index: 4809
+BasePt+idx: 0x2aab2867e218
+kmerIdx: 1340516
+index: 4815
+BasePt+idx: 0x2aab2867e228
+kmerIdx: 1341920
+index: 4822
+BasePt+idx: 0x2aab2867e238
+kmerIdx: 1343015
+index: 4837
+BasePt+idx: 0x2aab2867e260
+kmerIdx: 1345812
+index: 4841
+BasePt+idx: 0x2aab2867e268
+kmerIdx: 1346110
+index: 4843
+BasePt+idx: 0x2aab2867e270
+kmerIdx: 1346675
+index: 4860
+BasePt+idx: 0x2aab2867e2a0
+kmerIdx: 1350061
+index: 4882
+BasePt+idx: 0x2aab2867e2d8
+kmerIdx: 1354211
+index: 4887
+BasePt+idx: 0x2aab2867e2e8
+kmerIdx: 1354927
+index: 4902
+BasePt+idx: 0x2aab2867e310
+kmerIdx: 1356423
+index: 4905
+BasePt+idx: 0x2aab2867e318
+kmerIdx: 1357245
+index: 4920
+BasePt+idx: 0x2aab2867e340
+kmerIdx: 1358885
+index: 4938
+BasePt+idx: 0x2aab2867e370
+kmerIdx: 1361468
+index: 4949
+BasePt+idx: 0x2aab2867e388
+kmerIdx: 1362613
+index: 4963
+BasePt+idx: 0x2aab2867e3b0
+kmerIdx: 1364389
+index: 4986
+BasePt+idx: 0x2aab2867e3f0
+kmerIdx: 1365958
+index: 4992
+BasePt+idx: 0x2aab2867e400
+kmerIdx: 1366626
+index: 5032
+BasePt+idx: 0x2aab2867e468
+kmerIdx: 1369109
+index: 5109
+BasePt+idx: 0x2aab2867e538
+kmerIdx: 1373717
+index: 5110
+BasePt+idx: 0x2aab2867e538
+kmerIdx: 1374077
+index: 5111
+BasePt+idx: 0x2aab2867e538
+kmerIdx: 1375077
+index: 5113
+BasePt+idx: 0x2aab2867e540
+kmerIdx: 1375599
+index: 5117
+BasePt+idx: 0x2aab2867e548
+kmerIdx: 1376726
+index: 5119
+BasePt+idx: 0x2aab2867e550
+kmerIdx: 1376974
+index: 5120
+BasePt+idx: 0x2aab2867e550
+kmerIdx: 1377218
+index: 5121
+BasePt+idx: 0x2aab2867e558
+kmerIdx: 1378245
+index: 5128
+BasePt+idx: 0x2aab2867e568
+kmerIdx: 1380952
+index: 5129
+BasePt+idx: 0x2aab2867e568
+kmerIdx: 1381663
+index: 5131
+BasePt+idx: 0x2aab2867e570
+kmerIdx: 1382066
+index: 5133
+BasePt+idx: 0x2aab2867e578
+kmerIdx: 1382437
+index: 5139
+BasePt+idx: 0x2aab2867e588
+kmerIdx: 1384181
+index: 5141
+BasePt+idx: 0x2aab2867e588
+kmerIdx: 1384601
+index: 5146
+BasePt+idx: 0x2aab2867e598
+kmerIdx: 1386912
+index: 5156
+BasePt+idx: 0x2aab2867e5b0
+kmerIdx: 1391395
+index: 5165
+BasePt+idx: 0x2aab2867e5c8
+kmerIdx: 1393230
+index: 5167
+BasePt+idx: 0x2aab2867e5d0
+kmerIdx: 1394047
+index: 5171
+BasePt+idx: 0x2aab2867e5d8
+kmerIdx: 1395324
+index: 5176
+BasePt+idx: 0x2aab2867e5e8
+kmerIdx: 1397807
+index: 5179
+BasePt+idx: 0x2aab2867e5f0
+kmerIdx: 1400041
+index: 5184
+BasePt+idx: 0x2aab2867e600
+kmerIdx: 1401124
+index: 5189
+BasePt+idx: 0x2aab2867e608
+kmerIdx: 1403487
+index: 5196
+BasePt+idx: 0x2aab2867e620
+kmerIdx: 1406886
+index: 5198
+BasePt+idx: 0x2aab2867e620
+kmerIdx: 1407359
+index: 5200
+BasePt+idx: 0x2aab2867e628
+kmerIdx: 1408093
+index: 5202
+BasePt+idx: 0x2aab2867e630
+kmerIdx: 1408986
+index: 5207
+BasePt+idx: 0x2aab2867e638
+kmerIdx: 1411321
+index: 5208
+BasePt+idx: 0x2aab2867e640
+kmerIdx: 1412219
+index: 5211
+BasePt+idx: 0x2aab2867e648
+kmerIdx: 1413219
+index: 5216
+BasePt+idx: 0x2aab2867e650
+kmerIdx: 1414286
+index: 5217
+BasePt+idx: 0x2aab2867e658
+kmerIdx: 1415022
+index: 5219
+BasePt+idx: 0x2aab2867e658
+kmerIdx: 1415661
+index: 5223
+BasePt+idx: 0x2aab2867e668
+kmerIdx: 1416549
+index: 5226
+BasePt+idx: 0x2aab2867e670
+kmerIdx: 1418117
+index: 5227
+BasePt+idx: 0x2aab2867e670
+kmerIdx: 1418224
+index: 5231
+BasePt+idx: 0x2aab2867e678
+kmerIdx: 1418958
+index: 5233
+BasePt+idx: 0x2aab2867e680
+kmerIdx: 1419759
+index: 5235
+BasePt+idx: 0x2aab2867e688
+kmerIdx: 1420195
+index: 5239
+BasePt+idx: 0x2aab2867e690
+kmerIdx: 1421574
+index: 5241
+BasePt+idx: 0x2aab2867e698
+kmerIdx: 1421743
+index: 5242
+BasePt+idx: 0x2aab2867e698
+kmerIdx: 1422193
+index: 5245
+BasePt+idx: 0x2aab2867e6a0
+kmerIdx: 1422772
+index: 5252
+BasePt+idx: 0x2aab2867e6b0
+kmerIdx: 1426104
+index: 5253
+BasePt+idx: 0x2aab2867e6b8
+kmerIdx: 1426221
+index: 5257
+BasePt+idx: 0x2aab2867e6c0
+kmerIdx: 1427269
+index: 5260
+BasePt+idx: 0x2aab2867e6c8
+kmerIdx: 1429230
+index: 5268
+BasePt+idx: 0x2aab2867e6e0
+kmerIdx: 1431130
+index: 5272
+BasePt+idx: 0x2aab2867e6e8
+kmerIdx: 1432315
+index: 5278
+BasePt+idx: 0x2aab2867e6f8
+kmerIdx: 1434073
+index: 5281
+BasePt+idx: 0x2aab2867e700
+kmerIdx: 1435083
+index: 5283
+BasePt+idx: 0x2aab2867e708
+kmerIdx: 1436442
+index: 5285
+BasePt+idx: 0x2aab2867e708
+kmerIdx: 1436851
+index: 5290
+BasePt+idx: 0x2aab2867e718
+kmerIdx: 1438582
+index: 5300
+BasePt+idx: 0x2aab2867e730
+kmerIdx: 1442355
+index: 5303
+BasePt+idx: 0x2aab2867e738
+kmerIdx: 1442943
+index: 5313
+BasePt+idx: 0x2aab2867e758
+kmerIdx: 1444804
+index: 5314
+BasePt+idx: 0x2aab2867e758
+kmerIdx: 1444919
+index: 5316
+BasePt+idx: 0x2aab2867e760
+kmerIdx: 1445497
+index: 5320
+BasePt+idx: 0x2aab2867e768
+kmerIdx: 1446518
+index: 5323
+BasePt+idx: 0x2aab2867e770
+kmerIdx: 1447672
+index: 5326
+BasePt+idx: 0x2aab2867e778
+kmerIdx: 1448302
+index: 5331
+BasePt+idx: 0x2aab2867e788
+kmerIdx: 1450220
+index: 5339
+BasePt+idx: 0x2aab2867e798
+kmerIdx: 1452358
+index: 5341
+BasePt+idx: 0x2aab2867e7a0
+kmerIdx: 1454188
+index: 5342
+BasePt+idx: 0x2aab2867e7a0
+kmerIdx: 1454229
+index: 5344
+BasePt+idx: 0x2aab2867e7a8
+kmerIdx: 1454364
+index: 5346
+BasePt+idx: 0x2aab2867e7b0
+kmerIdx: 1454885
+index: 5354
+BasePt+idx: 0x2aab2867e7c0
+kmerIdx: 1456688
+index: 5357
+BasePt+idx: 0x2aab2867e7c8
+kmerIdx: 1457680
+index: 5363
+BasePt+idx: 0x2aab2867e7d8
+kmerIdx: 1459596
+index: 5368
+BasePt+idx: 0x2aab2867e7e8
+kmerIdx: 1460521
+index: 5371
+BasePt+idx: 0x2aab2867e7f0
+kmerIdx: 1461515
+index: 5375
+BasePt+idx: 0x2aab2867e7f8
+kmerIdx: 1462792
+index: 5376
+BasePt+idx: 0x2aab2867e800
+kmerIdx: 1462845
+index: 5378
+BasePt+idx: 0x2aab2867e800
+kmerIdx: 1463475
+index: 5382
+BasePt+idx: 0x2aab2867e810
+kmerIdx: 1463907
+index: 5386
+BasePt+idx: 0x2aab2867e818
+kmerIdx: 1464470
+index: 5387
+BasePt+idx: 0x2aab2867e818
+kmerIdx: 1464493
+index: 5392
+BasePt+idx: 0x2aab2867e828
+kmerIdx: 1466006
+index: 5401
+BasePt+idx: 0x2aab2867e840
+kmerIdx: 1467901
+index: 5404
+BasePt+idx: 0x2aab2867e848
+kmerIdx: 1468522
+index: 5417
+BasePt+idx: 0x2aab2867e868
+kmerIdx: 1471750
+index: 5418
+BasePt+idx: 0x2aab2867e870
+kmerIdx: 1472146
+index: 5425
+BasePt+idx: 0x2aab2867e880
+kmerIdx: 1473068
+index: 5430
+BasePt+idx: 0x2aab2867e890
+kmerIdx: 1474832
+index: 5436
+BasePt+idx: 0x2aab2867e8a0
+kmerIdx: 1476229
+index: 5442
+BasePt+idx: 0x2aab2867e8b0
+kmerIdx: 1477682
+index: 5445
+BasePt+idx: 0x2aab2867e8b8
+kmerIdx: 1478375
+index: 5448
+BasePt+idx: 0x2aab2867e8c0
+kmerIdx: 1479056
+index: 5465
+BasePt+idx: 0x2aab2867e8e8
+kmerIdx: 1482721
+index: 5469
+BasePt+idx: 0x2aab2867e8f8
+kmerIdx: 1483388
+index: 5476
+BasePt+idx: 0x2aab2867e908
+kmerIdx: 1485134
+index: 5481
+BasePt+idx: 0x2aab2867e918
+kmerIdx: 1485894
+index: 5485
+BasePt+idx: 0x2aab2867e920
+kmerIdx: 1486767
+index: 5502
+BasePt+idx: 0x2aab2867e950
+kmerIdx: 1490004
+index: 5512
+BasePt+idx: 0x2aab2867e968
+kmerIdx: 1491961
+index: 5516
+BasePt+idx: 0x2aab2867e970
+kmerIdx: 1492425
+index: 5526
+BasePt+idx: 0x2aab2867e990
+kmerIdx: 1493990
+index: 5533
+BasePt+idx: 0x2aab2867e9a0
+kmerIdx: 1494636
+index: 5546
+BasePt+idx: 0x2aab2867e9c0
+kmerIdx: 1496128
+index: 5556
+BasePt+idx: 0x2aab2867e9e0
+kmerIdx: 1497638
+index: 5569
+BasePt+idx: 0x2aab2867ea00
+kmerIdx: 1498781
+index: 5574
+BasePt+idx: 0x2aab2867ea10
+kmerIdx: 1499229
+index: 5610
+BasePt+idx: 0x2aab2867ea70
+kmerIdx: 1502784
+index: 5618
+BasePt+idx: 0x2aab2867ea80
+kmerIdx: 1503541
+index: 5625
+BasePt+idx: 0x2aab2867ea98
+kmerIdx: 1504037
+final size: 5736
+list ele[0-199]: 0
+list ele Idx[0-199]: 0
+list ele Pt[0-199]: 0x2aab2867b000
+final size: 5736
+list ele[0-199]: 1505002
+list ele Idx[0-199]: 1
+list ele Pt[0-199]: 0x2aab2867b000
+final size: 5736
+list ele[0-199]: 1505917
+list ele Idx[0-199]: 2
+list ele Pt[0-199]: 0x2aab2867b000
+final size: 5736
+list ele[0-199]: 3011175
+list ele Idx[0-199]: 3
+list ele Pt[0-199]: 0x2aab2867b008
+final size: 5736
+list ele[0-199]: 1506898
+list ele Idx[0-199]: 4
+list ele Pt[0-199]: 0x2aab2867b008
+final size: 5736
+list ele[0-199]: 3012645
+list ele Idx[0-199]: 5
+list ele Pt[0-199]: 0x2aab2867b008
+final size: 5736
+list ele[0-199]: 3580
+list ele Idx[0-199]: 6
+list ele Pt[0-199]: 0x2aab2867b010
+final size: 5736
+list ele[0-199]: 1507518
+list ele Idx[0-199]: 7
+list ele Pt[0-199]: 0x2aab2867b010
+final size: 5736
+list ele[0-199]: 1507592
+list ele Idx[0-199]: 8
+list ele Pt[0-199]: 0x2aab2867b010
+final size: 5736
+list ele[0-199]: 3013175
+list ele Idx[0-199]: 9
+list ele Pt[0-199]: 0x2aab2867b018
+final size: 5736
+list ele[0-199]: 1508242
+list ele Idx[0-199]: 10
+list ele Pt[0-199]: 0x2aab2867b018
+final size: 5736
+list ele[0-199]: 5029
+list ele Idx[0-199]: 11
+list ele Pt[0-199]: 0x2aab2867b018
+final size: 5736
+list ele[0-199]: 3014703
+list ele Idx[0-199]: 12
+list ele Pt[0-199]: 0x2aab2867b020
+final size: 5736
+list ele[0-199]: 1508879
+list ele Idx[0-199]: 13
+list ele Pt[0-199]: 0x2aab2867b020
+final size: 5736
+list ele[0-199]: 3014984
+list ele Idx[0-199]: 14
+list ele Pt[0-199]: 0x2aab2867b020
+final size: 5736
+list ele[0-199]: 5857
+list ele Idx[0-199]: 15
+list ele Pt[0-199]: 0x2aab2867b028
+final size: 5736
+list ele[0-199]: 6219
+list ele Idx[0-199]: 16
+list ele Pt[0-199]: 0x2aab2867b028
+final size: 5736
+list ele[0-199]: 3015631
+list ele Idx[0-199]: 17
+list ele Pt[0-199]: 0x2aab2867b028
+final size: 5736
+list ele[0-199]: 3016825
+list ele Idx[0-199]: 18
+list ele Pt[0-199]: 0x2aab2867b030
+final size: 5736
+list ele[0-199]: 1510432
+list ele Idx[0-199]: 19
+list ele Pt[0-199]: 0x2aab2867b030
+final size: 5736
+list ele[0-199]: 1511699
+list ele Idx[0-199]: 20
+list ele Pt[0-199]: 0x2aab2867b030
+final size: 5736
+list ele[0-199]: 9791
+list ele Idx[0-199]: 21
+list ele Pt[0-199]: 0x2aab2867b038
+final size: 5736
+list ele[0-199]: 3019693
+list ele Idx[0-199]: 22
+list ele Pt[0-199]: 0x2aab2867b038
+final size: 5736
+list ele[0-199]: 1512377
+list ele Idx[0-199]: 23
+list ele Pt[0-199]: 0x2aab2867b038
+final size: 5736
+list ele[0-199]: 10873
+list ele Idx[0-199]: 24
+list ele Pt[0-199]: 0x2aab2867b040
+final size: 5736
+list ele[0-199]: 3022151
+list ele Idx[0-199]: 25
+list ele Pt[0-199]: 0x2aab2867b040
+final size: 5736
+list ele[0-199]: 3022959
+list ele Idx[0-199]: 26
+list ele Pt[0-199]: 0x2aab2867b040
+final size: 5736
+list ele[0-199]: 3023893
+list ele Idx[0-199]: 27
+list ele Pt[0-199]: 0x2aab2867b048
+final size: 5736
+list ele[0-199]: 3024474
+list ele Idx[0-199]: 28
+list ele Pt[0-199]: 0x2aab2867b048
+final size: 5736
+list ele[0-199]: 1515545
+list ele Idx[0-199]: 29
+list ele Pt[0-199]: 0x2aab2867b048
+final size: 5736
+list ele[0-199]: 15890
+list ele Idx[0-199]: 30
+list ele Pt[0-199]: 0x2aab2867b050
+final size: 5736
+list ele[0-199]: 1516195
+list ele Idx[0-199]: 31
+list ele Pt[0-199]: 0x2aab2867b050
+final size: 5736
+list ele[0-199]: 3026302
+list ele Idx[0-199]: 32
+list ele Pt[0-199]: 0x2aab2867b050
+final size: 5736
+list ele[0-199]: 17247
+list ele Idx[0-199]: 33
+list ele Pt[0-199]: 0x2aab2867b058
+final size: 5736
+list ele[0-199]: 3026581
+list ele Idx[0-199]: 34
+list ele Pt[0-199]: 0x2aab2867b058
+final size: 5736
+list ele[0-199]: 18240
+list ele Idx[0-199]: 35
+list ele Pt[0-199]: 0x2aab2867b058
+final size: 5736
+list ele[0-199]: 3027591
+list ele Idx[0-199]: 36
+list ele Pt[0-199]: 0x2aab2867b060
+final size: 5736
+list ele[0-199]: 3028502
+list ele Idx[0-199]: 37
+list ele Pt[0-199]: 0x2aab2867b060
+final size: 5736
+list ele[0-199]: 20464
+list ele Idx[0-199]: 38
+list ele Pt[0-199]: 0x2aab2867b060
+final size: 5736
+list ele[0-199]: 1518281
+list ele Idx[0-199]: 39
+list ele Pt[0-199]: 0x2aab2867b068
+final size: 5736
+list ele[0-199]: 1518408
+list ele Idx[0-199]: 40
+list ele Pt[0-199]: 0x2aab2867b068
+final size: 5736
+list ele[0-199]: 3030533
+list ele Idx[0-199]: 41
+list ele Pt[0-199]: 0x2aab2867b068
+final size: 5736
+list ele[0-199]: 3031658
+list ele Idx[0-199]: 42
+list ele Pt[0-199]: 0x2aab2867b070
+final size: 5736
+list ele[0-199]: 22822
+list ele Idx[0-199]: 43
+list ele Pt[0-199]: 0x2aab2867b070
+final size: 5736
+list ele[0-199]: 1519656
+list ele Idx[0-199]: 44
+list ele Pt[0-199]: 0x2aab2867b070
+final size: 5736
+list ele[0-199]: 3034141
+list ele Idx[0-199]: 45
+list ele Pt[0-199]: 0x2aab2867b078
+final size: 5736
+list ele[0-199]: 1520942
+list ele Idx[0-199]: 46
+list ele Pt[0-199]: 0x2aab2867b078
+final size: 5736
+list ele[0-199]: 25471
+list ele Idx[0-199]: 47
+list ele Pt[0-199]: 0x2aab2867b078
+final size: 5736
+list ele[0-199]: 1521969
+list ele Idx[0-199]: 48
+list ele Pt[0-199]: 0x2aab2867b080
+final size: 5736
+list ele[0-199]: 27086
+list ele Idx[0-199]: 49
+list ele Pt[0-199]: 0x2aab2867b080
+final size: 5736
+list ele[0-199]: 3037060
+list ele Idx[0-199]: 50
+list ele Pt[0-199]: 0x2aab2867b080
+final size: 5736
+list ele[0-199]: 1522274
+list ele Idx[0-199]: 51
+list ele Pt[0-199]: 0x2aab2867b088
+final size: 5736
+list ele[0-199]: 3037379
+list ele Idx[0-199]: 52
+list ele Pt[0-199]: 0x2aab2867b088
+final size: 5736
+list ele[0-199]: 1522759
+list ele Idx[0-199]: 53
+list ele Pt[0-199]: 0x2aab2867b088
+final size: 5736
+list ele[0-199]: 3037972
+list ele Idx[0-199]: 54
+list ele Pt[0-199]: 0x2aab2867b090
+final size: 5736
+list ele[0-199]: 3038721
+list ele Idx[0-199]: 55
+list ele Pt[0-199]: 0x2aab2867b090
+final size: 5736
+list ele[0-199]: 1523497
+list ele Idx[0-199]: 56
+list ele Pt[0-199]: 0x2aab2867b090
+final size: 5736
+list ele[0-199]: 29933
+list ele Idx[0-199]: 57
+list ele Pt[0-199]: 0x2aab2867b098
+final size: 5736
+list ele[0-199]: 30187
+list ele Idx[0-199]: 58
+list ele Pt[0-199]: 0x2aab2867b098
+final size: 5736
+list ele[0-199]: 1524111
+list ele Idx[0-199]: 59
+list ele Pt[0-199]: 0x2aab2867b098
+final size: 5736
+list ele[0-199]: 3040469
+list ele Idx[0-199]: 60
+list ele Pt[0-199]: 0x2aab2867b0a0
+final size: 5736
+list ele[0-199]: 3040697
+list ele Idx[0-199]: 61
+list ele Pt[0-199]: 0x2aab2867b0a0
+final size: 5736
+list ele[0-199]: 1524525
+list ele Idx[0-199]: 62
+list ele Pt[0-199]: 0x2aab2867b0a0
+final size: 5736
+list ele[0-199]: 31631
+list ele Idx[0-199]: 63
+list ele Pt[0-199]: 0x2aab2867b0a8
+final size: 5736
+list ele[0-199]: 3042350
+list ele Idx[0-199]: 64
+list ele Pt[0-199]: 0x2aab2867b0a8
+final size: 5736
+list ele[0-199]: 33015
+list ele Idx[0-199]: 65
+list ele Pt[0-199]: 0x2aab2867b0a8
+final size: 5736
+list ele[0-199]: 33188
+list ele Idx[0-199]: 66
+list ele Pt[0-199]: 0x2aab2867b0b0
+final size: 5736
+list ele[0-199]: 1526108
+list ele Idx[0-199]: 67
+list ele Pt[0-199]: 0x2aab2867b0b0
+final size: 5736
+list ele[0-199]: 3043265
+list ele Idx[0-199]: 68
+list ele Pt[0-199]: 0x2aab2867b0b0
+final size: 5736
+list ele[0-199]: 3044111
+list ele Idx[0-199]: 69
+list ele Pt[0-199]: 0x2aab2867b0b8
+final size: 5736
+list ele[0-199]: 34533
+list ele Idx[0-199]: 70
+list ele Pt[0-199]: 0x2aab2867b0b8
+final size: 5736
+list ele[0-199]: 34732
+list ele Idx[0-199]: 71
+list ele Pt[0-199]: 0x2aab2867b0b8
+final size: 5736
+list ele[0-199]: 1526959
+list ele Idx[0-199]: 72
+list ele Pt[0-199]: 0x2aab2867b0c0
+final size: 5736
+list ele[0-199]: 1527031
+list ele Idx[0-199]: 73
+list ele Pt[0-199]: 0x2aab2867b0c0
+final size: 5736
+list ele[0-199]: 3045181
+list ele Idx[0-199]: 74
+list ele Pt[0-199]: 0x2aab2867b0c0
+final size: 5736
+list ele[0-199]: 35470
+list ele Idx[0-199]: 75
+list ele Pt[0-199]: 0x2aab2867b0c8
+final size: 5736
+list ele[0-199]: 35676
+list ele Idx[0-199]: 76
+list ele Pt[0-199]: 0x2aab2867b0c8
+final size: 5736
+list ele[0-199]: 3045631
+list ele Idx[0-199]: 77
+list ele Pt[0-199]: 0x2aab2867b0c8
+final size: 5736
+list ele[0-199]: 3045871
+list ele Idx[0-199]: 78
+list ele Pt[0-199]: 0x2aab2867b0d0
+final size: 5736
+list ele[0-199]: 3046215
+list ele Idx[0-199]: 79
+list ele Pt[0-199]: 0x2aab2867b0d0
+final size: 5736
+list ele[0-199]: 1528300
+list ele Idx[0-199]: 80
+list ele Pt[0-199]: 0x2aab2867b0d0
+final size: 5736
+list ele[0-199]: 3046658
+list ele Idx[0-199]: 81
+list ele Pt[0-199]: 0x2aab2867b0d8
+final size: 5736
+list ele[0-199]: 37369
+list ele Idx[0-199]: 82
+list ele Pt[0-199]: 0x2aab2867b0d8
+final size: 5736
+list ele[0-199]: 3047978
+list ele Idx[0-199]: 83
+list ele Pt[0-199]: 0x2aab2867b0d8
+final size: 5736
+list ele[0-199]: 1529847
+list ele Idx[0-199]: 84
+list ele Pt[0-199]: 0x2aab2867b0e0
+final size: 5736
+list ele[0-199]: 1529988
+list ele Idx[0-199]: 85
+list ele Pt[0-199]: 0x2aab2867b0e0
+final size: 5736
+list ele[0-199]: 3049063
+list ele Idx[0-199]: 86
+list ele Pt[0-199]: 0x2aab2867b0e0
+final size: 5736
+list ele[0-199]: 1530285
+list ele Idx[0-199]: 87
+list ele Pt[0-199]: 0x2aab2867b0e8
+final size: 5736
+list ele[0-199]: 3049461
+list ele Idx[0-199]: 88
+list ele Pt[0-199]: 0x2aab2867b0e8
+final size: 5736
+list ele[0-199]: 39933
+list ele Idx[0-199]: 89
+list ele Pt[0-199]: 0x2aab2867b0e8
+final size: 5736
+list ele[0-199]: 1530729
+list ele Idx[0-199]: 90
+list ele Pt[0-199]: 0x2aab2867b0f0
+final size: 5736
+list ele[0-199]: 1531047
+list ele Idx[0-199]: 91
+list ele Pt[0-199]: 0x2aab2867b0f0
+final size: 5736
+list ele[0-199]: 40838
+list ele Idx[0-199]: 92
+list ele Pt[0-199]: 0x2aab2867b0f0
+final size: 5736
+list ele[0-199]: 41708
+list ele Idx[0-199]: 93
+list ele Pt[0-199]: 0x2aab2867b0f8
+final size: 5736
+list ele[0-199]: 1531985
+list ele Idx[0-199]: 94
+list ele Pt[0-199]: 0x2aab2867b0f8
+final size: 5736
+list ele[0-199]: 1532815
+list ele Idx[0-199]: 95
+list ele Pt[0-199]: 0x2aab2867b0f8
+final size: 5736
+list ele[0-199]: 3053733
+list ele Idx[0-199]: 96
+list ele Pt[0-199]: 0x2aab2867b100
+final size: 5736
+list ele[0-199]: 44134
+list ele Idx[0-199]: 97
+list ele Pt[0-199]: 0x2aab2867b100
+final size: 5736
+list ele[0-199]: 45271
+list ele Idx[0-199]: 98
+list ele Pt[0-199]: 0x2aab2867b100
+final size: 5736
+list ele[0-199]: 3054959
+list ele Idx[0-199]: 99
+list ele Pt[0-199]: 0x2aab2867b108
+final size: 5736
+list ele[0-199]: 1534923
+list ele Idx[0-199]: 100
+list ele Pt[0-199]: 0x2aab2867b108
+final size: 5736
+list ele[0-199]: 1535076
+list ele Idx[0-199]: 101
+list ele Pt[0-199]: 0x2aab2867b108
+final size: 5736
+list ele[0-199]: 3055718
+list ele Idx[0-199]: 102
+list ele Pt[0-199]: 0x2aab2867b110
+final size: 5736
+list ele[0-199]: 1535455
+list ele Idx[0-199]: 103
+list ele Pt[0-199]: 0x2aab2867b110
+final size: 5736
+list ele[0-199]: 46280
+list ele Idx[0-199]: 104
+list ele Pt[0-199]: 0x2aab2867b110
+final size: 5736
+list ele[0-199]: 1536369
+list ele Idx[0-199]: 105
+list ele Pt[0-199]: 0x2aab2867b118
+final size: 5736
+list ele[0-199]: 47747
+list ele Idx[0-199]: 106
+list ele Pt[0-199]: 0x2aab2867b118
+final size: 5736
+list ele[0-199]: 1536901
+list ele Idx[0-199]: 107
+list ele Pt[0-199]: 0x2aab2867b118
+final size: 5736
+list ele[0-199]: 3057903
+list ele Idx[0-199]: 108
+list ele Pt[0-199]: 0x2aab2867b120
+final size: 5736
+list ele[0-199]: 3058717
+list ele Idx[0-199]: 109
+list ele Pt[0-199]: 0x2aab2867b120
+final size: 5736
+list ele[0-199]: 1538273
+list ele Idx[0-199]: 110
+list ele Pt[0-199]: 0x2aab2867b120
+final size: 5736
+list ele[0-199]: 1538637
+list ele Idx[0-199]: 111
+list ele Pt[0-199]: 0x2aab2867b128
+final size: 5736
+list ele[0-199]: 3059872
+list ele Idx[0-199]: 112
+list ele Pt[0-199]: 0x2aab2867b128
+final size: 5736
+list ele[0-199]: 50828
+list ele Idx[0-199]: 113
+list ele Pt[0-199]: 0x2aab2867b128
+final size: 5736
+list ele[0-199]: 51119
+list ele Idx[0-199]: 114
+list ele Pt[0-199]: 0x2aab2867b130
+final size: 5736
+list ele[0-199]: 3061023
+list ele Idx[0-199]: 115
+list ele Pt[0-199]: 0x2aab2867b130
+final size: 5736
+list ele[0-199]: 52052
+list ele Idx[0-199]: 116
+list ele Pt[0-199]: 0x2aab2867b130
+final size: 5736
+list ele[0-199]: 3062247
+list ele Idx[0-199]: 117
+list ele Pt[0-199]: 0x2aab2867b138
+final size: 5736
+list ele[0-199]: 1540996
+list ele Idx[0-199]: 118
+list ele Pt[0-199]: 0x2aab2867b138
+final size: 5736
+list ele[0-199]: 3064086
+list ele Idx[0-199]: 119
+list ele Pt[0-199]: 0x2aab2867b138
+final size: 5736
+list ele[0-199]: 3064959
+list ele Idx[0-199]: 120
+list ele Pt[0-199]: 0x2aab2867b140
+final size: 5736
+list ele[0-199]: 1543270
+list ele Idx[0-199]: 121
+list ele Pt[0-199]: 0x2aab2867b140
+final size: 5736
+list ele[0-199]: 55638
+list ele Idx[0-199]: 122
+list ele Pt[0-199]: 0x2aab2867b140
+final size: 5736
+list ele[0-199]: 56135
+list ele Idx[0-199]: 123
+list ele Pt[0-199]: 0x2aab2867b148
+final size: 5736
+list ele[0-199]: 1544140
+list ele Idx[0-199]: 124
+list ele Pt[0-199]: 0x2aab2867b148
+final size: 5736
+list ele[0-199]: 56782
+list ele Idx[0-199]: 125
+list ele Pt[0-199]: 0x2aab2867b148
+final size: 5736
+list ele[0-199]: 1544516
+list ele Idx[0-199]: 126
+list ele Pt[0-199]: 0x2aab2867b150
+final size: 5736
+list ele[0-199]: 3066714
+list ele Idx[0-199]: 127
+list ele Pt[0-199]: 0x2aab2867b150
+final size: 5736
+list ele[0-199]: 1545229
+list ele Idx[0-199]: 128
+list ele Pt[0-199]: 0x2aab2867b150
+final size: 5736
+list ele[0-199]: 57917
+list ele Idx[0-199]: 129
+list ele Pt[0-199]: 0x2aab2867b158
+final size: 5736
+list ele[0-199]: 1545829
+list ele Idx[0-199]: 130
+list ele Pt[0-199]: 0x2aab2867b158
+final size: 5736
+list ele[0-199]: 1546283
+list ele Idx[0-199]: 131
+list ele Pt[0-199]: 0x2aab2867b158
+final size: 5736
+list ele[0-199]: 3068920
+list ele Idx[0-199]: 132
+list ele Pt[0-199]: 0x2aab2867b160
+final size: 5736
+list ele[0-199]: 59757
+list ele Idx[0-199]: 133
+list ele Pt[0-199]: 0x2aab2867b160
+final size: 5736
+list ele[0-199]: 59928
+list ele Idx[0-199]: 134
+list ele Pt[0-199]: 0x2aab2867b160
+final size: 5736
+list ele[0-199]: 1547440
+list ele Idx[0-199]: 135
+list ele Pt[0-199]: 0x2aab2867b168
+final size: 5736
+list ele[0-199]: 1547880
+list ele Idx[0-199]: 136
+list ele Pt[0-199]: 0x2aab2867b168
+final size: 5736
+list ele[0-199]: 60755
+list ele Idx[0-199]: 137
+list ele Pt[0-199]: 0x2aab2867b168
+final size: 5736
+list ele[0-199]: 1548117
+list ele Idx[0-199]: 138
+list ele Pt[0-199]: 0x2aab2867b170
+final size: 5736
+list ele[0-199]: 3070901
+list ele Idx[0-199]: 139
+list ele Pt[0-199]: 0x2aab2867b170
+final size: 5736
+list ele[0-199]: 1548781
+list ele Idx[0-199]: 140
+list ele Pt[0-199]: 0x2aab2867b170
+final size: 5736
+list ele[0-199]: 3071518
+list ele Idx[0-199]: 141
+list ele Pt[0-199]: 0x2aab2867b178
+final size: 5736
+list ele[0-199]: 1549023
+list ele Idx[0-199]: 142
+list ele Pt[0-199]: 0x2aab2867b178
+final size: 5736
+list ele[0-199]: 62039
+list ele Idx[0-199]: 143
+list ele Pt[0-199]: 0x2aab2867b178
+final size: 5736
+list ele[0-199]: 3071981
+list ele Idx[0-199]: 144
+list ele Pt[0-199]: 0x2aab2867b180
+final size: 5736
+list ele[0-199]: 3072331
+list ele Idx[0-199]: 145
+list ele Pt[0-199]: 0x2aab2867b180
+final size: 5736
+list ele[0-199]: 1550667
+list ele Idx[0-199]: 146
+list ele Pt[0-199]: 0x2aab2867b180
+final size: 5736
+list ele[0-199]: 64576
+list ele Idx[0-199]: 147
+list ele Pt[0-199]: 0x2aab2867b188
+final size: 5736
+list ele[0-199]: 65019
+list ele Idx[0-199]: 148
+list ele Pt[0-199]: 0x2aab2867b188
+final size: 5736
+list ele[0-199]: 66134
+list ele Idx[0-199]: 149
+list ele Pt[0-199]: 0x2aab2867b188
+final size: 5736
+list ele[0-199]: 1552795
+list ele Idx[0-199]: 150
+list ele Pt[0-199]: 0x2aab2867b190
+final size: 5736
+list ele[0-199]: 66619
+list ele Idx[0-199]: 151
+list ele Pt[0-199]: 0x2aab2867b190
+final size: 5736
+list ele[0-199]: 1553236
+list ele Idx[0-199]: 152
+list ele Pt[0-199]: 0x2aab2867b190
+final size: 5736
+list ele[0-199]: 3076848
+list ele Idx[0-199]: 153
+list ele Pt[0-199]: 0x2aab2867b198
+final size: 5736
+list ele[0-199]: 67644
+list ele Idx[0-199]: 154
+list ele Pt[0-199]: 0x2aab2867b198
+final size: 5736
+list ele[0-199]: 1554488
+list ele Idx[0-199]: 155
+list ele Pt[0-199]: 0x2aab2867b198
+final size: 5736
+list ele[0-199]: 1554841
+list ele Idx[0-199]: 156
+list ele Pt[0-199]: 0x2aab2867b1a0
+final size: 5736
+list ele[0-199]: 68520
+list ele Idx[0-199]: 157
+list ele Pt[0-199]: 0x2aab2867b1a0
+final size: 5736
+list ele[0-199]: 1555004
+list ele Idx[0-199]: 158
+list ele Pt[0-199]: 0x2aab2867b1a0
+final size: 5736
+list ele[0-199]: 3078360
+list ele Idx[0-199]: 159
+list ele Pt[0-199]: 0x2aab2867b1a8
+final size: 5736
+list ele[0-199]: 68950
+list ele Idx[0-199]: 160
+list ele Pt[0-199]: 0x2aab2867b1a8
+final size: 5736
+list ele[0-199]: 69362
+list ele Idx[0-199]: 161
+list ele Pt[0-199]: 0x2aab2867b1a8
+final size: 5736
+list ele[0-199]: 1555887
+list ele Idx[0-199]: 162
+list ele Pt[0-199]: 0x2aab2867b1b0
+final size: 5736
+list ele[0-199]: 3079930
+list ele Idx[0-199]: 163
+list ele Pt[0-199]: 0x2aab2867b1b0
+final size: 5736
+list ele[0-199]: 1556634
+list ele Idx[0-199]: 164
+list ele Pt[0-199]: 0x2aab2867b1b0
+final size: 5736
+list ele[0-199]: 70673
+list ele Idx[0-199]: 165
+list ele Pt[0-199]: 0x2aab2867b1b8
+final size: 5736
+list ele[0-199]: 1557064
+list ele Idx[0-199]: 166
+list ele Pt[0-199]: 0x2aab2867b1b8
+final size: 5736
+list ele[0-199]: 1557426
+list ele Idx[0-199]: 167
+list ele Pt[0-199]: 0x2aab2867b1b8
+final size: 5736
+list ele[0-199]: 1558342
+list ele Idx[0-199]: 168
+list ele Pt[0-199]: 0x2aab2867b1c0
+final size: 5736
+list ele[0-199]: 1558362
+list ele Idx[0-199]: 169
+list ele Pt[0-199]: 0x2aab2867b1c0
+final size: 5736
+list ele[0-199]: 3082161
+list ele Idx[0-199]: 170
+list ele Pt[0-199]: 0x2aab2867b1c0
+final size: 5736
+list ele[0-199]: 72765
+list ele Idx[0-199]: 171
+list ele Pt[0-199]: 0x2aab2867b1c8
+final size: 5736
+list ele[0-199]: 73331
+list ele Idx[0-199]: 172
+list ele Pt[0-199]: 0x2aab2867b1c8
+final size: 5736
+list ele[0-199]: 1559409
+list ele Idx[0-199]: 173
+list ele Pt[0-199]: 0x2aab2867b1c8
+final size: 5736
+list ele[0-199]: 1559630
+list ele Idx[0-199]: 174
+list ele Pt[0-199]: 0x2aab2867b1d0
+final size: 5736
+list ele[0-199]: 3083479
+list ele Idx[0-199]: 175
+list ele Pt[0-199]: 0x2aab2867b1d0
+final size: 5736
+list ele[0-199]: 74646
+list ele Idx[0-199]: 176
+list ele Pt[0-199]: 0x2aab2867b1d0
+final size: 5736
+list ele[0-199]: 3084269
+list ele Idx[0-199]: 177
+list ele Pt[0-199]: 0x2aab2867b1d8
+final size: 5736
+list ele[0-199]: 1560743
+list ele Idx[0-199]: 178
+list ele Pt[0-199]: 0x2aab2867b1d8
+final size: 5736
+list ele[0-199]: 75762
+list ele Idx[0-199]: 179
+list ele Pt[0-199]: 0x2aab2867b1d8
+final size: 5736
+list ele[0-199]: 75968
+list ele Idx[0-199]: 180
+list ele Pt[0-199]: 0x2aab2867b1e0
+final size: 5736
+list ele[0-199]: 3086058
+list ele Idx[0-199]: 181
+list ele Pt[0-199]: 0x2aab2867b1e0
+final size: 5736
+list ele[0-199]: 1562893
+list ele Idx[0-199]: 182
+list ele Pt[0-199]: 0x2aab2867b1e0
+final size: 5736
+list ele[0-199]: 77211
+list ele Idx[0-199]: 183
+list ele Pt[0-199]: 0x2aab2867b1e8
+final size: 5736
+list ele[0-199]: 1563509
+list ele Idx[0-199]: 184
+list ele Pt[0-199]: 0x2aab2867b1e8
+final size: 5736
+list ele[0-199]: 3087830
+list ele Idx[0-199]: 185
+list ele Pt[0-199]: 0x2aab2867b1e8
+final size: 5736
+list ele[0-199]: 78842
+list ele Idx[0-199]: 186
+list ele Pt[0-199]: 0x2aab2867b1f0
+final size: 5736
+list ele[0-199]: 1564797
+list ele Idx[0-199]: 187
+list ele Pt[0-199]: 0x2aab2867b1f0
+final size: 5736
+list ele[0-199]: 1565466
+list ele Idx[0-199]: 188
+list ele Pt[0-199]: 0x2aab2867b1f0
+final size: 5736
+list ele[0-199]: 3089697
+list ele Idx[0-199]: 189
+list ele Pt[0-199]: 0x2aab2867b1f8
+final size: 5736
+list ele[0-199]: 3090367
+list ele Idx[0-199]: 190
+list ele Pt[0-199]: 0x2aab2867b1f8
+final size: 5736
+list ele[0-199]: 1566295
+list ele Idx[0-199]: 191
+list ele Pt[0-199]: 0x2aab2867b1f8
+final size: 5736
+list ele[0-199]: 81022
+list ele Idx[0-199]: 192
+list ele Pt[0-199]: 0x2aab2867b200
+final size: 5736
+list ele[0-199]: 1567458
+list ele Idx[0-199]: 193
+list ele Pt[0-199]: 0x2aab2867b200
+final size: 5736
+list ele[0-199]: 82761
+list ele Idx[0-199]: 194
+list ele Pt[0-199]: 0x2aab2867b200
+final size: 5736
+list ele[0-199]: 1568261
+list ele Idx[0-199]: 195
+list ele Pt[0-199]: 0x2aab2867b208
+final size: 5736
+list ele[0-199]: 3092871
+list ele Idx[0-199]: 196
+list ele Pt[0-199]: 0x2aab2867b208
+final size: 5736
+list ele[0-199]: 83744
+list ele Idx[0-199]: 197
+list ele Pt[0-199]: 0x2aab2867b208
+final size: 5736
+list ele[0-199]: 1569425
+list ele Idx[0-199]: 198
+list ele Pt[0-199]: 0x2aab2867b210
+final size: 5736
+list ele[0-199]: 1569904
+list ele Idx[0-199]: 199
+list ele Pt[0-199]: 0x2aab2867b210

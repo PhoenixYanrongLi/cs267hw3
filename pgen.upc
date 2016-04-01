@@ -225,7 +225,7 @@ int main(int argc, char *argv[]){
     /////////////
     // for debug
     char* debugfilename = (char*) malloc((strlen("meow")+5+64)*sizeof(char));
-    sprintf(debugfilename, "%s_%d.out", "meow", MYTHREAD)
+    sprintf(debugfilename, "%s_%d.out", "meow", MYTHREAD);
     FILE* debugOutputFile = fopen(debugfilename, "w");
     free(debugfilename);
     //////////////////
@@ -237,6 +237,7 @@ int main(int argc, char *argv[]){
 	int64_t ptr = 0;
 	int64_t kmerIdx = startIdx;
 	char left_ext, right_ext;
+        upc_barrier;
 	while(ptr < cur_chars_read) {
 		left_ext = (char)working_buffer[ptr+KMER_LENGTH+1];
 		right_ext = (char)working_buffer[ptr+KMER_LENGTH+2];
@@ -297,18 +298,18 @@ int main(int argc, char *argv[]){
       //  for(int64_t i = 0; i < nBuckets; i+=100)
       //      fprintf(upcOutputFile, hashTable.tableHead[i]);
     //fprintf(upcOutputFile, "startListSize = %d\n", startList.size);
-    fprintf(upcOutputFile, "meow\n");
+    //fprintf(upcOutputFile, "meow\n");
     upc_forall(int64_t i = 0; i < *(sizePt); i++; &listPt[i])
     {
-	    fprintf(upcOutputFile, "meow4\n");
+//	    fprintf(upcOutputFile, "meow4\n");
     	int64_t startKmerIdx = *(listPt + i);
     	kmer_upc_t curKmer = *(heapPt + startKmerIdx);
     	unpackSequence((unsigned char*) curKmer.kmer, unpackedKmer, KMER_LENGTH);
     	memcpy(cur_contig, unpackedKmer, KMER_LENGTH * sizeof(char));
     	int64_t posInContig = KMER_LENGTH;
     	char right_ext = curKmer.r_ext;
-        if(i == 0)
-            fprintf(upcOutputFile, "meow5\n");
+    //    if(i == 0)
+  //          fprintf(upcOutputFile, "meow5\n");
 
     	while(right_ext != 'F')
     	{
