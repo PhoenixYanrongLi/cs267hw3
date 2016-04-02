@@ -85,7 +85,11 @@ void create_all_upc(int64_t nKmers, int64_t nKmersPerThread, int64_t nBuckets,
 void add_kmer_to_start_list_upc(shared start_list_upc_t* startList, shared start_list_size_upc_t* startSize, int64_t kmerIdx, FILE* file)
 {
    //shared[1] int64_t* size_ptr = &(startList->size);
+<<<<<<< HEAD
    int64_t curSize = (int64_t)bupc_atomicI64_fetchadd_relaxed(&(startSize->size), (int64_t)1);
+=======
+   int64_t idx = (int64_t)bupc_atomicI64_fetchadd_relaxed(&(startSize->size), (int64_t)1);
+>>>>>>> 0ff51b946d87a4aa729de6c672b18ddd61c05a9d
   // fprintf(file, "index: %d\n", idx);
    shared[1] int64_t* tmpPt = startList->list;
    *(tmpPt + curSize) = kmerIdx;
@@ -267,6 +271,18 @@ int main(int argc, char *argv[]){
 	static shared memory_heap_upc_t* memoryHeapPt = &memoryHeap;
 	shared[1] kmer_upc_t* heapPt = memoryHeapPt->heap;
 
+<<<<<<< HEAD
+=======
+/*	for(int64_t i = 0; i < 200; i++)
+	{
+		//shared[1] int64_t** listPt = &(startListPt->list + i);
+		fprintf(debugOutputFile, "final size: %d\n", *sizePt);
+		fprintf(debugOutputFile, "list ele[0-199]: %d\n", *(listPt+i));
+		fprintf(debugOutputFile, "list ele Idx[0-199]: %d\n", i);
+		fprintf(debugOutputFile, "list ele Pt[0-199]: %p\n", (void*)(listPt+i));	
+	}
+*/
+>>>>>>> 0ff51b946d87a4aa729de6c672b18ddd61c05a9d
 	free(working_buffer);     
     /////////////////for debug
     fclose(debugOutputFile);

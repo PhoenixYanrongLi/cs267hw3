@@ -1,0 +1,13 @@
+Detected 4514197 kmers in text UFX file: test
+Generated 5736 contigs with 4617445 total bases
+Total execution time: 1.610000 seconds (0.740000 graph construction / 0.870000 graph traversal)
+UPCR: UPC thread 0 of 3 on nid00037 (pshm node 0 of 1, process 0 of 3, pid=35677)
+UPCR: UPC thread 1 of 3 on nid00037 (pshm node 0 of 1, process 1 of 3, pid=35678)
+UPCR: UPC thread 2 of 3 on nid00037 (pshm node 0 of 1, process 2 of 3, pid=35679)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 3
+Input reading time: 0.089362 seconds
+Graph construction time: 0.585720 seconds
+Graph traversal time: 0.570897 seconds
+Files serial.sorted and pgen.sorted differ
