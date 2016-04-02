@@ -7,9 +7,49 @@
 #include <upc.h>
 #include <upc_io.h>
 #include <stdbool.h>
+#include <upc_collective.h>
 
 #include "packingDNAseq.h"
 #include "kmer_hash.h"
+
+// Allocate an array of 'count' locks and cache it in private arrays.
+  //
+  // The actual array is replicated THREADS time in the shared heap, but
+  // this function returns a pointer to a private piece of the array.
+  //
+  // The lock allocation calls are distributed over the threads as if
+  // implemented by the following:
+  //      upc_lock_t* shared [*] table[count];
+  //      upc_forall(int i=0; i<count; ++i; &table[count])
+  //        table[i] = upc_global_lock_alloc();
+  // followed by local replication of the table.
+  //
+  // This code works for any non-zero value of 'count'.
+  // This function must be called collectively.
+  //
+upc_lock_t **allocate_lock_array(unsigned int count) {
+    const unsigned int blksize = ((count + THREADS - 1) / THREADS); // Round up for "[*]"
+    const unsigned int padded_count = blksize * THREADS;
+    upc_lock_t* shared *tmp = upc_all_alloc(padded_count, sizeof(upc_lock_t*));
+    upc_lock_t* shared *table = upc_all_alloc(padded_count*THREADS, sizeof(upc_lock_t*));
+  
+    // Allocate lock pointers into a temporary array.
+    // This code overlays an array of blocksize [*] on the cyclic one.
+    upc_lock_t** ptmp = (upc_lock_t**)(&tmp[MYTHREAD]); // Private array "slice"
+    const int my_count = upc_affinitysize(count,blksize,MYTHREAD);
+    for (int i=0; i<my_count; ++i) ptmp[i] = upc_global_lock_alloc();
+  
+    // Replicate the temporary array THREADS times into the shared table array.
+    // IN_MYSYNC:   Since each thread generates its local portion of input.
+    // OUT_ALLSYNC: Ensures upc_free() occurs only after tmp is unneeded.
+    upc_all_gather_all(table, tmp, blksize * sizeof(upc_lock_t*),
+                       UPC_IN_MYSYNC|UPC_OUT_ALLSYNC);
+  
+    if (!MYTHREAD) upc_free(tmp);  // Free the temporary array exactly once
+  
+    // Return a pointer-to-private for local piece of replicated table
+    return (upc_lock_t**)(&table[MYTHREAD]);
+} 
 
 typedef struct{
 	char kmer[KMER_PACKED_LENGTH];
@@ -38,7 +78,6 @@ typedef struct{
 int64_t mymin(int64_t a, int64_t b){
     return a < b ? a : b;
 }
-
 
 void create_all_upc(int64_t nKmers, int64_t nKmersPerThread, int64_t nBuckets, 
 	shared memory_heap_upc_t* memoryHeap, shared hash_table_upc_t* hashTable,
@@ -82,21 +121,19 @@ void create_all_upc(int64_t nKmers, int64_t nKmersPerThread, int64_t nBuckets,
 
 }
 
-void add_kmer_to_start_list_upc(shared start_list_upc_t* startList, shared start_list_size_upc_t* startSize, int64_t kmerIdx, FILE* file)
+void add_kmer_to_start_list_upc(shared start_list_upc_t* startList, shared start_list_size_upc_t* startSize, 
+	int64_t kmerIdx, FILE* file, upc_lock_t* startListLock)
 {
-   //shared[1] int64_t* size_ptr = &(startList->size);
-   int64_t curSize = (int64_t)bupc_atomicI64_fetchadd_relaxed(&(startSize->size), (int64_t)1);
-  // fprintf(file, "index: %d\n", idx);
-   shared[1] int64_t* tmpPt = startList->list;
-   *(tmpPt + curSize) = kmerIdx;
-   //fprintf(file, "BasePt: %p\n", (void *)(tmpPt));
-   //fprintf(file, "BasePt+0: %p\n", (void *)(tmpPt+0));
-  // fprintf(file, "BasePt+idx: %p\n", (void *)(tmpPt+idx));
-  // fprintf(file, "kmerIdx: %d\n", *(tmpPt + idx));
+   //int64_t idx = (int64_t)bupc_atomicI64_fetchadd_relaxed(&(startSize->size), (int64_t)1);
+    upc_lock(startListLock);
+    int64_t curSize = startSize->size;
+    upc_unlock(startListLock);
+    shared[1] int64_t* tmpPt = startList->list;
+    *(tmpPt + curSize) = kmerIdx;
 }
 
 void add_kmer_upc(shared hash_table_upc_t* hashTable, shared memory_heap_upc_t* memoryHeap, const unsigned char *kmer, 
-			char left_ext, char right_ext, int64_t kmerIdx, int64_t nBuckets, FILE* debugOutputFile)
+			char left_ext, char right_ext, int64_t kmerIdx, int64_t nBuckets, FILE* debugOutputFile, upc_lock_t** hashTableLock)
 {
 	/* Pack a k-mer sequence appropriately */
 	char packedKmer[KMER_PACKED_LENGTH];
@@ -115,22 +152,26 @@ void add_kmer_upc(shared hash_table_upc_t* hashTable, shared memory_heap_upc_t* 
 
 	/* Add the contents to the hashtable */
 	shared[1] int64_t* bucket_ptr = hashTable->tableHead + hashVal;
-	int64_t oldVal = -1;
-	int64_t bucket_index = old;
-	/*do
-	{
-		kmer_ptr->next = bucket_index;
-		old = bucket_index;
-		bucket_index = bupc_atomicI64_cswap_relaxed(bucket_ptr, old, kmerIdx);
-	} while(bucket_index != old);*/
-	///////////////check you pointer!!!!!!!!
-	int64_t curBucketVal = *(hashTable + hashVal); //Assume the current bucket value is -1 (no kmers hashed into the bucket yet)
-	int64_t oldVal;
-	do{
-		(memoryHeap->heap+kmerIdx)->next = curBucketVal;
-		//oldVal = curBucketVal;
-		newBucketVal = bupc_atomicI64_cswap_relaxed(hashTable+hashVal, curBucketVal, kmerIdx);
-	} while (newBucketVal != curBucketVal)
+	upc_lock(hashTableLock[hashVal]);
+	(memoryHeap->heap + kermIdx)->next = *bucket_ptr;
+	*bucket_ptr = kmerIdx;
+	upc_unlock(hashTableLock[hashVal]);
+	// int64_t oldVal = -1;
+	// int64_t bucket_index = old;
+	// /*do
+	// {
+	// 	kmer_ptr->next = bucket_index;
+	// 	old = bucket_index;
+	// 	bucket_index = bupc_atomicI64_cswap_relaxed(bucket_ptr, old, kmerIdx);
+	// } while(bucket_index != old);*/
+	// ///////////////check you pointer!!!!!!!!
+	// int64_t curBucketVal = *(hashTable + hashVal); //Assume the current bucket value is -1 (no kmers hashed into the bucket yet)
+	// int64_t oldVal;
+	// do{
+	// 	(memoryHeap+kmerIdx)->next = curBucketVal;
+	// 	//oldVal = curBucketVal;
+	// 	newBucketVal = bupc_atomicI64_cswap_relaxed(hashTable+hashVal, curBucketVal, kmerIdx);
+	// } while (newBucketVal != curBucketVal)
 
 }
 
@@ -180,6 +221,9 @@ int main(int argc, char *argv[]){
 	/** Declarations **/
 	double inputTime=0.0, constrTime=0.0, traversalTime=0.0;
 
+	upc_lock_t* startListLock = upc_all_lock_alloc();
+	upc_lock_t** hashTableLock;
+
 	static shared int64_t nKmers; 
 	//nKmers is shared by all threads. The reason we declare it as shared is because initializing it 
 	//(by calling getNumKmersInUFX) is time-consuming
@@ -188,7 +232,6 @@ int main(int argc, char *argv[]){
 	static shared start_list_upc_t startList;
 	static shared start_list_size_upc_t startSize;
 
-
 	/** Read input **/
 	upc_barrier;
 	inputTime -= gettime();
@@ -196,7 +239,7 @@ int main(int argc, char *argv[]){
 	// Your code for input file reading here //
 	///////////////////////////////////////////
 	char* input_UFX_name = argv[1];
-	
+
 	if(MYTHREAD == 0) nKmers = getNumKmersInUFX(input_UFX_name); // once is enough
 
 	upc_barrier;
@@ -204,7 +247,7 @@ int main(int argc, char *argv[]){
 	int64_t nKmersPerThread = (nKmers + THREADS - 1) / THREADS;
 	int64_t nKmersThisThread = mymin(nKmersPerThread * (MYTHREAD + 1), nKmers) - nKmersPerThread * MYTHREAD;
 	int64_t nBuckets = nKmers * LOAD_FACTOR;
-	//nBuckets = (nBuckets + THREADS - 1) / THREADS * THREADS; //Should be fine to comment this
+	nBuckets = (nBuckets + THREADS - 1) / THREADS * THREADS;
 
 	unsigned char* working_buffer;
 	int64_t total_chars_to_read = nKmersThisThread * LINE_SIZE;
@@ -226,7 +269,6 @@ int main(int argc, char *argv[]){
 	///////////////////////////////////////////
 	init_LookupTable();
 
-
     /////////////
     // for debug
     char* debugfilename = (char*) malloc((strlen("meow")+5+64)*sizeof(char));
@@ -235,8 +277,12 @@ int main(int argc, char *argv[]){
     free(debugfilename);
     //////////////////
 
-
 	create_all_upc(nKmers, nKmersPerThread, nBuckets, &memoryHeap, &hashTable, &startList, &startSize, debugOutputFile);
+
+	//Allocate an array of upc_lock_t* and init them
+	hashTableLock = allocate_lock_array((unsigned int)nBuckets);
+
+
 	int64_t startIdx = nKmersPerThread * MYTHREAD;
 	//put_kmers_in_hashtable(hashtable, memory_heap, &start_list, aux, buffer, buffer_size, start_index);
 	int64_t ptr = 0;
@@ -246,10 +292,11 @@ int main(int argc, char *argv[]){
 	while(ptr < cur_chars_read) {
 		left_ext = (char)working_buffer[ptr+KMER_LENGTH+1];
 		right_ext = (char)working_buffer[ptr+KMER_LENGTH+2];
-		add_kmer_upc(&hashTable, &memoryHeap, &working_buffer[ptr], left_ext, right_ext, kmerIdx, nBuckets, debugOutputFile);
+		add_kmer_upc(&hashTable, &memoryHeap, &working_buffer[ptr], 
+			left_ext, right_ext, kmerIdx, nBuckets, debugOutputFile, hashTableLock;
 		if(left_ext == 'F')
 		{
-                	add_kmer_to_start_list_upc(&startList, &startSize, kmerIdx, debugOutputFile);
+                	add_kmer_to_start_list_upc(&startList, &startSize, kmerIdx, debugOutputFile, startListLock);
 			
  		}      
 		ptr += LINE_SIZE;
