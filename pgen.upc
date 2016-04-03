@@ -85,11 +85,8 @@ void create_all_upc(int64_t nKmers, int64_t nKmersPerThread, int64_t nBuckets,
 void add_kmer_to_start_list_upc(shared start_list_upc_t* startList, shared start_list_size_upc_t* startSize, int64_t kmerIdx, FILE* file)
 {
    //shared[1] int64_t* size_ptr = &(startList->size);
-<<<<<<< HEAD
    int64_t curSize = (int64_t)bupc_atomicI64_fetchadd_relaxed(&(startSize->size), (int64_t)1);
-=======
-   int64_t idx = (int64_t)bupc_atomicI64_fetchadd_relaxed(&(startSize->size), (int64_t)1);
->>>>>>> 0ff51b946d87a4aa729de6c672b18ddd61c05a9d
+
   // fprintf(file, "index: %d\n", idx);
    shared[1] int64_t* tmpPt = startList->list;
    *(tmpPt + curSize) = kmerIdx;
@@ -109,32 +106,39 @@ void add_kmer_upc(shared hash_table_upc_t* hashTable, shared memory_heap_upc_t* 
 
 	kmer_upc_t newKmer;
 	memcpy(newKmer.kmer, packedKmer, KMER_PACKED_LENGTH * sizeof(char));
-	new_kmer.l_ext = left_ext;
-	new_kmer.r_ext = right_ext;
+	newKmer.l_ext = left_ext;
+	newKmer.r_ext = right_ext;
 	newKmer.next = -1;
 	
+//	fprintf(debugOutputFile, "meow5");
 	/* Add the contents to the appropriate kmer struct in the heap */
-	shared[1] kmer_upc_t* kmer_ptr = memoryHeap->heap + kmerIdx;
-	*kmer_ptr = newKmer;
-
+	shared[1] kmer_upc_t* kmerPtr = memoryHeap->heap + kmerIdx;
+	*kmerPtr = newKmer;
+//	fprintf(debugOutputFile, "meow6");
 	/* Add the contents to the hashtable */
-	shared[1] int64_t* bucket_ptr = hashTable->tableHead + hashVal;
-	int64_t oldVal = -1;
+	/* shared[1] int64_t* bucket_ptr = hashTable->tableHead + hashVal;
+	int64_t old = -1;
 	int64_t bucket_index = old;
-	/*do
+	do
 	{
-		kmer_ptr->next = bucket_index;
+		kmerPtr->next = bucket_index;
 		old = bucket_index;
 		bucket_index = bupc_atomicI64_cswap_relaxed(bucket_ptr, old, kmerIdx);
-	} while(bucket_index != old);*/
+	} while(bucket_index != old); */
 	///////////////check you pointer!!!!!!!!
-	int64_t curBucketVal = *(hashTable + hashVal); //Assume the current bucket value is -1 (no kmers hashed into the bucket yet)
-	int64_t oldVal;
+	shared[1] int64_t* bucketPtr = hashTable->tableHead + hashVal;
+//	shared[1] int64_t* nextKmerPtr = &(*(kmer_ptr).next);
+	int64_t curBucketVal = *bucketPtr; //Assume the current bucket value is -1 (no kmers hashed into the bucket yet)
+	int64_t newBucketVal = curBucketVal;
 	do{
-		(memoryHeap->heap+kmerIdx)->next = curBucketVal;
-		//oldVal = curBucketVal;
-		newBucketVal = bupc_atomicI64_cswap_relaxed(hashTable+hashVal, curBucketVal, kmerIdx);
-	} while (newBucketVal != curBucketVal)
+		kmerPtr->next = newBucketVal;
+		curBucketVal = newBucketVal;
+		newBucketVal = bupc_atomicI64_cswap_relaxed(bucketPtr, curBucketVal, kmerIdx);
+//		fprintf(debugOutputFile, "newBucketVal: %d\n", newBucketVal);
+//		fprintf(debugOutputFile, "curBucketVal: %d\n", curBucketVal);
+//		fprintf(debugOutputFile, "hashVal: %d\n", hashVal);
+	} while (newBucketVal != curBucketVal);
+  //      fprintf(debugOutputFile, "meow7");
 
 }
 
@@ -208,7 +212,6 @@ int main(int argc, char *argv[]){
 	int64_t nKmersPerThread = (nKmers + THREADS - 1) / THREADS;
 	int64_t nKmersThisThread = mymin(nKmersPerThread * (MYTHREAD + 1), nKmers) - nKmersPerThread * MYTHREAD;
 	int64_t nBuckets = nKmers * LOAD_FACTOR;
-	//nBuckets = (nBuckets + THREADS - 1) / THREADS * THREADS; //Should be fine to comment this
 
 	unsigned char* working_buffer;
 	int64_t total_chars_to_read = nKmersThisThread * LINE_SIZE;
@@ -241,25 +244,29 @@ int main(int argc, char *argv[]){
 
 
 	create_all_upc(nKmers, nKmersPerThread, nBuckets, &memoryHeap, &hashTable, &startList, &startSize, debugOutputFile);
+//	fprintf(debugOutputFile, "meow0");
 	int64_t startIdx = nKmersPerThread * MYTHREAD;
 	//put_kmers_in_hashtable(hashtable, memory_heap, &start_list, aux, buffer, buffer_size, start_index);
 	int64_t ptr = 0;
 	int64_t kmerIdx = startIdx;
 	char left_ext, right_ext;
         upc_barrier;
+	int debugInt = 0;
 	while(ptr < cur_chars_read) {
 		left_ext = (char)working_buffer[ptr+KMER_LENGTH+1];
 		right_ext = (char)working_buffer[ptr+KMER_LENGTH+2];
 		add_kmer_upc(&hashTable, &memoryHeap, &working_buffer[ptr], left_ext, right_ext, kmerIdx, nBuckets, debugOutputFile);
+//		fprintf(debugOutputFile, "meow3: %d\n", debugInt);
 		if(left_ext == 'F')
 		{
                 	add_kmer_to_start_list_upc(&startList, &startSize, kmerIdx, debugOutputFile);
-			
+//			fprintf(debugOutputFile, "meow4: %d\n", debugInt);
  		}      
 		ptr += LINE_SIZE;
 		kmerIdx++;
+		debugInt++;
 	}
-
+//	fprintf(debugOutputFile, "meow1");
 	upc_barrier;
 
 	static shared start_list_upc_t* startListPt = &startList;
@@ -271,18 +278,7 @@ int main(int argc, char *argv[]){
 	static shared memory_heap_upc_t* memoryHeapPt = &memoryHeap;
 	shared[1] kmer_upc_t* heapPt = memoryHeapPt->heap;
 
-<<<<<<< HEAD
-=======
-/*	for(int64_t i = 0; i < 200; i++)
-	{
-		//shared[1] int64_t** listPt = &(startListPt->list + i);
-		fprintf(debugOutputFile, "final size: %d\n", *sizePt);
-		fprintf(debugOutputFile, "list ele[0-199]: %d\n", *(listPt+i));
-		fprintf(debugOutputFile, "list ele Idx[0-199]: %d\n", i);
-		fprintf(debugOutputFile, "list ele Pt[0-199]: %p\n", (void*)(listPt+i));	
-	}
-*/
->>>>>>> 0ff51b946d87a4aa729de6c672b18ddd61c05a9d
+
 	free(working_buffer);     
     /////////////////for debug
     fclose(debugOutputFile);

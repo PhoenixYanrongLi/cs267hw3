@@ -127,6 +127,7 @@ void add_kmer_to_start_list_upc(shared start_list_upc_t* startList, shared start
    //int64_t idx = (int64_t)bupc_atomicI64_fetchadd_relaxed(&(startSize->size), (int64_t)1);
     upc_lock(startListLock);
     int64_t curSize = startSize->size;
+    startSize->size++;
     upc_unlock(startListLock);
     shared[1] int64_t* tmpPt = startList->list;
     *(tmpPt + curSize) = kmerIdx;
@@ -142,8 +143,8 @@ void add_kmer_upc(shared hash_table_upc_t* hashTable, shared memory_heap_upc_t* 
 
 	kmer_upc_t newKmer;
 	memcpy(newKmer.kmer, packedKmer, KMER_PACKED_LENGTH * sizeof(char));
-	new_kmer.l_ext = left_ext;
-	new_kmer.r_ext = right_ext;
+	newKmer.l_ext = left_ext;
+	newKmer.r_ext = right_ext;
 	newKmer.next = -1;
 	
 	/* Add the contents to the appropriate kmer struct in the heap */
@@ -153,10 +154,13 @@ void add_kmer_upc(shared hash_table_upc_t* hashTable, shared memory_heap_upc_t* 
 	/* Add the contents to the hashtable */
 	shared[1] int64_t* bucket_ptr = hashTable->tableHead + hashVal;
 	upc_lock(hashTableLock[hashVal]);
-	(memoryHeap->heap + kermIdx)->next = *bucket_ptr;
+	kmer_ptr->next = *bucket_ptr;
 	*bucket_ptr = kmerIdx;
+//        fprintf(debugOutputFile, "kmer: %d\n", kmerIdx);
+//	fprintf(debugOutputFile, "buket_idx: %d\n", hashVal);
+//	fprintf(debugOutputFile, "next: %d\n", (memoryHeap->heap + kmerIdx)->next);
 	upc_unlock(hashTableLock[hashVal]);
-	// int64_t oldVal = -1;
+	// int64_t old = -1;
 	// int64_t bucket_index = old;
 	// /*do
 	// {
@@ -220,6 +224,7 @@ int main(int argc, char *argv[]){
 
 	/** Declarations **/
 	double inputTime=0.0, constrTime=0.0, traversalTime=0.0;
+        double setLockTime=0.0;
 
 	upc_lock_t* startListLock = upc_all_lock_alloc();
 	upc_lock_t** hashTableLock;
@@ -280,8 +285,9 @@ int main(int argc, char *argv[]){
 	create_all_upc(nKmers, nKmersPerThread, nBuckets, &memoryHeap, &hashTable, &startList, &startSize, debugOutputFile);
 
 	//Allocate an array of upc_lock_t* and init them
+	setLockTime -= gettime();
 	hashTableLock = allocate_lock_array((unsigned int)nBuckets);
-
+	setLockTime += gettime();
 
 	int64_t startIdx = nKmersPerThread * MYTHREAD;
 	//put_kmers_in_hashtable(hashtable, memory_heap, &start_list, aux, buffer, buffer_size, start_index);
@@ -293,7 +299,7 @@ int main(int argc, char *argv[]){
 		left_ext = (char)working_buffer[ptr+KMER_LENGTH+1];
 		right_ext = (char)working_buffer[ptr+KMER_LENGTH+2];
 		add_kmer_upc(&hashTable, &memoryHeap, &working_buffer[ptr], 
-			left_ext, right_ext, kmerIdx, nBuckets, debugOutputFile, hashTableLock;
+			left_ext, right_ext, kmerIdx, nBuckets, debugOutputFile, hashTableLock);
 		if(left_ext == 'F')
 		{
                 	add_kmer_to_start_list_upc(&startList, &startSize, kmerIdx, debugOutputFile, startListLock);
@@ -341,7 +347,7 @@ int main(int argc, char *argv[]){
       //  for(int64_t i = 0; i < nBuckets; i+=100)
       //      fprintf(upcOutputFile, hashTable.tableHead[i]);
     //fprintf(upcOutputFile, "startListSize = %d\n", startList.size);
-    //fprintf(upcOutputFile, "meow\n");
+   // fprintf(upcOutputFile, "meow\n");
     upc_forall(int64_t i = 0; i < *(sizePt); i++; &listPt[i])
     {
 //	    fprintf(upcOutputFile, "meow4\n");
@@ -353,7 +359,8 @@ int main(int argc, char *argv[]){
     	char right_ext = curKmer.r_ext;
     //    if(i == 0)
   //          fprintf(upcOutputFile, "meow5\n");
-
+//	fprintf(upcOutputFile, "%c\n", right_ext);
+//	fprintf(upcOutputFile, "%d\n", i);
     	while(right_ext != 'F')
     	{
     		cur_contig[posInContig] = right_ext;
@@ -384,6 +391,7 @@ int main(int argc, char *argv[]){
 		printf("Input reading time: %f seconds\n", inputTime);
 		printf("Graph construction time: %f seconds\n", constrTime);
 		printf("Graph traversal time: %f seconds\n", traversalTime);
+		printf("Set up lock time: %f seconds\n", setLockTime);
 	}
 	return 0;
 }
