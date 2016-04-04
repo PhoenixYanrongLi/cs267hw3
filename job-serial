@@ -1,10 +1,12 @@
 #!/bin/bash -l 
 #SBATCH -p debug
 #SBATCH -N 1
-#SBATCH -t 00:02:00 
+#SBATCH -t 00:10:00 
 #SBATCH -J serial-HW3
 #SBATCH -o serial-HW3.%j.out
 #SBATCH -e serial-HW3.%j.err
 
 cd ${PWD}
+cd /scratch1/scratchdirs/bosschen/my_stripped_folder
+
 srun -n 1 ./serial test
