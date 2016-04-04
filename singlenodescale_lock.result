@@ -1,0 +1,468 @@
+UPCR: UPC thread 0 of 1 on nid00028 (pshm node 0 of 1, process 0 of 1, pid=23153)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 1
+Input reading time: 0.359361 seconds
+Graph construction time: 2.479578 seconds
+Graph traversal time: 1.264917 seconds
+Set up lock time: 0.186707 seconds
+UPCR: UPC thread 0 of 2 on nid00028 (pshm node 0 of 1, process 0 of 2, pid=23210)
+UPCR: UPC thread 1 of 2 on nid00028 (pshm node 0 of 1, process 1 of 2, pid=23211)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 2
+Input reading time: 0.125715 seconds
+Graph construction time: 1.688765 seconds
+Graph traversal time: 0.752024 seconds
+Set up lock time: 0.226374 seconds
+UPCR: UPC thread 0 of 3 on nid00028 (pshm node 0 of 1, process 0 of 3, pid=23279)
+UPCR: UPC thread 1 of 3 on nid00028 (pshm node 0 of 1, process 1 of 3, pid=23280)
+UPCR: UPC thread 2 of 3 on nid00028 (pshm node 0 of 1, process 2 of 3, pid=23281)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 3
+Input reading time: 0.076976 seconds
+Graph construction time: 1.314483 seconds
+Graph traversal time: 0.536873 seconds
+Set up lock time: 0.208653 seconds
+UPCR: UPC thread 0 of 4 on nid00028 (pshm node 0 of 1, process 0 of 4, pid=23358)
+UPCR: UPC thread 2 of 4 on nid00028 (pshm node 0 of 1, process 2 of 4, pid=23360)
+UPCR: UPC thread 3 of 4 on nid00028 (pshm node 0 of 1, process 3 of 4, pid=23361)
+UPCR: UPC thread 1 of 4 on nid00028 (pshm node 0 of 1, process 1 of 4, pid=23359)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 4
+Input reading time: 0.064398 seconds
+Graph construction time: 1.078000 seconds
+Graph traversal time: 0.477940 seconds
+Set up lock time: 0.188842 seconds
+UPCR: UPC thread 0 of 5 on nid00028 (pshm node 0 of 1, process 0 of 5, pid=23443)
+UPCR: UPC thread 1 of 5 on nid00028 (pshm node 0 of 1, process 1 of 5, pid=23444)
+UPCR: UPC thread 2 of 5 on nid00028 (pshm node 0 of 1, process 2 of 5, pid=23445)
+UPCR: UPC thread 3 of 5 on nid00028 (pshm node 0 of 1, process 3 of 5, pid=23446)
+UPCR: UPC thread 4 of 5 on nid00028 (pshm node 0 of 1, process 4 of 5, pid=23447)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 5
+Input reading time: 0.048916 seconds
+Graph construction time: 0.987061 seconds
+Graph traversal time: 0.369610 seconds
+Set up lock time: 0.193876 seconds
+UPCR: UPC thread 0 of 6 on nid00028 (pshm node 0 of 1, process 0 of 6, pid=23535)
+UPCR: UPC thread 1 of 6 on nid00028 (pshm node 0 of 1, process 1 of 6, pid=23536)
+UPCR: UPC thread 2 of 6 on nid00028 (pshm node 0 of 1, process 2 of 6, pid=23537)
+UPCR: UPC thread 3 of 6 on nid00028 (pshm node 0 of 1, process 3 of 6, pid=23538)
+UPCR: UPC thread 4 of 6 on nid00028 (pshm node 0 of 1, process 4 of 6, pid=23539)
+UPCR: UPC thread 5 of 6 on nid00028 (pshm node 0 of 1, process 5 of 6, pid=23540)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 6
+Input reading time: 0.082194 seconds
+Graph construction time: 0.890011 seconds
+Graph traversal time: 0.347495 seconds
+Set up lock time: 0.181048 seconds
+UPCR: UPC thread 0 of 7 on nid00028 (pshm node 0 of 1, process 0 of 7, pid=23608)
+UPCR: UPC thread 2 of 7 on nid00028 (pshm node 0 of 1, process 2 of 7, pid=23610)
+UPCR: UPC thread 4 of 7 on nid00028 (pshm node 0 of 1, process 4 of 7, pid=23612)
+UPCR: UPC thread 6 of 7 on nid00028 (pshm node 0 of 1, process 6 of 7, pid=23614)
+UPCR: UPC thread 1 of 7 on nid00028 (pshm node 0 of 1, process 1 of 7, pid=23609)
+UPCR: UPC thread 3 of 7 on nid00028 (pshm node 0 of 1, process 3 of 7, pid=23611)
+UPCR: UPC thread 5 of 7 on nid00028 (pshm node 0 of 1, process 5 of 7, pid=23613)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 7
+Input reading time: 0.037181 seconds
+Graph construction time: 0.852830 seconds
+Graph traversal time: 0.300595 seconds
+Set up lock time: 0.192622 seconds
+UPCR: UPC thread 0 of 8 on nid00028 (pshm node 0 of 1, process 0 of 8, pid=23683)
+UPCR: UPC thread 1 of 8 on nid00028 (pshm node 0 of 1, process 1 of 8, pid=23684)
+UPCR: UPC thread 2 of 8 on nid00028 (pshm node 0 of 1, process 2 of 8, pid=23685)
+UPCR: UPC thread 3 of 8 on nid00028 (pshm node 0 of 1, process 3 of 8, pid=23686)
+UPCR: UPC thread 4 of 8 on nid00028 (pshm node 0 of 1, process 4 of 8, pid=23687)
+UPCR: UPC thread 5 of 8 on nid00028 (pshm node 0 of 1, process 5 of 8, pid=23688)
+UPCR: UPC thread 6 of 8 on nid00028 (pshm node 0 of 1, process 6 of 8, pid=23689)
+UPCR: UPC thread 7 of 8 on nid00028 (pshm node 0 of 1, process 7 of 8, pid=23690)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 8
+Input reading time: 0.036395 seconds
+Graph construction time: 0.811161 seconds
+Graph traversal time: 0.290154 seconds
+Set up lock time: 0.182136 seconds
+UPCR: UPC thread 0 of 9 on nid00028 (pshm node 0 of 1, process 0 of 9, pid=23825)
+UPCR: UPC thread 1 of 9 on nid00028 (pshm node 0 of 1, process 1 of 9, pid=23826)
+UPCR: UPC thread 2 of 9 on nid00028 (pshm node 0 of 1, process 2 of 9, pid=23827)
+UPCR: UPC thread 3 of 9 on nid00028 (pshm node 0 of 1, process 3 of 9, pid=23828)
+UPCR: UPC thread 4 of 9 on nid00028 (pshm node 0 of 1, process 4 of 9, pid=23829)
+UPCR: UPC thread 5 of 9 on nid00028 (pshm node 0 of 1, process 5 of 9, pid=23830)
+UPCR: UPC thread 6 of 9 on nid00028 (pshm node 0 of 1, process 6 of 9, pid=23831)
+UPCR: UPC thread 7 of 9 on nid00028 (pshm node 0 of 1, process 7 of 9, pid=23832)
+UPCR: UPC thread 8 of 9 on nid00028 (pshm node 0 of 1, process 8 of 9, pid=23833)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 9
+Input reading time: 0.033004 seconds
+Graph construction time: 0.778568 seconds
+Graph traversal time: 0.264337 seconds
+Set up lock time: 0.192764 seconds
+UPCR: UPC thread 0 of 10 on nid00028 (pshm node 0 of 1, process  0 of 10, pid=23985)
+UPCR: UPC thread 2 of 10 on nid00028 (pshm node 0 of 1, process  2 of 10, pid=23987)
+UPCR: UPC thread 3 of 10 on nid00028 (pshm node 0 of 1, process  3 of 10, pid=23988)
+UPCR: UPC thread 4 of 10 on nid00028 (pshm node 0 of 1, process  4 of 10, pid=23989)
+UPCR: UPC thread 7 of 10 on nid00028 (pshm node 0 of 1, process  7 of 10, pid=23992)
+UPCR: UPC thread 8 of 10 on nid00028 (pshm node 0 of 1, process  8 of 10, pid=23993)
+UPCR: UPC thread 9 of 10 on nid00028 (pshm node 0 of 1, process  9 of 10, pid=23994)
+UPCR: UPC thread 1 of 10 on nid00028 (pshm node 0 of 1, process  1 of 10, pid=23986)
+UPCR: UPC thread 5 of 10 on nid00028 (pshm node 0 of 1, process  5 of 10, pid=23990)
+UPCR: UPC thread 6 of 10 on nid00028 (pshm node 0 of 1, process  6 of 10, pid=23991)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 10
+Input reading time: 0.030821 seconds
+Graph construction time: 0.750035 seconds
+Graph traversal time: 0.247488 seconds
+Set up lock time: 0.180876 seconds
+UPCR: UPC thread  0 of 11 on nid00028 (pshm node 0 of 1, process  0 of 11, pid=24069)
+UPCR: UPC thread  1 of 11 on nid00028 (pshm node 0 of 1, process  1 of 11, pid=24070)
+UPCR: UPC thread  2 of 11 on nid00028 (pshm node 0 of 1, process  2 of 11, pid=24071)
+UPCR: UPC thread  3 of 11 on nid00028 (pshm node 0 of 1, process  3 of 11, pid=24072)
+UPCR: UPC thread  4 of 11 on nid00028 (pshm node 0 of 1, process  4 of 11, pid=24073)
+UPCR: UPC thread  5 of 11 on nid00028 (pshm node 0 of 1, process  5 of 11, pid=24074)
+UPCR: UPC thread  6 of 11 on nid00028 (pshm node 0 of 1, process  6 of 11, pid=24075)
+UPCR: UPC thread  7 of 11 on nid00028 (pshm node 0 of 1, process  7 of 11, pid=24076)
+UPCR: UPC thread  8 of 11 on nid00028 (pshm node 0 of 1, process  8 of 11, pid=24077)
+UPCR: UPC thread  9 of 11 on nid00028 (pshm node 0 of 1, process  9 of 11, pid=24078)
+UPCR: UPC thread 10 of 11 on nid00028 (pshm node 0 of 1, process 10 of 11, pid=24079)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 11
+Input reading time: 0.029877 seconds
+Graph construction time: 0.750973 seconds
+Graph traversal time: 0.239408 seconds
+Set up lock time: 0.196696 seconds
+UPCR: UPC thread  0 of 12 on nid00028 (pshm node 0 of 1, process  0 of 12, pid=24242)
+UPCR: UPC thread  2 of 12 on nid00028 (pshm node 0 of 1, process  2 of 12, pid=24244)
+UPCR: UPC thread  5 of 12 on nid00028 (pshm node 0 of 1, process  5 of 12, pid=24247)
+UPCR: UPC thread  7 of 12 on nid00028 (pshm node 0 of 1, process  7 of 12, pid=24249)
+UPCR: UPC thread  8 of 12 on nid00028 (pshm node 0 of 1, process  8 of 12, pid=24250)
+UPCR: UPC thread  9 of 12 on nid00028 (pshm node 0 of 1, process  9 of 12, pid=24251)
+UPCR: UPC thread 10 of 12 on nid00028 (pshm node 0 of 1, process 10 of 12, pid=24252)
+UPCR: UPC thread 11 of 12 on nid00028 (pshm node 0 of 1, process 11 of 12, pid=24253)
+UPCR: UPC thread  1 of 12 on nid00028 (pshm node 0 of 1, process  1 of 12, pid=24243)
+UPCR: UPC thread  3 of 12 on nid00028 (pshm node 0 of 1, process  3 of 12, pid=24245)
+UPCR: UPC thread  4 of 12 on nid00028 (pshm node 0 of 1, process  4 of 12, pid=24246)
+UPCR: UPC thread  6 of 12 on nid00028 (pshm node 0 of 1, process  6 of 12, pid=24248)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 12
+Input reading time: 0.030363 seconds
+Graph construction time: 0.705427 seconds
+Graph traversal time: 0.232233 seconds
+Set up lock time: 0.180477 seconds
+UPCR: UPC thread  0 of 13 on nid00028 (pshm node 0 of 1, process  0 of 13, pid=24435)
+UPCR: UPC thread  1 of 13 on nid00028 (pshm node 0 of 1, process  1 of 13, pid=24436)
+UPCR: UPC thread  2 of 13 on nid00028 (pshm node 0 of 1, process  2 of 13, pid=24437)
+UPCR: UPC thread  3 of 13 on nid00028 (pshm node 0 of 1, process  3 of 13, pid=24438)
+UPCR: UPC thread  4 of 13 on nid00028 (pshm node 0 of 1, process  4 of 13, pid=24439)
+UPCR: UPC thread  5 of 13 on nid00028 (pshm node 0 of 1, process  5 of 13, pid=24440)
+UPCR: UPC thread  6 of 13 on nid00028 (pshm node 0 of 1, process  6 of 13, pid=24441)
+UPCR: UPC thread  8 of 13 on nid00028 (pshm node 0 of 1, process  8 of 13, pid=24443)
+UPCR: UPC thread  9 of 13 on nid00028 (pshm node 0 of 1, process  9 of 13, pid=24444)
+UPCR: UPC thread 10 of 13 on nid00028 (pshm node 0 of 1, process 10 of 13, pid=24445)
+UPCR: UPC thread 11 of 13 on nid00028 (pshm node 0 of 1, process 11 of 13, pid=24446)
+UPCR: UPC thread 12 of 13 on nid00028 (pshm node 0 of 1, process 12 of 13, pid=24447)
+UPCR: UPC thread  7 of 13 on nid00028 (pshm node 0 of 1, process  7 of 13, pid=24442)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 13
+Input reading time: 0.034312 seconds
+Graph construction time: 0.713533 seconds
+Graph traversal time: 0.241946 seconds
+Set up lock time: 0.195591 seconds
+UPCR: UPC thread  0 of 14 on nid00028 (pshm node 0 of 1, process  0 of 14, pid=24635)
+UPCR: UPC thread  1 of 14 on nid00028 (pshm node 0 of 1, process  1 of 14, pid=24636)
+UPCR: UPC thread  2 of 14 on nid00028 (pshm node 0 of 1, process  2 of 14, pid=24637)
+UPCR: UPC thread  3 of 14 on nid00028 (pshm node 0 of 1, process  3 of 14, pid=24638)
+UPCR: UPC thread  4 of 14 on nid00028 (pshm node 0 of 1, process  4 of 14, pid=24639)
+UPCR: UPC thread  5 of 14 on nid00028 (pshm node 0 of 1, process  5 of 14, pid=24640)
+UPCR: UPC thread  6 of 14 on nid00028 (pshm node 0 of 1, process  6 of 14, pid=24641)
+UPCR: UPC thread  7 of 14 on nid00028 (pshm node 0 of 1, process  7 of 14, pid=24642)
+UPCR: UPC thread  8 of 14 on nid00028 (pshm node 0 of 1, process  8 of 14, pid=24643)
+UPCR: UPC thread  9 of 14 on nid00028 (pshm node 0 of 1, process  9 of 14, pid=24644)
+UPCR: UPC thread 10 of 14 on nid00028 (pshm node 0 of 1, process 10 of 14, pid=24645)
+UPCR: UPC thread 11 of 14 on nid00028 (pshm node 0 of 1, process 11 of 14, pid=24646)
+UPCR: UPC thread 12 of 14 on nid00028 (pshm node 0 of 1, process 12 of 14, pid=24647)
+UPCR: UPC thread 13 of 14 on nid00028 (pshm node 0 of 1, process 13 of 14, pid=24648)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 14
+Input reading time: 0.032566 seconds
+Graph construction time: 0.683891 seconds
+Graph traversal time: 0.217364 seconds
+Set up lock time: 0.183815 seconds
+UPCR: UPC thread  0 of 15 on nid00028 (pshm node 0 of 1, process  0 of 15, pid=24828)
+UPCR: UPC thread  2 of 15 on nid00028 (pshm node 0 of 1, process  2 of 15, pid=24830)
+UPCR: UPC thread  8 of 15 on nid00028 (pshm node 0 of 1, process  8 of 15, pid=24836)
+UPCR: UPC thread 13 of 15 on nid00028 (pshm node 0 of 1, process 13 of 15, pid=24841)
+UPCR: UPC thread  1 of 15 on nid00028 (pshm node 0 of 1, process  1 of 15, pid=24829)
+UPCR: UPC thread  3 of 15 on nid00028 (pshm node 0 of 1, process  3 of 15, pid=24831)
+UPCR: UPC thread  4 of 15 on nid00028 (pshm node 0 of 1, process  4 of 15, pid=24832)
+UPCR: UPC thread  5 of 15 on nid00028 (pshm node 0 of 1, process  5 of 15, pid=24833)
+UPCR: UPC thread  6 of 15 on nid00028 (pshm node 0 of 1, process  6 of 15, pid=24834)
+UPCR: UPC thread  7 of 15 on nid00028 (pshm node 0 of 1, process  7 of 15, pid=24835)
+UPCR: UPC thread  9 of 15 on nid00028 (pshm node 0 of 1, process  9 of 15, pid=24837)
+UPCR: UPC thread 10 of 15 on nid00028 (pshm node 0 of 1, process 10 of 15, pid=24838)
+UPCR: UPC thread 11 of 15 on nid00028 (pshm node 0 of 1, process 11 of 15, pid=24839)
+UPCR: UPC thread 12 of 15 on nid00028 (pshm node 0 of 1, process 12 of 15, pid=24840)
+UPCR: UPC thread 14 of 15 on nid00028 (pshm node 0 of 1, process 14 of 15, pid=24842)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 15
+Input reading time: 0.028309 seconds
+Graph construction time: 0.679488 seconds
+Graph traversal time: 0.197778 seconds
+Set up lock time: 0.194292 seconds
+UPCR: UPC thread  0 of 16 on nid00028 (pshm node 0 of 1, process  0 of 16, pid=25046)
+UPCR: UPC thread  5 of 16 on nid00028 (pshm node 0 of 1, process  5 of 16, pid=25051)
+UPCR: UPC thread  8 of 16 on nid00028 (pshm node 0 of 1, process  8 of 16, pid=25054)
+UPCR: UPC thread 10 of 16 on nid00028 (pshm node 0 of 1, process 10 of 16, pid=25056)
+UPCR: UPC thread 11 of 16 on nid00028 (pshm node 0 of 1, process 11 of 16, pid=25057)
+UPCR: UPC thread 12 of 16 on nid00028 (pshm node 0 of 1, process 12 of 16, pid=25058)
+UPCR: UPC thread 14 of 16 on nid00028 (pshm node 0 of 1, process 14 of 16, pid=25060)
+UPCR: UPC thread 15 of 16 on nid00028 (pshm node 0 of 1, process 15 of 16, pid=25061)
+UPCR: UPC thread  1 of 16 on nid00028 (pshm node 0 of 1, process  1 of 16, pid=25047)
+UPCR: UPC thread  2 of 16 on nid00028 (pshm node 0 of 1, process  2 of 16, pid=25048)
+UPCR: UPC thread  3 of 16 on nid00028 (pshm node 0 of 1, process  3 of 16, pid=25049)
+UPCR: UPC thread  4 of 16 on nid00028 (pshm node 0 of 1, process  4 of 16, pid=25050)
+UPCR: UPC thread  6 of 16 on nid00028 (pshm node 0 of 1, process  6 of 16, pid=25052)
+UPCR: UPC thread  7 of 16 on nid00028 (pshm node 0 of 1, process  7 of 16, pid=25053)
+UPCR: UPC thread  9 of 16 on nid00028 (pshm node 0 of 1, process  9 of 16, pid=25055)
+UPCR: UPC thread 13 of 16 on nid00028 (pshm node 0 of 1, process 13 of 16, pid=25059)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 16
+Input reading time: 0.028171 seconds
+Graph construction time: 0.670635 seconds
+Graph traversal time: 0.200204 seconds
+Set up lock time: 0.186276 seconds
+UPCR: UPC thread  0 of 17 on nid00028 (pshm node 0 of 1, process  0 of 17, pid=25170)
+UPCR: UPC thread  4 of 17 on nid00028 (pshm node 0 of 1, process  4 of 17, pid=25174)
+UPCR: UPC thread  6 of 17 on nid00028 (pshm node 0 of 1, process  6 of 17, pid=25176)
+UPCR: UPC thread  8 of 17 on nid00028 (pshm node 0 of 1, process  8 of 17, pid=25178)
+UPCR: UPC thread 10 of 17 on nid00028 (pshm node 0 of 1, process 10 of 17, pid=25180)
+UPCR: UPC thread 11 of 17 on nid00028 (pshm node 0 of 1, process 11 of 17, pid=25181)
+UPCR: UPC thread 12 of 17 on nid00028 (pshm node 0 of 1, process 12 of 17, pid=25182)
+UPCR: UPC thread 14 of 17 on nid00028 (pshm node 0 of 1, process 14 of 17, pid=25184)
+UPCR: UPC thread 15 of 17 on nid00028 (pshm node 0 of 1, process 15 of 17, pid=25185)
+UPCR: UPC thread 16 of 17 on nid00028 (pshm node 0 of 1, process 16 of 17, pid=25186)
+UPCR: UPC thread  1 of 17 on nid00028 (pshm node 0 of 1, process  1 of 17, pid=25171)
+UPCR: UPC thread  2 of 17 on nid00028 (pshm node 0 of 1, process  2 of 17, pid=25172)
+UPCR: UPC thread  3 of 17 on nid00028 (pshm node 0 of 1, process  3 of 17, pid=25173)
+UPCR: UPC thread  5 of 17 on nid00028 (pshm node 0 of 1, process  5 of 17, pid=25175)
+UPCR: UPC thread  7 of 17 on nid00028 (pshm node 0 of 1, process  7 of 17, pid=25177)
+UPCR: UPC thread  9 of 17 on nid00028 (pshm node 0 of 1, process  9 of 17, pid=25179)
+UPCR: UPC thread 13 of 17 on nid00028 (pshm node 0 of 1, process 13 of 17, pid=25183)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 17
+Input reading time: 0.026459 seconds
+Graph construction time: 0.673936 seconds
+Graph traversal time: 0.214974 seconds
+Set up lock time: 0.200157 seconds
+UPCR: UPC thread  0 of 18 on nid00028 (pshm node 0 of 1, process  0 of 18, pid=25427)
+UPCR: UPC thread  4 of 18 on nid00028 (pshm node 0 of 1, process  4 of 18, pid=25431)
+UPCR: UPC thread 10 of 18 on nid00028 (pshm node 0 of 1, process 10 of 18, pid=25437)
+UPCR: UPC thread 15 of 18 on nid00028 (pshm node 0 of 1, process 15 of 18, pid=25442)
+UPCR: UPC thread  1 of 18 on nid00028 (pshm node 0 of 1, process  1 of 18, pid=25428)
+UPCR: UPC thread  2 of 18 on nid00028 (pshm node 0 of 1, process  2 of 18, pid=25429)
+UPCR: UPC thread  3 of 18 on nid00028 (pshm node 0 of 1, process  3 of 18, pid=25430)
+UPCR: UPC thread  5 of 18 on nid00028 (pshm node 0 of 1, process  5 of 18, pid=25432)
+UPCR: UPC thread  6 of 18 on nid00028 (pshm node 0 of 1, process  6 of 18, pid=25433)
+UPCR: UPC thread  7 of 18 on nid00028 (pshm node 0 of 1, process  7 of 18, pid=25434)
+UPCR: UPC thread  8 of 18 on nid00028 (pshm node 0 of 1, process  8 of 18, pid=25435)
+UPCR: UPC thread  9 of 18 on nid00028 (pshm node 0 of 1, process  9 of 18, pid=25436)
+UPCR: UPC thread 11 of 18 on nid00028 (pshm node 0 of 1, process 11 of 18, pid=25438)
+UPCR: UPC thread 12 of 18 on nid00028 (pshm node 0 of 1, process 12 of 18, pid=25439)
+UPCR: UPC thread 13 of 18 on nid00028 (pshm node 0 of 1, process 13 of 18, pid=25440)
+UPCR: UPC thread 14 of 18 on nid00028 (pshm node 0 of 1, process 14 of 18, pid=25441)
+UPCR: UPC thread 16 of 18 on nid00028 (pshm node 0 of 1, process 16 of 18, pid=25443)
+UPCR: UPC thread 17 of 18 on nid00028 (pshm node 0 of 1, process 17 of 18, pid=25444)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 18
+Input reading time: 0.032191 seconds
+Graph construction time: 0.652047 seconds
+Graph traversal time: 0.189237 seconds
+Set up lock time: 0.188209 seconds
+UPCR: UPC thread  0 of 19 on nid00028 (pshm node 0 of 1, process  0 of 19, pid=25535)
+UPCR: UPC thread  7 of 19 on nid00028 (pshm node 0 of 1, process  7 of 19, pid=25542)
+UPCR: UPC thread  9 of 19 on nid00028 (pshm node 0 of 1, process  9 of 19, pid=25544)
+UPCR: UPC thread 17 of 19 on nid00028 (pshm node 0 of 1, process 17 of 19, pid=25552)
+UPCR: UPC thread 18 of 19 on nid00028 (pshm node 0 of 1, process 18 of 19, pid=25553)
+UPCR: UPC thread  1 of 19 on nid00028 (pshm node 0 of 1, process  1 of 19, pid=25536)
+UPCR: UPC thread  2 of 19 on nid00028 (pshm node 0 of 1, process  2 of 19, pid=25537)
+UPCR: UPC thread  3 of 19 on nid00028 (pshm node 0 of 1, process  3 of 19, pid=25538)
+UPCR: UPC thread  4 of 19 on nid00028 (pshm node 0 of 1, process  4 of 19, pid=25539)
+UPCR: UPC thread  5 of 19 on nid00028 (pshm node 0 of 1, process  5 of 19, pid=25540)
+UPCR: UPC thread  6 of 19 on nid00028 (pshm node 0 of 1, process  6 of 19, pid=25541)
+UPCR: UPC thread  8 of 19 on nid00028 (pshm node 0 of 1, process  8 of 19, pid=25543)
+UPCR: UPC thread 10 of 19 on nid00028 (pshm node 0 of 1, process 10 of 19, pid=25545)
+UPCR: UPC thread 11 of 19 on nid00028 (pshm node 0 of 1, process 11 of 19, pid=25546)
+UPCR: UPC thread 12 of 19 on nid00028 (pshm node 0 of 1, process 12 of 19, pid=25547)
+UPCR: UPC thread 13 of 19 on nid00028 (pshm node 0 of 1, process 13 of 19, pid=25548)
+UPCR: UPC thread 14 of 19 on nid00028 (pshm node 0 of 1, process 14 of 19, pid=25549)
+UPCR: UPC thread 15 of 19 on nid00028 (pshm node 0 of 1, process 15 of 19, pid=25550)
+UPCR: UPC thread 16 of 19 on nid00028 (pshm node 0 of 1, process 16 of 19, pid=25551)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 19
+Input reading time: 0.045202 seconds
+Graph construction time: 0.665211 seconds
+Graph traversal time: 0.174515 seconds
+Set up lock time: 0.205161 seconds
+UPCR: UPC thread  0 of 20 on nid00028 (pshm node 0 of 1, process  0 of 20, pid=25806)
+UPCR: UPC thread 16 of 20 on nid00028 (pshm node 0 of 1, process 16 of 20, pid=25822)
+UPCR: UPC thread  1 of 20 on nid00028 (pshm node 0 of 1, process  1 of 20, pid=25807)
+UPCR: UPC thread  2 of 20 on nid00028 (pshm node 0 of 1, process  2 of 20, pid=25808)
+UPCR: UPC thread  3 of 20 on nid00028 (pshm node 0 of 1, process  3 of 20, pid=25809)
+UPCR: UPC thread  4 of 20 on nid00028 (pshm node 0 of 1, process  4 of 20, pid=25810)
+UPCR: UPC thread  5 of 20 on nid00028 (pshm node 0 of 1, process  5 of 20, pid=25811)
+UPCR: UPC thread  6 of 20 on nid00028 (pshm node 0 of 1, process  6 of 20, pid=25812)
+UPCR: UPC thread  7 of 20 on nid00028 (pshm node 0 of 1, process  7 of 20, pid=25813)
+UPCR: UPC thread  8 of 20 on nid00028 (pshm node 0 of 1, process  8 of 20, pid=25814)
+UPCR: UPC thread  9 of 20 on nid00028 (pshm node 0 of 1, process  9 of 20, pid=25815)
+UPCR: UPC thread 10 of 20 on nid00028 (pshm node 0 of 1, process 10 of 20, pid=25816)
+UPCR: UPC thread 11 of 20 on nid00028 (pshm node 0 of 1, process 11 of 20, pid=25817)
+UPCR: UPC thread 12 of 20 on nid00028 (pshm node 0 of 1, process 12 of 20, pid=25818)
+UPCR: UPC thread 13 of 20 on nid00028 (pshm node 0 of 1, process 13 of 20, pid=25819)
+UPCR: UPC thread 14 of 20 on nid00028 (pshm node 0 of 1, process 14 of 20, pid=25820)
+UPCR: UPC thread 15 of 20 on nid00028 (pshm node 0 of 1, process 15 of 20, pid=25821)
+UPCR: UPC thread 17 of 20 on nid00028 (pshm node 0 of 1, process 17 of 20, pid=25823)
+UPCR: UPC thread 18 of 20 on nid00028 (pshm node 0 of 1, process 18 of 20, pid=25824)
+UPCR: UPC thread 19 of 20 on nid00028 (pshm node 0 of 1, process 19 of 20, pid=25825)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 20
+Input reading time: 0.028740 seconds
+Graph construction time: 0.655413 seconds
+Graph traversal time: 0.197598 seconds
+Set up lock time: 0.195758 seconds
+UPCR: UPC thread  0 of 21 on nid00028 (pshm node 0 of 1, process  0 of 21, pid=26066)
+UPCR: UPC thread  6 of 21 on nid00028 (pshm node 0 of 1, process  6 of 21, pid=26072)
+UPCR: UPC thread  8 of 21 on nid00028 (pshm node 0 of 1, process  8 of 21, pid=26074)
+UPCR: UPC thread 12 of 21 on nid00028 (pshm node 0 of 1, process 12 of 21, pid=26078)
+UPCR: UPC thread 15 of 21 on nid00028 (pshm node 0 of 1, process 15 of 21, pid=26081)
+UPCR: UPC thread 17 of 21 on nid00028 (pshm node 0 of 1, process 17 of 21, pid=26083)
+UPCR: UPC thread 18 of 21 on nid00028 (pshm node 0 of 1, process 18 of 21, pid=26084)
+UPCR: UPC thread  1 of 21 on nid00028 (pshm node 0 of 1, process  1 of 21, pid=26067)
+UPCR: UPC thread  2 of 21 on nid00028 (pshm node 0 of 1, process  2 of 21, pid=26068)
+UPCR: UPC thread  3 of 21 on nid00028 (pshm node 0 of 1, process  3 of 21, pid=26069)
+UPCR: UPC thread  4 of 21 on nid00028 (pshm node 0 of 1, process  4 of 21, pid=26070)
+UPCR: UPC thread  5 of 21 on nid00028 (pshm node 0 of 1, process  5 of 21, pid=26071)
+UPCR: UPC thread  7 of 21 on nid00028 (pshm node 0 of 1, process  7 of 21, pid=26073)
+UPCR: UPC thread  9 of 21 on nid00028 (pshm node 0 of 1, process  9 of 21, pid=26075)
+UPCR: UPC thread 10 of 21 on nid00028 (pshm node 0 of 1, process 10 of 21, pid=26076)
+UPCR: UPC thread 11 of 21 on nid00028 (pshm node 0 of 1, process 11 of 21, pid=26077)
+UPCR: UPC thread 13 of 21 on nid00028 (pshm node 0 of 1, process 13 of 21, pid=26079)
+UPCR: UPC thread 14 of 21 on nid00028 (pshm node 0 of 1, process 14 of 21, pid=26080)
+UPCR: UPC thread 16 of 21 on nid00028 (pshm node 0 of 1, process 16 of 21, pid=26082)
+UPCR: UPC thread 19 of 21 on nid00028 (pshm node 0 of 1, process 19 of 21, pid=26085)
+UPCR: UPC thread 20 of 21 on nid00028 (pshm node 0 of 1, process 20 of 21, pid=26086)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 21
+Input reading time: 0.026493 seconds
+Graph construction time: 0.667302 seconds
+Graph traversal time: 0.182996 seconds
+Set up lock time: 0.212835 seconds
+UPCR: UPC thread  0 of 22 on nid00028 (pshm node 0 of 1, process  0 of 22, pid=26360)
+UPCR: UPC thread 14 of 22 on nid00028 (pshm node 0 of 1, process 14 of 22, pid=26374)
+UPCR: UPC thread  1 of 22 on nid00028 (pshm node 0 of 1, process  1 of 22, pid=26361)
+UPCR: UPC thread  2 of 22 on nid00028 (pshm node 0 of 1, process  2 of 22, pid=26362)
+UPCR: UPC thread  3 of 22 on nid00028 (pshm node 0 of 1, process  3 of 22, pid=26363)
+UPCR: UPC thread  4 of 22 on nid00028 (pshm node 0 of 1, process  4 of 22, pid=26364)
+UPCR: UPC thread  5 of 22 on nid00028 (pshm node 0 of 1, process  5 of 22, pid=26365)
+UPCR: UPC thread  6 of 22 on nid00028 (pshm node 0 of 1, process  6 of 22, pid=26366)
+UPCR: UPC thread  7 of 22 on nid00028 (pshm node 0 of 1, process  7 of 22, pid=26367)
+UPCR: UPC thread  8 of 22 on nid00028 (pshm node 0 of 1, process  8 of 22, pid=26368)
+UPCR: UPC thread  9 of 22 on nid00028 (pshm node 0 of 1, process  9 of 22, pid=26369)
+UPCR: UPC thread 10 of 22 on nid00028 (pshm node 0 of 1, process 10 of 22, pid=26370)
+UPCR: UPC thread 11 of 22 on nid00028 (pshm node 0 of 1, process 11 of 22, pid=26371)
+UPCR: UPC thread 13 of 22 on nid00028 (pshm node 0 of 1, process 13 of 22, pid=26373)
+UPCR: UPC thread 15 of 22 on nid00028 (pshm node 0 of 1, process 15 of 22, pid=26375)
+UPCR: UPC thread 16 of 22 on nid00028 (pshm node 0 of 1, process 16 of 22, pid=26376)
+UPCR: UPC thread 17 of 22 on nid00028 (pshm node 0 of 1, process 17 of 22, pid=26377)
+UPCR: UPC thread 18 of 22 on nid00028 (pshm node 0 of 1, process 18 of 22, pid=26378)
+UPCR: UPC thread 19 of 22 on nid00028 (pshm node 0 of 1, process 19 of 22, pid=26379)
+UPCR: UPC thread 20 of 22 on nid00028 (pshm node 0 of 1, process 20 of 22, pid=26380)
+UPCR: UPC thread 21 of 22 on nid00028 (pshm node 0 of 1, process 21 of 22, pid=26381)
+UPCR: UPC thread 12 of 22 on nid00028 (pshm node 0 of 1, process 12 of 22, pid=26372)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 22
+Input reading time: 0.039413 seconds
+Graph construction time: 0.658173 seconds
+Graph traversal time: 0.182820 seconds
+Set up lock time: 0.201189 seconds
+UPCR: UPC thread  0 of 23 on nid00028 (pshm node 0 of 1, process  0 of 23, pid=26640)
+UPCR: UPC thread  4 of 23 on nid00028 (pshm node 0 of 1, process  4 of 23, pid=26644)
+UPCR: UPC thread  5 of 23 on nid00028 (pshm node 0 of 1, process  5 of 23, pid=26645)
+UPCR: UPC thread 12 of 23 on nid00028 (pshm node 0 of 1, process 12 of 23, pid=26652)
+UPCR: UPC thread  1 of 23 on nid00028 (pshm node 0 of 1, process  1 of 23, pid=26641)
+UPCR: UPC thread  2 of 23 on nid00028 (pshm node 0 of 1, process  2 of 23, pid=26642)
+UPCR: UPC thread  3 of 23 on nid00028 (pshm node 0 of 1, process  3 of 23, pid=26643)
+UPCR: UPC thread  6 of 23 on nid00028 (pshm node 0 of 1, process  6 of 23, pid=26646)
+UPCR: UPC thread  7 of 23 on nid00028 (pshm node 0 of 1, process  7 of 23, pid=26647)
+UPCR: UPC thread  8 of 23 on nid00028 (pshm node 0 of 1, process  8 of 23, pid=26648)
+UPCR: UPC thread  9 of 23 on nid00028 (pshm node 0 of 1, process  9 of 23, pid=26649)
+UPCR: UPC thread 10 of 23 on nid00028 (pshm node 0 of 1, process 10 of 23, pid=26650)
+UPCR: UPC thread 11 of 23 on nid00028 (pshm node 0 of 1, process 11 of 23, pid=26651)
+UPCR: UPC thread 13 of 23 on nid00028 (pshm node 0 of 1, process 13 of 23, pid=26653)
+UPCR: UPC thread 14 of 23 on nid00028 (pshm node 0 of 1, process 14 of 23, pid=26654)
+UPCR: UPC thread 15 of 23 on nid00028 (pshm node 0 of 1, process 15 of 23, pid=26655)
+UPCR: UPC thread 16 of 23 on nid00028 (pshm node 0 of 1, process 16 of 23, pid=26656)
+UPCR: UPC thread 17 of 23 on nid00028 (pshm node 0 of 1, process 17 of 23, pid=26657)
+UPCR: UPC thread 18 of 23 on nid00028 (pshm node 0 of 1, process 18 of 23, pid=26658)
+UPCR: UPC thread 19 of 23 on nid00028 (pshm node 0 of 1, process 19 of 23, pid=26659)
+UPCR: UPC thread 20 of 23 on nid00028 (pshm node 0 of 1, process 20 of 23, pid=26660)
+UPCR: UPC thread 21 of 23 on nid00028 (pshm node 0 of 1, process 21 of 23, pid=26661)
+UPCR: UPC thread 22 of 23 on nid00028 (pshm node 0 of 1, process 22 of 23, pid=26662)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 23
+Input reading time: 0.028435 seconds
+Graph construction time: 0.664463 seconds
+Graph traversal time: 0.181588 seconds
+Set up lock time: 0.216784 seconds
+UPCR: UPC thread  0 of 24 on nid00028 (pshm node 0 of 1, process  0 of 24, pid=26763)
+UPCR: UPC thread  2 of 24 on nid00028 (pshm node 0 of 1, process  2 of 24, pid=26765)
+UPCR: UPC thread 10 of 24 on nid00028 (pshm node 0 of 1, process 10 of 24, pid=26773)
+UPCR: UPC thread  1 of 24 on nid00028 (pshm node 0 of 1, process  1 of 24, pid=26764)
+UPCR: UPC thread  3 of 24 on nid00028 (pshm node 0 of 1, process  3 of 24, pid=26766)
+UPCR: UPC thread  4 of 24 on nid00028 (pshm node 0 of 1, process  4 of 24, pid=26767)
+UPCR: UPC thread  5 of 24 on nid00028 (pshm node 0 of 1, process  5 of 24, pid=26768)
+UPCR: UPC thread  6 of 24 on nid00028 (pshm node 0 of 1, process  6 of 24, pid=26769)
+UPCR: UPC thread  7 of 24 on nid00028 (pshm node 0 of 1, process  7 of 24, pid=26770)
+UPCR: UPC thread  8 of 24 on nid00028 (pshm node 0 of 1, process  8 of 24, pid=26771)
+UPCR: UPC thread  9 of 24 on nid00028 (pshm node 0 of 1, process  9 of 24, pid=26772)
+UPCR: UPC thread 11 of 24 on nid00028 (pshm node 0 of 1, process 11 of 24, pid=26774)
+UPCR: UPC thread 12 of 24 on nid00028 (pshm node 0 of 1, process 12 of 24, pid=26775)
+UPCR: UPC thread 13 of 24 on nid00028 (pshm node 0 of 1, process 13 of 24, pid=26776)
+UPCR: UPC thread 14 of 24 on nid00028 (pshm node 0 of 1, process 14 of 24, pid=26777)
+UPCR: UPC thread 15 of 24 on nid00028 (pshm node 0 of 1, process 15 of 24, pid=26778)
+UPCR: UPC thread 16 of 24 on nid00028 (pshm node 0 of 1, process 16 of 24, pid=26779)
+UPCR: UPC thread 17 of 24 on nid00028 (pshm node 0 of 1, process 17 of 24, pid=26780)
+UPCR: UPC thread 18 of 24 on nid00028 (pshm node 0 of 1, process 18 of 24, pid=26781)
+UPCR: UPC thread 19 of 24 on nid00028 (pshm node 0 of 1, process 19 of 24, pid=26782)
+UPCR: UPC thread 20 of 24 on nid00028 (pshm node 0 of 1, process 20 of 24, pid=26783)
+UPCR: UPC thread 21 of 24 on nid00028 (pshm node 0 of 1, process 21 of 24, pid=26784)
+UPCR: UPC thread 22 of 24 on nid00028 (pshm node 0 of 1, process 22 of 24, pid=26785)
+UPCR: UPC thread 23 of 24 on nid00028 (pshm node 0 of 1, process 23 of 24, pid=26786)
+Detected 4514197 kmers in text UFX file: test
+/global/u1/p/phoenix4/hw3/myhw3/cs267hw3/./pgen: Input set: test
+Number of UPC threads: 24
+Input reading time: 0.028760 seconds
+Graph construction time: 0.639160 seconds
+Graph traversal time: 0.185189 seconds
+Set up lock time: 0.206067 seconds
