@@ -1,0 +1,1000 @@
+node 2 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 2/168
+node 44 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 44/168
+node 65 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 65/168
+node 108 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 108/168
+node 126 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 126/168
+node 22 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 22/168
+node 1 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 1/168
+node 46 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 46/168
+node 67 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 67/168
+node 110 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 110/168
+node 130 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 130/168
+node 23 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 23/168
+*** Caught a fatal signal: SIGBUS(7) on node 10/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 147 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 147/168
+node 84 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 84/168
+node 131 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 131/168
+node 25 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 25/168
+node 42 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 42/168
+node 70 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 70/168
+node 105 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 105/168
+node 0 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 0/168
+node 132 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 132/168
+node 27 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 27/168
+node 148 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 148/168
+node 43 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 43/168
+node 63 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 63/168
+node 106 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 106/168
+node 85 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 85/168
+node 28 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 28/168
+node 3 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 3/168
+*** Caught a fatal signal: SIGBUS(7) on node 18/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 149 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 149/168
+node 107 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 107/168
+node 86 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 86/168
+node 127 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 127/168
+node 21 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 21/168
+node 64 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 64/168
+node 4 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 4/168
+node 45 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 45/168
+node 128 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 128/168
+node 150 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 150/168
+node 87 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 87/168
+node 6 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 6/168
+node 66 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 66/168
+node 109 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 109/168
+*** Caught a fatal signal: SIGBUS(7) on node 8/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 151 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 151/168
+node 47 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 47/168
+node 88 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 88/168
+node 129 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 129/168
+node 24 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 24/168
+*** Caught a fatal signal: SIGBUS(7) on node 11/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 12/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 152 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 152/168
+node 48 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 48/168
+node 68 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 68/168
+node 111 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 111/168
+node 89 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 89/168
+*** Caught a fatal signal: SIGBUS(7) on node 14/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 26 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 26/168
+*** Caught a fatal signal: SIGBUS(7) on node 16/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 153 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 153/168
+node 49 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 49/168
+node 69 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 69/168
+node 112 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 112/168
+node 90 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 90/168
+node 133 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 133/168
+*** Caught a fatal signal: SIGBUS(7) on node 19/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 50/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 71/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 114/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 134/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 29/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 20/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 154 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 154/168
+*** Caught a fatal signal: SIGBUS(7) on node 52/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 72/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 115/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 91 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 91/168
+*** Caught a fatal signal: SIGBUS(7) on node 136/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 30/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 5/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 155/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 54/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 73/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 117/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 92/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 137/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 31/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 7/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 157/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 51/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 74/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 118/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 94/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 138/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 32/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 9/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 156/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 53/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 75/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 119/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 96/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 139/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 33/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 13/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 158/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 55/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 76/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 120/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 93/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 140/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 34/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 15/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 159/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 56/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 77/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 113/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 95/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 142/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 35/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 17/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 160/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 57/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 78/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 116/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 97/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 135/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 36/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 161/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 58/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 79/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 121/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 98/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 141/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 37/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 162/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 59/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 80/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 122/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 99/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 143/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 38/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 163/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 60/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 81/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 123/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 100/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 144/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 39/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 165/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 61/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 82/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 124/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 101/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 145/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 40/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 166/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 62/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 83/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 125/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 102/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 146/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 41/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 167/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 103/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 164/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 104/168
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+srun: error: nid00094: tasks 126-133: Aborted
+srun: error: nid00094: tasks 134-146: Bus error
+srun: error: nid00093: tasks 105-112: Aborted
+srun: error: nid00093: tasks 113-125: Bus error
+srun: error: nid00090: tasks 42-49: Aborted
+srun: error: nid00090: tasks 50-62: Bus error
+srun: error: nid00092: tasks 84-91: Aborted
+srun: error: nid00092: tasks 92-104: Bus error
+srun: error: nid00095: tasks 147-154: Aborted
+srun: error: nid00095: tasks 155-167: Bus error
+srun: error: nid00089: tasks 21-28: Aborted
+srun: error: nid00089: tasks 29-41: Bus error
+srun: error: nid00088: tasks 0-4,6: Aborted
+srun: error: nid00088: tasks 5,7-20: Bus error
+srun: error: nid00091: tasks 63-70: Aborted
+srun: error: nid00091: tasks 71-83: Bus error
+node 14 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 14/192
+node 182 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 182/192
+node 86 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 86/192
+node 62 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 62/192
+node 6 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 6/192
+node 4 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 4/192
+node 70 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 70/192
+node 98 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 98/192
+node 78 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 78/192
+node 175 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 175/192
+node 123 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 123/192
+node 26 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 26/192
+node 146 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 146/192
+node 22 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 22/192
+node 119 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 119/192
+node 49 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 140 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 140/192
+node 38 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 38/192
+node 94 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 94/192
+node 190 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 190/192
+node 163 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 163/192
+node 142 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 142/192
+node 20 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 20/192
+node 44 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 44/192
+node 116 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 116/192
+node 72 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 72/192
+*** Caught a fatal signal: SIGABRT(6) on node 49/192
+node 171 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 2 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 2/192
+node 102 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 102/192
+node 54 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 54/192
+node 150 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 150/192
+*** Caught a fatal signal: SIGBUS(7) on node 76/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 171/192
+node 0 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 0/192
+*** Caught a fatal signal: SIGBUS(7) on node 74/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 68 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 127 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 127/192
+node 30 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 30/192
+*** Caught a fatal signal: SIGBUS(7) on node 82/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 166 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 166/192
+node 115 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 115/192
+*** Caught a fatal signal: SIGBUS(7) on node 75/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 68/192
+node 18 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 18/192
+node 46 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 46/192
+*** Caught a fatal signal: SIGBUS(7) on node 77/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 12/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 28 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 28/192
+*** Caught a fatal signal: SIGBUS(7) on node 79/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 1/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 83/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 8/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 85/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 10/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 45 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 45/192
+*** Caught a fatal signal: SIGBUS(7) on node 87/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 176 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 176/192
+*** Caught a fatal signal: SIGBUS(7) on node 11/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 88/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 124 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 124/192
+*** Caught a fatal signal: SIGBUS(7) on node 15/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 90/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 16/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 108 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 108/192
+*** Caught a fatal signal: SIGBUS(7) on node 73/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 138 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 138/192
+*** Caught a fatal signal: SIGBUS(7) on node 17/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 101 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 101/192
+*** Caught a fatal signal: SIGBUS(7) on node 80/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 53 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 53/192
+node 168 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 168/192
+node 167 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 167/192
+*** Caught a fatal signal: SIGBUS(7) on node 23/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 81/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 136 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 136/192
+*** Caught a fatal signal: SIGBUS(7) on node 3/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 84/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 173/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 160 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 160/192
+*** Caught a fatal signal: SIGBUS(7) on node 5/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 91/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 174/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 7/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 92/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 178/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 9/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 93/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 50 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 50/192
+*** Caught a fatal signal: SIGBUS(7) on node 180/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 13/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 95/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 185/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 19/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 89/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 187/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 21/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 188/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 48 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 48/192
+*** Caught a fatal signal: SIGBUS(7) on node 189/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 144 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 144/192
+*** Caught a fatal signal: SIGBUS(7) on node 191/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 155/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 117 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 117/192
+*** Caught a fatal signal: SIGBUS(7) on node 58/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 169/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 134 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 134/192
+*** Caught a fatal signal: SIGBUS(7) on node 149/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 24 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 24/192
+*** Caught a fatal signal: SIGBUS(7) on node 66/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 170/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 154/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 37/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 118 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 118/192
+*** Caught a fatal signal: SIGBUS(7) on node 69/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 172/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 157/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 40/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 96 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 96/192
+*** Caught a fatal signal: SIGBUS(7) on node 51/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 177/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 145/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 36/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 52/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 179/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 147/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 42/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 103/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 55/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 181/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 121 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 121/192
+*** Caught a fatal signal: SIGBUS(7) on node 151/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 43/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 100/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 56/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 183/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 152/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 47/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 106/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 57/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 184/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 153/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 25/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 112/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 59/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 186/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 122 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 122/192
+*** Caught a fatal signal: SIGBUS(7) on node 156/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 27/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 97/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 60/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 158/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 29/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 99/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 63/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+node 120 error gasnetc_rdma_put_bulk() at /tmp/bupc-2.22.0-edison_stable_gcc/src/gasnet/gemini-conduit/gasnet_gemini.c:1832: Put failed with GNI_RC_INVALID_PARAM
+*** FATAL ERROR: fatalerror (see above)
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 159/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 31/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 104/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 64/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 161/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 32/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 105/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 67/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGABRT(6) on node 120/192
+*** Caught a fatal signal: SIGBUS(7) on node 162/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 33/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 107/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 71/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 128/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 164/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 34/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 110/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 61/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 133/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 165/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 35/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 111/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 65/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 139/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 148/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 39/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 114/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 125/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 41/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 109/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 126/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 113/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 129/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 130/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 131/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 132/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 135/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 137/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 141/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+*** Caught a fatal signal: SIGBUS(7) on node 143/192
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+srun: error: nid00094: tasks 144,146,150,160,163,166-167: Aborted
+srun: error: nid00094: tasks 145,147-149,151-159,161-162,164-165: Bus error
+srun: error: nid00089: tasks 24,26,28,30,38,44-46: Aborted
+srun: error: nid00089: tasks 25,27,29,31-37,39-43,47: Bus error
+srun: error: nid00095: tasks 168,171,175-176,182,190: Aborted
+srun: error: nid00095: tasks 169-170,172-174,177-181,183-189,191: Bus error
+srun: error: nid00090: tasks 48-50,53-54,62,68,70: Aborted
+srun: error: nid00090: tasks 51-52,55-61,63-67,69,71: Bus error
+srun: error: nid00092: tasks 96,98,101-102,108,115-119: Aborted
+srun: error: nid00092: tasks 97,99-100,103-107,109-114: Bus error
+srun: error: nid00091: tasks 72,78,86,94: Aborted
+srun: error: nid00091: tasks 73-77,79-85,87-93,95: Bus error
+srun: error: nid00088: tasks 0,2,4,6,14,18,20,22: Aborted
+srun: error: nid00088: tasks 1,3,5,7-13,15-17,19,21,23: Bus error
+srun: error: nid00093: tasks 120-124,127,134,136,138,140,142: Aborted
+srun: error: nid00093: tasks 125-126,128-133,135,137,139,141,143: Bus error

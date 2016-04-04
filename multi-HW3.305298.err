@@ -1,0 +1,9 @@
+srun: Warning: can't run 1 processes on 8 nodes, setting nnodes to 1
+UPC Runtime error: out of shared memory
+  Local shared memory in use:     0 MB per-thread,     0 MB total
+  Global shared memory in use:  823 MB per-thread,   823 MB total
+  Total shared memory limit:   1024 MB per-thread,  1024 MB total
+upc_all_alloc unable to service request from thread 0 for 216006656 more bytes
+
+NOTICE: Before reporting bugs, run with GASNET_BACKTRACE=1 in the environment to generate a backtrace. 
+srun: error: nid00008: task 0: Exited with exit code 255
